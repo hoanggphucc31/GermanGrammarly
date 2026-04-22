@@ -1,392 +1,397 @@
-# Topic 5: Cases Basics and Prepositions
+# Bài 5: Các cách (Kasus) & Giới từ (Präpositionen)
 
-## Lesson 5.1: Nominative and Accusative
+> **Mục tiêu bài học:** Hiểu hệ thống 3 cách quan trọng nhất ở A1 (Nominativ / Akkusativ / Dativ), biết cách mạo từ & đại từ thay đổi theo từng cách, nắm vững giới từ đi với Akkusativ, Dativ, và giới từ hai chiều (Wechselpräpositionen).
 
-### Theory
+---
 
-Cases show the function of a noun in a sentence.
+## 1 · Cách (Kasus) là gì? — Bức tranh toàn cảnh
 
-At A1 level, the most important cases are:
+Trong tiếng Đức, **cách** cho biết **vai trò** của danh từ trong câu. Mạo từ, đại từ, và tính từ thay đổi hình thức tuỳ theo cách.
 
-- Nominative = the subject
-- Accusative = the direct object
-
-### Articles in nominative
-
-| Case | Masculine | Feminine | Neuter | Plural |
-|---|---|---|---|---|
-| Nominative definite | der | die | das | die |
-| Nominative indefinite | ein | eine | ein | - |
-
-### Articles in accusative
-
-| Case | Masculine | Feminine | Neuter | Plural |
-|---|---|---|---|---|
-| Accusative definite | den | die | das | die |
-| Accusative indefinite | einen | eine | ein | - |
-
-### Rule
-
-Only masculine nouns show a clear article change in the accusative:
-
-- `der -> den`
-- `ein -> einen`
-
-### Formula
-
-`Subject (Nom.) + verb + object (Acc.)`
-
-Example:
-
-- `Ich sehe den Mann.`
-
-### Common mistakes
-
-1. Forgetting `den/einen` with masculine objects
-2. Thinking every noun changes strongly in the accusative
-3. Using nominative after verbs like `sehen`, `kaufen`, and `haben`
-
-## Lesson 5.2: Dative Basics and Common Prepositions
-
-### Theory
-
-At A1 level, you should know a few basic dative patterns.
-
-### Dative articles
-
-| Case | Masculine | Feminine | Neuter | Plural |
-|---|---|---|---|---|
-| Dative definite | dem | der | dem | den |
-| Dative indefinite | einem | einer | einem | - |
-
-### Common dative verbs and phrases
-
-- `helfen` + dative
-- `danken` + dative
-- `gehoeren` + dative
-
-Examples:
-
-- `Ich helfe dem Mann.`
-- `Das Buch gehoert der Frau.`
-
-### Very common prepositions at A1
-
-#### Accusative prepositions
-
-- `fuer` = for
-- `durch` = through
-- `ohne` = without
-- `gegen` = against / around
-- `um` = around / at a time
-
-#### Dative prepositions
-
-- `mit` = with
-- `nach` = to / after
-- `aus` = from / out of
-- `bei` = at / with
-- `von` = from / of
-- `zu` = to
-
-### Formula
-
-`Preposition + correct case`
-
-Examples:
-
-- `fuer einen Freund`
-- `mit dem Bus`
-- `aus der Tuerkei`
-
-### Common mistakes
-
-1. Using nominative after a preposition
-2. Mixing up `fuer` and `mit`
-3. Forgetting to change the article after the preposition
-4. Using `zu` instead of `nach` with cities and many countries
-
-## Examples for Lesson 5.1
-
-| German | English |
-|---|---|
-| Der Mann kauft einen Apfel. | The man buys an apple. |
-| Ich sehe den Lehrer. | I see the teacher. |
-| Sie hat eine Tasche. | She has a bag. |
-| Wir kaufen das Brot. | We buy the bread. |
-| Er kennt die Frau. | He knows the woman. |
-| Ich brauche einen Stift. | I need a pen. |
-| Das Kind isst den Kuchen. | The child eats the cake. |
-| Du liest ein Buch. | You read a book. |
-| Ich nehme den Bus. | I take the bus. |
-| Sie besucht einen Freund. | She visits a friend. |
-
-## Examples for Lesson 5.2
-
-| German | English |
-|---|---|
-| Ich fahre mit dem Bus. | I go by bus. |
-| Das Geschenk ist fuer meinen Bruder. | The gift is for my brother. |
-| Er kommt aus Italien. | He comes from Italy. |
-| Wir gehen zu der Schule. | We go to the school. |
-| Ich wohne bei meinen Eltern. | I live with my parents. |
-| Sie faehrt nach Berlin. | She travels to Berlin. |
-| Das Buch gehoert dem Mann. | The book belongs to the man. |
-| Ich helfe der Frau. | I help the woman. |
-| Der Brief ist von einem Freund. | The letter is from a friend. |
-| Ohne meinen Kaffee bin ich mude. | Without my coffee I am tired. |
-
-## Lesson 5.3: Akkusativ in More Detail
-
-### Theory
-
-The accusative case is usually used for the direct object. This is the person or thing that receives the action directly.
-
-Examples:
-
-- `Ich sehe den Mann.`
-- `Sie kauft eine Tasche.`
-
-### Main question
-
-Ask: `Wen?` or `Was?`
-
-- `Ich sehe den Lehrer.` -> Wen sehe ich? `den Lehrer`
-- `Ich kaufe das Buch.` -> Was kaufe ich? `das Buch`
-
-### Accusative articles summary
-
-| Gender | Definite | Indefinite | Negative |
+| Cách | Vai trò | Câu hỏi | Ví dụ |
 |---|---|---|---|
-| Masculine | den | einen | keinen |
-| Feminine | die | eine | keine |
-| Neuter | das | ein | kein |
-| Plural | die | - | keine |
+| **Nominativ** (Nom.) | Chủ ngữ — ai/cái gì **làm** hành động | **Wer?** / **Was?** | **Der Mann** kauft Brot. |
+| **Akkusativ** (Akk.) | Tân ngữ trực tiếp — ai/cái gì **bị tác động** | **Wen?** / **Was?** | Ich sehe **den Mann**. |
+| **Dativ** (Dat.) | Tân ngữ gián tiếp — **cho ai** / **với ai** | **Wem?** | Ich helfe **dem Mann**. |
 
-### Personal pronouns in Akkusativ
+```
+  Der Mann    kauft    einen Apfel    für seine Frau.
+  ─── Nom. ──  Verb   ─── Akk. ───   ── Akk. (giới từ) ──
 
-| Nominative | Akkusativ | Meaning |
-|---|---|---|
-| ich | mich | me |
-| du | dich | you |
-| er | ihn | him |
-| sie | sie | her |
-| es | es | it |
-| wir | uns | us |
-| ihr | euch | you all |
-| sie/Sie | sie/Sie | them / you formal |
+  Ich   gebe    dem Kind    einen Ball.
+  Nom.   Verb   ── Dat. ──  ── Akk. ──
+```
 
-### Common verbs with Akkusativ at A1
+> 💡 **Mẹo Việt hoá:** Nom. ≈ "**ai** làm gì", Akk. ≈ "làm **cái gì**", Dat. ≈ "cho **ai**"
 
-- `haben`
-- `sehen`
-- `kaufen`
-- `brauchen`
-- `nehmen`
-- `finden`
-- `lesen`
-- `essen`
+---
 
-### Structure formulas
+## 2 · Nominativ — Cách chủ ngữ
 
-`Subject + verb + accusative object`
+Dùng khi danh từ là **chủ ngữ** hoặc sau động từ **sein**:
 
-- `Ich habe einen Bruder.`
+- **Der Lehrer** ist nett. *(Ai nett? → der Lehrer = Nom.)*
+- Das ist **ein Buch**. *(sau sein → Nom.)*
 
-`Subject + verb + kein + accusative noun`
+### Bảng mạo từ Nominativ
 
-- `Ich habe keinen Hund.`
-
-`Subject + verb + accusative pronoun`
-
-- `Ich sehe ihn.`
-
-### Common mistakes
-
-1. Only changing the article with masculine nouns but forgetting `keinen`
-2. Saying `der Mann` instead of `den Mann` after a verb
-3. Forgetting to change pronouns: `ich sehe er` is wrong, `ich sehe ihn` is correct
-
-## Examples for Lesson 5.3
-
-| German | English |
-|---|---|
-| Ich habe einen Bruder. | I have a brother. |
-| Sie kauft eine Tasche. | She buys a bag. |
-| Wir brauchen ein Auto. | We need a car. |
-| Ich sehe den Lehrer. | I see the teacher. |
-| Er nimmt den Bus. | He takes the bus. |
-| Ich finde das Buch interessant. | I find the book interesting. |
-| Kennst du ihn? | Do you know him? |
-| Ich sehe dich dort. | I see you there. |
-| Wir haben keine Zeit. | We have no time. |
-| Sie kauft keinen Kaffee. | She buys no coffee. |
-
-## Lesson 5.4: Dativ in More Detail
-
-### Theory
-
-The dative case is often used for the indirect object. It often has the meaning of "to someone," "for someone," or "belonging to someone," depending on the sentence.
-
-### Main question
-
-Ask: `Wem?`
-
-- `Ich helfe dem Mann.` -> Wem helfe ich? `dem Mann`
-- `Das Buch gehoert der Frau.` -> Wem gehoert das Buch? `der Frau`
-
-### Dative articles summary
-
-| Gender | Definite | Indefinite | Negative |
-|---|---|---|---|
-| Masculine | dem | einem | keinem |
-| Feminine | der | einer | keiner |
-| Neuter | dem | einem | keinem |
-| Plural | den | - | keinen |
-
-### Personal pronouns in Dativ
-
-| Nominative | Dativ | Meaning |
-|---|---|---|
-| ich | mir | to me |
-| du | dir | to you |
-| er | ihm | to him |
-| sie | ihr | to her |
-| es | ihm | to it |
-| wir | uns | to us |
-| ihr | euch | to you all |
-| sie/Sie | ihnen/Ihnen | to them / to you formal |
-
-### Common verbs with Dativ at A1
-
-- `helfen`
-- `danken`
-- `gehoeren`
-- `gefallen` (basic but very common)
-
-### Common dative prepositions
-
-- `mit`
-- `nach`
-- `aus`
-- `bei`
-- `von`
-- `zu`
-
-### Structure formulas
-
-`Subject + dative verb + dative object`
-
-- `Ich helfe dem Kind.`
-
-`Subject + verb + dative preposition + noun`
-
-- `Ich fahre mit dem Bus.`
-
-`Subject + verb + dative pronoun`
-
-- `Ich helfe dir.`
-
-### Common mistakes
-
-1. Saying `den Mann` after `helfen` instead of `dem Mann`
-2. Forgetting that `mit` always takes the dative
-3. Saying `ich helfe dich` instead of `ich helfe dir`
-4. Forgetting `den` with plural dative nouns
-
-## Examples for Lesson 5.4
-
-| German | English |
-|---|---|
-| Ich helfe dem Mann. | I help the man. |
-| Sie dankt der Lehrerin. | She thanks the teacher. |
-| Das Buch gehoert dem Kind. | The book belongs to the child. |
-| Ich fahre mit dem Auto. | I go by car. |
-| Wir kommen aus der Schweiz. | We come from Switzerland. |
-| Er wohnt bei seinem Onkel. | He lives with his uncle. |
-| Ich gehe zu einer Freundin. | I go to a female friend. |
-| Der Kaffee gefaellt mir. | I like the coffee. |
-| Kannst du mir helfen? | Can you help me? |
-| Ich danke Ihnen. | I thank you. |
-
-## Lesson 5.5: Position and Place Articles at A1
-
-### Theory
-
-This lesson answers two very important questions:
-
-- `Wo?` = where, location
-- `Wohin?` = where to, direction or movement
-
-At A1 level, you should know the basic rule for these very common local prepositions:
-
-- `in`
-- `an`
-- `auf`
-- `unter`
-- `vor`
-- `hinter`
-- `neben`
-- `zwischen`
-
-These prepositions can take:
-
-- `Dativ` when talking about location (`Wo?`)
-- `Akkusativ` when talking about direction or movement (`Wohin?`)
-
-### Core rule
-
-`Wo? -> Dativ`
-
-- `Das Buch ist auf dem Tisch.`
-- `Ich bin in der Schule.`
-
-`Wohin? -> Akkusativ`
-
-- `Ich lege das Buch auf den Tisch.`
-- `Ich gehe in die Schule.`
-
-### Article patterns with local prepositions
-
-| Meaning | Masculine | Feminine | Neuter | Plural |
+| Loại | Maskulin | Feminin | Neutral | Plural |
 |---|---|---|---|---|
-| Where? (Dativ) | dem | der | dem | den |
-| Where to? (Akk.) | den | die | das | die |
+| Xác định | **der** | **die** | **das** | **die** |
+| Bất định | **ein** | **eine** | **ein** | — |
+| Phủ định | **kein** | **keine** | **kein** | **keine** |
 
-### Quick examples by preposition
+---
 
-- `in dem Zimmer` / `in das Zimmer`
-- `auf dem Tisch` / `auf den Tisch`
-- `an der Wand` / `an die Wand`
-- `unter dem Stuhl` / `unter den Stuhl`
+## 3 · Akkusativ — Cách tân ngữ trực tiếp
 
-### Very common contractions
+### 3.1 Khi nào dùng?
 
-| Full form | Common form |
+- Sau **hầu hết các động từ** (tân ngữ trực tiếp)
+- Sau **giới từ Akkusativ** (für, durch, ohne, gegen, um)
+
+### 3.2 Bảng mạo từ Akkusativ
+
+| Loại | Maskulin ⚠️ | Feminin | Neutral | Plural |
+|---|---|---|---|---|
+| Xác định | **den** | die | das | die |
+| Bất định | **einen** | eine | ein | — |
+| Phủ định | **keinen** | keine | kein | keine |
+
+> ⚠️ **CHỈ Maskulin thay đổi!** Feminin, Neutral, Plural giữ nguyên như Nominativ.
+
+### 3.3 So sánh Nominativ vs Akkusativ
+
+| | Nom. (Maskulin) | Akk. (Maskulin) | Khác nhau? |
+|---|---|---|---|
+| Xác định | der | **den** | ✅ |
+| Bất định | ein | **einen** | ✅ |
+| Phủ định | kein | **keinen** | ✅ |
+
+| | Nom. (Feminin) | Akk. (Feminin) | Khác nhau? |
+|---|---|---|---|
+| Xác định | die | die | ❌ giống nhau |
+| Bất định | eine | eine | ❌ giống nhau |
+
+### 3.4 Động từ phổ biến đi với Akkusativ (A1)
+
+| Động từ | Nghĩa | Ví dụ |
+|---|---|---|
+| haben | có | Ich habe **einen** Bruder. |
+| sehen | thấy | Ich sehe **den** Lehrer. |
+| kaufen | mua | Sie kauft **eine** Tasche. |
+| brauchen | cần | Wir brauchen **ein** Auto. |
+| nehmen | lấy | Er nimmt **den** Bus. |
+| essen | ăn | Das Kind isst **einen** Apfel. |
+| trinken | uống | Ich trinke **einen** Kaffee. |
+| lesen | đọc | Du liest **ein** Buch. |
+| finden | thấy (nghĩ rằng) | Ich finde **den** Film gut. |
+| besuchen | thăm | Sie besucht **einen** Freund. |
+| kennen | biết (quen) | Kennst du **ihn**? |
+
+### 3.5 Đại từ nhân xưng ở Akkusativ
+
+| Nominativ | Akkusativ | Nghĩa |
+|---|---|---|
+| ich | **mich** | tôi |
+| du | **dich** | bạn |
+| er | **ihn** | anh ấy |
+| sie | **sie** | cô ấy |
+| es | **es** | nó |
+| wir | **uns** | chúng tôi |
+| ihr | **euch** | các bạn |
+| sie/Sie | **sie/Sie** | họ / Ông-Bà |
+
+Ví dụ:
+- Ich sehe **dich**. *(Tôi thấy bạn.)*
+- Kennst du **ihn**? *(Bạn biết anh ấy không?)*
+- Er liebt **sie**. *(Anh ấy yêu cô ấy.)*
+
+---
+
+## 4 · Dativ — Cách tân ngữ gián tiếp
+
+### 4.1 Khi nào dùng?
+
+- Sau **động từ Dativ** (helfen, danken, gehören, gefallen)
+- Sau **giới từ Dativ** (mit, nach, aus, bei, von, zu, seit)
+- Khi giới từ hai chiều trả lời câu hỏi **Wo?**
+
+### 4.2 Bảng mạo từ Dativ
+
+| Loại | Maskulin | Feminin | Neutral | Plural |
+|---|---|---|---|---|
+| Xác định | **dem** | **der** | **dem** | **den** (+n) |
+| Bất định | **einem** | **einer** | **einem** | — |
+| Phủ định | **keinem** | **keiner** | **keinem** | **keinen** |
+
+> ⚠️ **Plural Dativ:** mạo từ = *den*, và danh từ thường thêm **-n** ở cuối:
+> *die Kinder → mit de**n** Kinder**n***, *die Freunde → bei de**n** Freunde**n***
+
+### 4.3 So sánh 3 cách — Bảng tổng hợp mạo từ xác định
+
+| Cách | Maskulin | Feminin | Neutral | Plural |
+|---|---|---|---|---|
+| **Nominativ** | der | die | das | die |
+| **Akkusativ** | **den** | die | das | die |
+| **Dativ** | **dem** | **der** | **dem** | **den** (+n) |
+
+### 4.4 So sánh 3 cách — Bảng tổng hợp mạo từ bất định
+
+| Cách | Maskulin | Feminin | Neutral |
+|---|---|---|---|
+| **Nominativ** | ein | eine | ein |
+| **Akkusativ** | **einen** | eine | ein |
+| **Dativ** | **einem** | **einer** | **einem** |
+
+### 4.5 Động từ phổ biến đi với Dativ (A1)
+
+| Động từ | Nghĩa | Ví dụ |
+|---|---|---|
+| helfen | giúp | Ich helfe **dem** Kind. |
+| danken | cảm ơn | Sie dankt **der** Lehrerin. |
+| gehören | thuộc về | Das Buch gehört **dem** Mann. |
+| gefallen | thích (ai thấy gì hay) | Der Film gefällt **mir**. |
+| antworten | trả lời | Er antwortet **dem** Lehrer. |
+
+> ⚠️ **Lỗi kinh điển:** *Ich helfe ~~dich~~* ❌ → *Ich helfe **dir*** ✅ (helfen + Dativ!)
+
+### 4.6 Đại từ nhân xưng ở Dativ
+
+| Nominativ | Dativ | Nghĩa |
+|---|---|---|
+| ich | **mir** | cho tôi |
+| du | **dir** | cho bạn |
+| er | **ihm** | cho anh ấy |
+| sie | **ihr** | cho cô ấy |
+| es | **ihm** | cho nó |
+| wir | **uns** | cho chúng tôi |
+| ihr | **euch** | cho các bạn |
+| sie/Sie | **ihnen/Ihnen** | cho họ / cho Ông-Bà |
+
+Ví dụ:
+- Kannst du **mir** helfen? *(Bạn có thể giúp tôi không?)*
+- Ich gebe **dir** das Buch. *(Tôi đưa sách cho bạn.)*
+- Das gefällt **ihm**. *(Anh ấy thích cái đó.)*
+
+### 4.7 Câu có cả Akkusativ và Dativ
+
+Một số động từ như **geben** (cho), **schenken** (tặng), **zeigen** (chỉ/cho xem) cần cả hai:
+
+```
+  Ich   gebe    dem Kind (Dat.)    einen Ball (Akk.).
+  Nom.   Verb   ── cho ai ──       ── cái gì ──
+```
+
+> 💡 **Thứ tự:** Dativ (cho ai) đứng **trước** Akkusativ (cái gì) — khi cả hai là danh từ.
+
+---
+
+## 5 · Giới từ đi với Akkusativ (Akkusativpräpositionen)
+
+### Mẹo nhớ: **FUDGO** (hoặc **DOGFU**)
+
+| Giới từ | Nghĩa | Ví dụ |
+|---|---|---|
+| **f**ür | cho, dành cho | Das ist **für** mein**en** Bruder. |
+| **u**m | quanh, vào lúc (giờ) | Wir treffen uns **um** 8 Uhr. |
+| **d**urch | qua, xuyên qua | Wir gehen **durch** d**en** Park. |
+| **g**egen | chống lại, khoảng | Er fährt **gegen** d**en** Baum. |
+| **o**hne | không có | Ich gehe **ohne** mein**en** Kaffee. |
+
+> Sau các giới từ này, danh từ **luôn** ở Akkusativ!
+
+---
+
+## 6 · Giới từ đi với Dativ (Dativpräpositionen)
+
+### Mẹo nhớ: **AVBMNZS** → câu nhớ: "**A**b **V**on **B**ei **M**it **N**ach **Z**u **S**eit"
+
+| Giới từ | Nghĩa | Ví dụ |
+|---|---|---|
+| **mit** | với, bằng (phương tiện) | Ich fahre **mit** de**m** Bus. |
+| **nach** | đến (thành phố/nước), sau | Sie fährt **nach** Berlin. |
+| **aus** | từ, ra khỏi | Er kommt **aus** de**r** Türkei. |
+| **bei** | ở chỗ, tại nhà | Ich wohne **bei** mein**en** Eltern. |
+| **von** | từ, của | Der Brief ist **von** eine**m** Freund. |
+| **zu** | đến (người/nơi cụ thể) | Ich gehe **zu** de**r** Schule. |
+| **seit** | từ khi (thời gian) | Ich lerne Deutsch **seit** eine**m** Jahr. |
+| **ab** | từ (thời điểm) | **Ab** morgen lerne ich Deutsch. |
+
+### Phân biệt nach / zu / in (đi đến đâu)
+
+| Giới từ | Dùng khi | Ví dụ |
+|---|---|---|
+| **nach** | Thành phố, nước (không mạo từ) | Ich fahre **nach** Berlin / **nach** Deutschland. |
+| **zu** | Người, nơi cụ thể | Ich gehe **zum** Arzt / **zur** Schule. |
+| **in** | Tòa nhà, nước có mạo từ | Ich gehe **in die** Schule / **in die** Schweiz. |
+
+---
+
+## 7 · Giới từ hai chiều (Wechselpräpositionen) — Wo? vs. Wohin?
+
+### 7.1 Quy tắc cốt lõi
+
+9 giới từ này có thể đi với **Dativ HOẶC Akkusativ**, tuỳ thuộc câu hỏi:
+
+| Câu hỏi | Cách | Nghĩa |
+|---|---|---|
+| **Wo?** (ở đâu?) | → **Dativ** | Vị trí, trạng thái tĩnh |
+| **Wohin?** (đi đâu?) | → **Akkusativ** | Hướng di chuyển |
+
+### 7.2 Danh sách 9 giới từ hai chiều
+
+| Giới từ | Nghĩa |
 |---|---|
-| in dem | im |
-| an dem | am |
-| zu dem | zum |
-| zu der | zur |
+| **in** | trong |
+| **an** | tại, bên cạnh (mặt đứng) |
+| **auf** | trên (mặt ngang) |
+| **über** | trên, phía trên |
+| **unter** | dưới |
+| **vor** | trước |
+| **hinter** | sau |
+| **neben** | bên cạnh |
+| **zwischen** | giữa |
 
-### Common mistakes
+### 7.3 So sánh Wo? (Dativ) vs. Wohin? (Akkusativ)
 
-1. Using dative in every case
-2. Not distinguishing `wo` from `wohin`
-3. Forgetting to change the article after local prepositions
-4. Mixing up `im` and `in die`
-
-## Examples for Lesson 5.5
-
-| German | English |
+| Wo? → Dativ (tĩnh) | Wohin? → Akkusativ (động) |
 |---|---|
-| Das Buch ist auf dem Tisch. | The book is on the table. |
-| Ich lege das Buch auf den Tisch. | I put the book onto the table. |
-| Die Lampe ist an der Wand. | The lamp is on the wall. |
-| Ich haenge die Lampe an die Wand. | I hang the lamp onto the wall. |
-| Wir sind in der Kueche. | We are in the kitchen. |
-| Wir gehen in die Kueche. | We go into the kitchen. |
-| Der Hund liegt unter dem Stuhl. | The dog is lying under the chair. |
-| Der Hund laeuft unter den Stuhl. | The dog runs under the chair. |
-| Das Auto steht vor dem Haus. | The car is in front of the house. |
-| Ich stelle das Auto vor das Haus. | I park the car in front of the house. |
+| Das Buch ist auf **dem** Tisch. | Ich lege das Buch auf **den** Tisch. |
+| Ich bin in **der** Schule. | Ich gehe in **die** Schule. |
+| Die Lampe ist an **der** Wand. | Ich hänge die Lampe an **die** Wand. |
+| Der Hund liegt unter **dem** Stuhl. | Der Hund läuft unter **den** Stuhl. |
+| Das Auto steht vor **dem** Haus. | Ich stelle das Auto vor **das** Haus. |
+
+> 💡 **Mẹo:** Động từ **tĩnh** (sein, liegen, stehen, sitzen, hängen) → **Wo? → Dativ**
+> Động từ **chuyển động** (gehen, legen, stellen, setzen, hängen) → **Wohin? → Akkusativ**
+
+### 7.4 Rút gọn giới từ phổ biến
+
+| Đầy đủ | Rút gọn | Ví dụ |
+|---|---|---|
+| in dem | **im** | Ich bin **im** Zimmer. |
+| in das | **ins** | Ich gehe **ins** Kino. |
+| an dem | **am** | Ich stehe **am** Fenster. |
+| an das | **ans** | Ich gehe **ans** Meer. |
+| zu dem | **zum** | Ich gehe **zum** Arzt. |
+| zu der | **zur** | Ich gehe **zur** Schule. |
+
+---
+
+## 8 · Lỗi thường gặp
+
+| # | ❌ Sai | ✅ Đúng | Giải thích |
+|---|---|---|---|
+| 1 | Ich sehe **der** Mann. | Ich sehe **den** Mann. | Tân ngữ trực tiếp → Akk. → den |
+| 2 | Ich helfe **dich**. | Ich helfe **dir**. | helfen + Dativ! |
+| 3 | Ich fahre mit **der** Bus. | Ich fahre mit **dem** Bus. | mit + Dativ → der Bus → dem Bus |
+| 4 | Das Buch ist auf **den** Tisch. | Das Buch ist auf **dem** Tisch. | Wo? (tĩnh) → Dativ |
+| 5 | Ich gehe in **dem** Kino. | Ich gehe **ins** Kino. | Wohin? (động) → Akk. |
+| 6 | Ich fahre **zu** Berlin. | Ich fahre **nach** Berlin. | Thành phố → nach |
+| 7 | Für **mein** Bruder | Für **meinen** Bruder | für + Akk. → Mask. Akk. = meinen |
+| 8 | Ich sehe **er**. | Ich sehe **ihn**. | Đại từ Akk. của er = ihn |
+
+---
+
+## 9 · Tự kiểm tra nhanh
+
+| # | Câu | Đáp án |
+|---|---|---|
+| 1 | Ich sehe ___ Lehrer. (der) | Ich sehe **den** Lehrer. (Akk.) |
+| 2 | Ich helfe ___ Frau. (die) | Ich helfe **der** Frau. (Dat.) |
+| 3 | Er fährt mit ___ Auto. (das) | Er fährt mit **dem** Auto. (Dat.) |
+| 4 | Das Buch ist auf ___ Tisch. (der, tĩnh) | Das Buch ist auf **dem** Tisch. (Dat.) |
+| 5 | Ich lege das Buch auf ___ Tisch. (der, động) | Ich lege das Buch auf **den** Tisch. (Akk.) |
+| 6 | Das ist für ___ . (ich) | Das ist für **mich**. (Akk.) |
+| 7 | Kannst du ___ helfen? (ich) | Kannst du **mir** helfen? (Dat.) |
+| 8 | Sie kommt ___ der Schweiz. | Sie kommt **aus** der Schweiz. |
+
+---
+
+## 10 · Câu ví dụ thực hành
+
+### 10.1 Nominativ & Akkusativ
+
+| Tiếng Đức | Tiếng Việt |
+|---|---|
+| **Der** Mann kauft **einen** Apfel. | Người đàn ông mua một quả táo. |
+| Ich sehe **den** Lehrer. | Tôi thấy thầy giáo. |
+| Sie hat **eine** Tasche. | Cô ấy có một cái túi. |
+| Ich brauche **einen** Stift. | Tôi cần một cây bút. |
+| Kennst du **ihn**? | Bạn biết anh ấy không? |
+| Ich sehe **dich** dort. | Tôi thấy bạn ở kia. |
+| Wir haben **keine** Zeit. | Chúng tôi không có thời gian. |
+
+### 10.2 Dativ — Động từ & Giới từ
+
+| Tiếng Đức | Tiếng Việt |
+|---|---|
+| Ich helfe **dem** Kind. | Tôi giúp đứa trẻ. |
+| Das Buch gehört **der** Frau. | Cuốn sách thuộc về người phụ nữ. |
+| Ich fahre mit **dem** Bus. | Tôi đi bằng xe buýt. |
+| Er kommt aus **der** Türkei. | Anh ấy đến từ Thổ Nhĩ Kỳ. |
+| Ich wohne bei **meinen** Eltern. | Tôi sống với bố mẹ. |
+| Der Kaffee gefällt **mir**. | Tôi thích cà phê (đó). |
+| Kannst du **mir** helfen? | Bạn có thể giúp tôi không? |
+| Ich danke **Ihnen**. | Tôi cảm ơn Ông/Bà. |
+
+### 10.3 Giới từ hai chiều — Wo? vs. Wohin?
+
+| Tiếng Đức | Tiếng Việt | Wo/Wohin? |
+|---|---|---|
+| Das Buch ist auf **dem** Tisch. | Sách ở trên bàn. | Wo? → Dat. |
+| Ich lege das Buch auf **den** Tisch. | Tôi đặt sách lên bàn. | Wohin? → Akk. |
+| Die Lampe ist an **der** Wand. | Đèn ở trên tường. | Wo? → Dat. |
+| Ich hänge die Lampe an **die** Wand. | Tôi treo đèn lên tường. | Wohin? → Akk. |
+| Wir sind in **der** Küche. | Chúng tôi ở trong bếp. | Wo? → Dat. |
+| Wir gehen in **die** Küche. | Chúng tôi đi vào bếp. | Wohin? → Akk. |
+
+---
+
+## 11 · Chiến lược học hiệu quả
+
+### 🎯 Bước 1: Học thuộc bảng mạo từ 3 cách
+
+Viết bảng mạo từ (der/die/das × Nom./Akk./Dat.) ra giấy mỗi ngày. Đây là **nền tảng** của toàn bộ ngữ pháp Đức.
+
+### 🔁 Bước 2: Flashcard giới từ
+
+Mặt trước: **mit** → Mặt sau: **Dativ! — mit dem Bus, mit der Bahn**
+Mặt trước: **für** → Mặt sau: **Akkusativ! — für meinen Bruder**
+
+### 📝 Bước 3: Luyện Wo? / Wohin? mỗi ngày
+
+Nhìn quanh phòng và mô tả:
+> *Das Buch ist auf **dem** Tisch. Ich lege das Handy auf **den** Tisch.*
+
+### 🗣️ Bước 4: Đặt câu hỏi Wen? / Wem?
+
+Với mỗi câu, tự hỏi: "Ai làm gì? (Wer = Nom.) → Cho ai? (Wem = Dat.) → Cái gì? (Wen/Was = Akk.)"
+
+---
+
+## 12 · Tóm tắt bài học
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  ✅ 3 cách ở A1: Nominativ / Akkusativ / Dativ              │
+│  ✅ Chỉ Maskulin thay đổi rõ ở Akk.: der→den, ein→einen    │
+│  ✅ Dativ: dem/der/dem/den(+n)                               │
+│  ✅ Giới từ Akk.: für, um, durch, gegen, ohne (FUDGO)       │
+│  ✅ Giới từ Dat.: mit, nach, aus, bei, von, zu, seit, ab    │
+│  ✅ 9 giới từ hai chiều: Wo?→Dat. / Wohin?→Akk.            │
+│  ✅ Rút gọn: im, ins, am, ans, zum, zur                     │
+│  ✅ Đại từ Akk.: mich/dich/ihn/sie/es/uns/euch/sie          │
+│  ✅ Đại từ Dat.: mir/dir/ihm/ihr/ihm/uns/euch/ihnen          │
+│  ✅ Dat. trước Akk. khi cả hai là danh từ                   │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## Bước tiếp theo
+
+1. ✍️ Làm bài tập: [exercises.md](exercises.md)
+2. 🔍 Đối chiếu đáp án: [answers.md](answers.md)
+3. ➡️ Chuyển sang Bài 6: [Động từ khiếm khuyết, Mệnh lệnh, Thời gian & Liên từ](../06-modal-verbs-time-connectors/lesson.md)
