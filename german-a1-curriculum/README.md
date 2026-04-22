@@ -13,14 +13,19 @@ This folder organizes the curriculum into separate lesson, exercise, and answer 
 - `practice-test.md`
 - `study-plan-21-days.md`
 - `memorization-tips.md`
+- `vocabulary.md`
+- `01-nouns-articles/plural-rules-guide.md`
+- `01-nouns-articles/plural-rules-exercises.md`
+- `01-nouns-articles/plural-rules-answers.md`
 
 ## Recommended Study Order
 
 1. Read `lesson.md` for each topic.
 2. Memorize the main formulas and patterns.
-3. Complete `exercises.md` without checking the answers.
-4. Compare your work with `answers.md`.
-5. Mark mistakes and review them later.
+3. For Topic 1, also read `01-nouns-articles/plural-rules-guide.md` to learn plural patterns in a structured way.
+4. Complete `exercises.md` without checking the answers.
+5. Compare your work with `answers.md`.
+6. Mark mistakes and review them later.
 
 ## Topic Order
 

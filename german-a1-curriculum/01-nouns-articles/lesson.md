@@ -112,6 +112,8 @@ Use plural when talking about:
 2. Adding `-s` to every noun
 3. Forgetting that the plural definite article is always `die`
 
+For a fuller guide to singular-to-plural conversion rules, read `plural-rules-guide.md`.
+
 ## Examples for Lesson 1.1
 
 | German | English |

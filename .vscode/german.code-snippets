@@ -1,0 +1,30 @@
+{
+  "umlaut ä": {
+    "prefix": ["a:", "ae:"],
+    "body": "ä"
+  },
+  "umlaut ö": {
+    "prefix": ["o:", "oe:"],
+    "body": "ö"
+  },
+  "umlaut ü": {
+    "prefix": ["u:", "ue:"],
+    "body": "ü"
+  },
+  "eszett ß": {
+    "prefix": ["ss:", "sz:"],
+    "body": "ß"
+  },
+  "umlaut Ä": {
+    "prefix": ["A:", "Ae:"],
+    "body": "Ä"
+  },
+  "umlaut Ö": {
+    "prefix": ["O:", "Oe:"],
+    "body": "Ö"
+  },
+  "umlaut Ü": {
+    "prefix": ["U:", "Ue:"],
+    "body": "Ü"
+  }
+}
