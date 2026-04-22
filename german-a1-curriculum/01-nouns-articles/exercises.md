@@ -3,12 +3,12 @@
 ## Part A: Fill in the blanks
 
 1. Der Mann ist Lehrer. ✅ Correct
-2. Die Frau heisst Anna. ✅ Correct
-3. Das Kind ist mude. ✅ Correct
+2. Die Frau heißt Anna. ✅ Correct
+3. Das Kind ist müde. ✅ Correct
 4. Ich habe ein Auto. ✅ Correct
 5. Das ist die Lampe. ❌ Incorrect -> Das ist eine Lampe.
 6. Wir sehen der Hund. ❌ Incorrect -> Wir sehen einen Hund.
-7. Die Bucher sind neu. ✅ Correct
+7. Die Bücher sind neu. ✅ Correct
 8. Die Kinder spielen im Park. ✅ Correct
 9. Das sind zwei Frauen. (Frau) ✅ Correct
 10. Dort stehen drei Autos. (Auto) ✅ Correct
@@ -39,7 +39,7 @@ a. die
 b. der  
 c. das
 
-15. `das Maedchen` ✅ Correct
+15. `das Mädchen` ✅ Correct
 
 a. das  
 b. die  
@@ -51,10 +51,10 @@ c. der
 17. die Blume -> die Blumen ✅ Correct
 18. das Kind -> die kinder ❌ Incorrect -> die Kinder
 19. der Lehrer -> die Lehrer ✅ Correct
-20. das Buch -> die bucher ❌ Incorrect -> die Buecher
+20. das Buch -> die bucher ❌ Incorrect -> die Bücher
 21. die Tasche -> die taschen ❌ Incorrect -> die Taschen
 22. das Haus -> die Häuser ✅ Correct
-23. der Apfel -> die äpfel ❌ Incorrect -> die Aepfel
+23. der Apfel -> die äpfel ❌ Incorrect -> die Äpfel
 24. die Freundin -> die freundinen ❌ Incorrect -> die Freundinnen
 25. das Bild -> die bilder ❌ Incorrect -> die Bilder
 
@@ -126,7 +126,7 @@ c. der
 45. `plural of das Haus`  -> die Häuser ✅ Correct
 
 a. die Hause  
-b. die Haeuser  
+b. die Häuser  
 c. die Hausen
 
 46. `plural of die Blume`  -> die Blumen ✅ Correct
@@ -155,7 +155,7 @@ c. das
 
 50. `plural of der Apfel`  -> die Äpfel ✅ Correct
 
-a. die Aepfel  
+a. die Äpfel  
 b. die Apfels  
 c. die Apfeln
 
@@ -173,40 +173,40 @@ c. die Apfeln
 57. Ich habe einen Schule. ->       einen -> eine ✅ Correct
 58. Die Buch ist interessant.    Die -> Das ✅ Correct
 59. Das sind zwei Frau.     Frau -> Frauen ✅ Correct
-60. Der Maedchen spielt im Zimmer.  Der -> Das ✅ Correct
+60. Der Mädchen spielt im Zimmer.  Der -> Das ✅ Correct
 
 ## Noun Notes: Singular -> Plural
 
 | Singular | Gender | Plural |
 |---|---|---|
-| der Mann | masculine | die Maenner |
+| der Mann | masculine | die Männer |
 | die Frau | feminine | die Frauen |
 | das Kind | neuter | die Kinder |
 | das Auto | neuter | die Autos |
 | die Lampe | feminine | die Lampen |
 | der Hund | masculine | die Hunde |
-| das Buch | neuter | die Buecher |
+| das Buch | neuter | die Bücher |
 | der Lehrer | masculine | die Lehrer |
 | der Tisch | masculine | die Tische |
 | die Schule | feminine | die Schulen |
 | das Fenster | neuter | die Fenster |
-| der Apfel | masculine | die Aepfel |
-| das Maedchen | neuter | die Maedchen |
-| der Stuhl | masculine | die Stuehle |
+| der Apfel | masculine | die Äpfel |
+| das Mädchen | neuter | die Mädchen |
+| der Stuhl | masculine | die Stühle |
 | die Blume | feminine | die Blumen |
 | die Tasche | feminine | die Taschen |
-| das Haus | neuter | die Haeuser |
+| das Haus | neuter | die Häuser |
 | die Freundin | feminine | die Freundinnen |
-| der Vater | masculine | die Vaeter |
+| der Vater | masculine | die Väter |
 | die Orange | feminine | die Orangen |
-| der Baum | masculine | die Baeume |
-| die Mutter | feminine | die Muetter |
-| der Bruder | masculine | die Brueder |
-| der Sohn | masculine | die Soehne |
-| die Tochter | feminine | die Toechter |
+| der Baum | masculine | die Bäume |
+| die Mutter | feminine | die Mütter |
+| der Bruder | masculine | die Brüder |
+| der Sohn | masculine | die Söhne |
+| die Tochter | feminine | die Töchter |
 | das Heft | neuter | die Hefte |
-| der Garten | masculine | die Gaerten |
-| das Dorf | neuter | die Doerfer |
+| der Garten | masculine | die Gärten |
+| das Dorf | neuter | die Dörfer |
 | der Park | masculine | die Parks |
 | das Zimmer | neuter | die Zimmer |
 | die Lehrerin | feminine | die Lehrerinnen |
