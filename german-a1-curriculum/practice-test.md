@@ -1,16 +1,16 @@
-# 📝 Bài kiểm tra Tổng hợp A1 — 50 câu
+# 📝 Comprehensive A1 Practice Test — 50 Questions
 
-> **Hướng dẫn:** Làm bài **không xem tài liệu**, tự bấm giờ **40 phút**. Ghi đáp án ra giấy rồi đối chiếu ở phần cuối.
+> **Instructions:** Complete this test **without looking at materials**, time yourself for **40 minutes**. Write your answers on paper, then check against the answer key at the end.
 >
-> **Thang điểm:** ≥ 45/50 = Xuất sắc | ≥ 40/50 = Tốt | ≥ 35/50 = Đạt | < 35 = Cần ôn lại
+> **Scoring:** ≥ 45/50 = Excellent | ≥ 40/50 = Good | ≥ 35/50 = Pass | < 35 = Review needed
 
 ---
 
-## Phần A: Mạo từ & Giống (Câu 1-10)
+## Part A: Articles & Gender (Questions 1-10)
 
 1. ___ Frau ist Ärztin. *(die/der/das)*
 2. Ich habe ___ Buch. *(ein/eine/einen)*
-3. Das sind drei ___ . *(Kind → số nhiều)*
+3. Das sind drei ___ . *(Kind → plural)*
 4. ___ Mädchen spielt im Garten. *(der/die/das)*
 5. Er kauft ___ Auto. *(ein/eine/einen)*
 6. Wir haben ___ Zeit. *(kein/keine/keinen)*
@@ -21,166 +21,166 @@
 
 ---
 
-## Phần B: Đại từ & sein/haben (Câu 11-18)
+## Part B: Pronouns & sein/haben (Questions 11-18)
 
 11. Anna ist hier. ___ ist freundlich. *(Er/Sie/Es)*
-12. Wir ___ aus Japan. *(sein → chia)*
-13. Du ___ eine Schwester. *(haben → chia)*
-14. ___ ihr müde? *(Sein → chia)*
-15. Ich ___ 20 Jahre alt. *(sein → chia)*
-16. Das ist ___ Tasche. *(my, Feminin → mạo từ sở hữu)*
-17. Er ___ einen Bruder. *(haben → chia)*
-18. Ist das ___ Sohn? *(your formal → mạo từ sở hữu)*
+12. Wir ___ aus Japan. *(sein → conjugate)*
+13. Du ___ eine Schwester. *(haben → conjugate)*
+14. ___ ihr müde? *(sein → conjugate)*
+15. Ich ___ 20 Jahre alt. *(sein → conjugate)*
+16. Das ist ___ Tasche. *(my, Feminine → possessive article)*
+17. Er ___ einen Bruder. *(haben → conjugate)*
+18. Ist das ___ Sohn? *(your formal → possessive article)*
 
 ---
 
-## Phần C: Thì hiện tại & Động từ (Câu 19-28)
+## Part C: Present Tense & Verbs (Questions 19-28)
 
-19. Er ___ Deutsch. *(lernen → chia)*
-20. Du ___ ein Buch. *(lesen → chia, chú ý bất quy tắc)*
-21. Sie (cô ấy) ___ drei Sprachen. *(sprechen → chia)*
-22. Ich stehe um 6 Uhr ___ . *(aufstehen → tiền tố)*
-23. ___ du heute ___? *(einkaufen → câu hỏi Ja/Nein)*
-24. Er ___ nach Hamburg. *(fahren → chia)*
-25. Ihr ___ Fußball. *(spielen → chia)*
-26. Sie (formal) ___ Herr Braun? *(sein → chia câu hỏi)*
-27. Wir ___ morgen ___. *(mitkommen → chia + tách)*
-28. Er ___ seine Mutter ___. *(anrufen → chia + tách)*
-
----
-
-## Phần D: Trật tự từ, Câu hỏi & Phủ định (Câu 29-36)
-
-29. ___ wohnst du? *(từ hỏi W-)*
-30. ___ heißt du? *(từ hỏi W-)*
-31. Ich habe ___ Auto. *(phủ định danh từ → kein/nicht)*
-32. Das ist ___ teuer. *(phủ định tính từ → kein/nicht)*
-33. ___ beginnt der Kurs? *(từ hỏi W-)*
-34. Sửa lại: *"Wo du wohnst?"*
-35. Sửa lại: *"Ich habe nicht Zeit."*
-36. Sửa lại: *"Er fahren nach Bonn."*
+19. Er ___ Deutsch. *(lernen → conjugate)*
+20. Du ___ ein Buch. *(lesen → conjugate, note: irregular)*
+21. Sie (she) ___ drei Sprachen. *(sprechen → conjugate)*
+22. Ich stehe um 6 Uhr ___ . *(aufstehen → prefix)*
+23. ___ du heute ___? *(einkaufen → Yes/No question)*
+24. Er ___ nach Hamburg. *(fahren → conjugate)*
+25. Ihr ___ Fußball. *(spielen → conjugate)*
+26. Sie (formal) ___ Herr Braun? *(sein → question form)*
+27. Wir ___ morgen ___. *(mitkommen → conjugate + separate)*
+28. Er ___ seine Mutter ___. *(anrufen → conjugate + separate)*
 
 ---
 
-## Phần E: Các cách & Giới từ (Câu 37-44)
+## Part D: Word Order, Questions & Negation (Questions 29-36)
 
-37. Ich sehe ___ Mann. *(der → Akkusativ)*
-38. ___ Mann ist Lehrer. *(der → Nominativ)*
-39. Wir fahren mit ___ Bus. *(der → Dativ)*
-40. Das Geschenk ist für ___ Mutter. *(die → Akkusativ)*
-41. Er kommt ___ Spanien. *(giới từ: từ đâu)*
-42. Wir fahren ___ Berlin. *(giới từ: đi đâu, thành phố)*
-43. Das Buch gehört ___ Kind. *(das → Dativ)*
-44. Ohne ___ Kaffee bin ich müde. *(mein → Akkusativ Maskulin)*
-
----
-
-## Phần F: Modalverben, Mệnh lệnh & Liên từ (Câu 45-50)
-
-45. Ich ___ schwimmen. *(können → chia)*
-46. Du ___ heute arbeiten. *(müssen → chia)*
-47. Wir wollen ein Auto ___ . *(mua → Infinitiv)*
-48. ___ Sie bitte hier! *(warten → Imperativ lịch sự)*
-49. Der Kurs ist ___ Montag. *(giới từ thời gian: ngày)*
-50. Das Treffen ist ___ 9 Uhr. *(giới từ thời gian: giờ)*
+29. ___ wohnst du? *(W-question word)*
+30. ___ heißt du? *(W-question word)*
+31. Ich habe ___ Auto. *(negate the noun → kein/nicht)*
+32. Das ist ___ teuer. *(negate the adjective → kein/nicht)*
+33. ___ beginnt der Kurs? *(W-question word)*
+34. Correct this: *"Wo du wohnst?"*
+35. Correct this: *"Ich habe nicht Zeit."*
+36. Correct this: *"Er fahren nach Bonn."*
 
 ---
 
-## 🔑 Đáp án
+## Part E: Cases & Prepositions (Questions 37-44)
 
-> ⚠️ Đừng xem trước khi làm xong!
+37. Ich sehe ___ Mann. *(der → Accusative)*
+38. ___ Mann ist Lehrer. *(der → Nominative)*
+39. Wir fahren mit ___ Bus. *(der → Dative)*
+40. Das Geschenk ist für ___ Mutter. *(die → Accusative)*
+41. Er kommt ___ Spanien. *(preposition: from where)*
+42. Wir fahren ___ Berlin. *(preposition: to where, city)*
+43. Das Buch gehört ___ Kind. *(das → Dative)*
+44. Ohne ___ Kaffee bin ich müde. *(mein → Accusative Masculine)*
+
+---
+
+## Part F: Modal Verbs, Imperative & Connectors (Questions 45-50)
+
+45. Ich ___ schwimmen. *(können → conjugate)*
+46. Du ___ heute arbeiten. *(müssen → conjugate)*
+47. Wir wollen ein Auto ___ . *(buy → infinitive)*
+48. ___ Sie bitte hier! *(warten → formal imperative)*
+49. Der Kurs ist ___ Montag. *(time preposition: day)*
+50. Das Treffen ist ___ 9 Uhr. *(time preposition: clock)*
+
+---
+
+## 🔑 Answer Key
+
+> ⚠️ Don't look before you finish!
 
 <details>
 
-### Phần A: Mạo từ & Giống
+### Part A: Articles & Gender
 
-| Câu | Đáp án | Giải thích |
+| Q | Answer | Explanation |
 |---|---|---|
-| 1 | **Die** | die Frau = Feminin |
+| 1 | **Die** | die Frau = Feminine |
 | 2 | **ein** | ein Buch = Neutral Nom. |
 | 3 | **Kinder** | das Kind → die Kinder (-er) |
 | 4 | **Das** | das Mädchen = Neutral (-chen!) |
-| 5 | **ein** | ein Auto = Neutral Akk. (không đổi) |
-| 6 | **keine** | keine Zeit = Feminin phủ định |
-| 7 | **eine** | eine Lampe = Feminin |
-| 8 | **Die** | die Kinder = số nhiều |
-| 9 | **einen** | einen Stift = Maskulin Akkusativ! |
+| 5 | **ein** | ein Auto = Neutral Akk. (no change) |
+| 6 | **keine** | keine Zeit = Feminine negative |
+| 7 | **eine** | eine Lampe = Feminine |
+| 8 | **Die** | die Kinder = plural |
+| 9 | **einen** | einen Stift = Masculine Accusative! |
 | 10 | **Das** | das Haus = Neutral |
 
-### Phần B: Đại từ & sein/haben
+### Part B: Pronouns & sein/haben
 
-| Câu | Đáp án | Giải thích |
+| Q | Answer | Explanation |
 |---|---|---|
-| 11 | **Sie** | Anna = Feminin → sie (cô ấy) |
+| 11 | **Sie** | Anna = Feminine → sie (she) |
 | 12 | **sind** | wir sind |
 | 13 | **hast** | du hast |
 | 14 | **Seid** | ihr seid |
 | 15 | **bin** | ich bin |
-| 16 | **meine** | meine Tasche (Feminin → -e) |
+| 16 | **meine** | meine Tasche (Feminine → -e) |
 | 17 | **hat** | er hat |
-| 18 | **Ihr** | Ihr Sohn (formal, viết hoa) |
+| 18 | **Ihr** | Ihr Sohn (formal, capitalized) |
 
-### Phần C: Thì hiện tại & Động từ
+### Part C: Present Tense & Verbs
 
-| Câu | Đáp án | Giải thích |
+| Q | Answer | Explanation |
 |---|---|---|
-| 19 | **lernt** | er lernt (quy tắc) |
+| 19 | **lernt** | er lernt (regular) |
 | 20 | **liest** | du liest (e→ie) |
 | 21 | **spricht** | sie spricht (e→i) |
-| 22 | **auf** | aufstehen → tiền tố tách |
-| 23 | **Kaufst** ... **ein** | einkaufen → tách trong câu hỏi |
+| 22 | **auf** | aufstehen → separable prefix |
+| 23 | **Kaufst** ... **ein** | einkaufen → separates in questions |
 | 24 | **fährt** | er fährt (a→ä) |
-| 25 | **spielt** | ihr spielt (quy tắc) |
+| 25 | **spielt** | ihr spielt (regular) |
 | 26 | **Sind** | Sind Sie Herr Braun? |
 | 27 | **kommen** ... **mit** | mitkommen → wir kommen morgen mit |
 | 28 | **ruft** ... **an** | anrufen → er ruft seine Mutter an |
 
-### Phần D: Trật tự từ, Câu hỏi & Phủ định
+### Part D: Word Order, Questions & Negation
 
-| Câu | Đáp án | Giải thích |
+| Q | Answer | Explanation |
 |---|---|---|
 | 29 | **Wo** | Wo wohnst du? |
 | 30 | **Wie** | Wie heißt du? |
-| 31 | **kein** | danh từ có ein → kein Auto |
-| 32 | **nicht** | tính từ → nicht teuer |
+| 31 | **kein** | noun with ein → kein Auto |
+| 32 | **nicht** | adjective → nicht teuer |
 | 33 | **Wann** | Wann beginnt der Kurs? |
 | 34 | **Wo wohnst du?** | W + V + S |
-| 35 | **Ich habe keine Zeit.** | kein + danh từ không mạo từ |
+| 35 | **Ich habe keine Zeit.** | kein + noun without article |
 | 36 | **Er fährt nach Bonn.** | er fährt (a→ä) |
 
-### Phần E: Các cách & Giới từ
+### Part E: Cases & Prepositions
 
-| Câu | Đáp án | Giải thích |
+| Q | Answer | Explanation |
 |---|---|---|
-| 37 | **den** | Akk. Maskulin: der → den |
-| 38 | **Der** | Nom. Maskulin: der |
+| 37 | **den** | Akk. Masculine: der → den |
+| 38 | **Der** | Nom. Masculine: der |
 | 39 | **dem** | mit + Dat.: der Bus → dem Bus |
-| 40 | **die** | für + Akk.: die Mutter (Fem. không đổi) |
+| 40 | **die** | für + Akk.: die Mutter (Fem. no change) |
 | 41 | **aus** | woher → aus Spanien |
-| 42 | **nach** | wohin + thành phố → nach Berlin |
+| 42 | **nach** | wohin + city → nach Berlin |
 | 43 | **dem** | Dat. Neutral: das Kind → dem Kind |
-| 44 | **meinen** | ohne + Akk. Maskulin: mein → meinen |
+| 44 | **meinen** | ohne + Akk. Masculine: mein → meinen |
 
-### Phần F: Modalverben, Mệnh lệnh & Liên từ
+### Part F: Modal Verbs, Imperative & Connectors
 
-| Câu | Đáp án | Giải thích |
+| Q | Answer | Explanation |
 |---|---|---|
 | 45 | **kann** | ich kann |
 | 46 | **musst** | du musst |
-| 47 | **kaufen** | Infinitiv ở cuối câu |
-| 48 | **Warten** | Warten Sie! (Imperativ lịch sự) |
-| 49 | **am** | am Montag (ngày → am) |
-| 50 | **um** | um 9 Uhr (giờ → um) |
+| 47 | **kaufen** | Infinitive at end of sentence |
+| 48 | **Warten** | Warten Sie! (formal imperative) |
+| 49 | **am** | am Montag (day → am) |
+| 50 | **um** | um 9 Uhr (clock → um) |
 
 </details>
 
 ---
 
-## Kết quả
+## Results
 
-| Điểm | Đánh giá | Bước tiếp theo |
+| Score | Rating | Next Steps |
 |---|---|---|
-| **45-50** | ⭐ Xuất sắc! | Sẵn sàng cho [a1-exam-prep/](a1-exam-prep/) |
-| **40-44** | ✅ Tốt | Ôn lại phần bị sai, rồi vào exam-prep |
-| **35-39** | 🟡 Đạt | Ôn lại 2 chủ đề yếu nhất, làm lại bài tập |
-| **< 35** | 🔴 Cần ôn | Quay lại [study-plan-21-days.md](study-plan-21-days.md), tập trung Tuần yếu nhất |
+| **45-50** | ⭐ Excellent! | Ready for [a1-exam-prep/](a1-exam-prep/) |
+| **40-44** | ✅ Good | Review wrong answers, then start exam-prep |
+| **35-39** | 🟡 Pass | Review your 2 weakest topics, redo their exercises |
+| **< 35** | 🔴 Review needed | Go back to [study-plan-21-days.md](study-plan-21-days.md), focus on your weakest week |

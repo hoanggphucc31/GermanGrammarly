@@ -1,222 +1,222 @@
-# Bài 1: Danh từ, Mạo từ, Giống & Số nhiều trong tiếng Đức
+# Lesson 1: Nouns, Articles, Gender & Plurals in German
 
-> **Mục tiêu bài học:** Sau bài này, bạn sẽ biết cách nhận biết giống (Maskulin / Feminin / Neutral), sử dụng đúng mạo từ (der / die / das / ein / eine), và chuyển danh từ sang số nhiều theo các mẫu phổ biến nhất.
+> **Learning Goal:** After this lesson, you will be able to identify grammatical gender (Maskulin / Feminin / Neutral), use the correct articles (der / die / das / ein / eine), and form plurals using the most common patterns.
 
 ---
 
-## 1 · Tại sao phải học giống của danh từ?
+## 1 · Why Must You Learn Noun Gender?
 
-Trong tiếng Đức, **mỗi danh từ đều có một giống ngữ pháp** (grammatical gender). Giống ngữ pháp ảnh hưởng đến:
+In German, **every noun has a grammatical gender**. This gender affects:
 
-- mạo từ đi kèm (der / die / das)
-- đuôi tính từ
-- đại từ thay thế
-- cách chia ở các "case" (Nominativ, Akkusativ, Dativ, Genitiv)
+- the article that goes with it (der / die / das)
+- adjective endings
+- pronoun replacement
+- case declensions (Nominativ, Akkusativ, Dativ, Genitiv)
 
-> ⚠️ **Quy tắc vàng:** Luôn học danh từ kèm mạo từ. Đừng bao giờ chỉ nhớ mỗi từ đơn lẻ!
+> ⚠️ **Golden Rule:** Always learn a noun together with its article. Never memorize the word alone!
 >
-> ✅ `der Tisch` (cái bàn)  
+> ✅ `der Tisch` (the table)  
 > ❌ `Tisch`
 
 ---
 
-## 2 · Ba giống trong tiếng Đức
+## 2 · The Three Genders in German
 
-| Giống | Tên tiếng Đức | Mạo từ xác định | Ví dụ |
+| Gender | German Name | Definite Article | Example |
 |---|---|---|---|
-| Nam tính (Maskulin) | **Maskulinum** | **der** | der Mann (người đàn ông) |
-| Nữ tính (Feminin) | **Femininum** | **die** | die Frau (người phụ nữ) |
-| Trung tính (Neutral) | **Neutrum** | **das** | das Kind (đứa trẻ) |
+| Masculine | **Maskulinum** | **der** | der Mann (the man) |
+| Feminine | **Femininum** | **die** | die Frau (the woman) |
+| Neuter | **Neutrum** | **das** | das Kind (the child) |
 
-### 💡 Mẹo nhớ nhanh
+### 💡 Quick Memory Trick
 
-Hãy tưởng tượng **3 màu sắc**:
+Imagine **3 colors**:
 
-- 🔵 **der** = xanh dương (Maskulin)
-- 🔴 **die** = đỏ (Feminin)
-- 🟢 **das** = xanh lá (Neutral)
+- 🔵 **der** = blue (Maskulin)
+- 🔴 **die** = red (Feminin)
+- 🟢 **das** = green (Neutral)
 
-Khi ghi flashcard, dùng 3 màu này để não bộ ghi nhớ bằng thị giác.
+Use these 3 colors on your flashcards so your brain remembers visually.
 
 ---
 
-## 3 · Mạo từ xác định (Bestimmter Artikel) — "the"
+## 3 · Definite Articles (Bestimmter Artikel) — "the"
 
-Dùng khi **nói về một thứ cụ thể**, hoặc khi người nghe **đã biết** ta đang nói về cái gì.
+Used when talking about **a specific thing**, or when the listener **already knows** what you're referring to.
 
-| Giống | Mạo từ | Ví dụ | Nghĩa |
+| Gender | Article | Example | Meaning |
 |---|---|---|---|
-| Maskulin | **der** | Der Lehrer ist nett. | Thầy giáo *(đó)* tốt bụng. |
-| Feminin | **die** | Die Lampe ist schön. | Cái đèn *(đó)* đẹp. |
-| Neutral | **das** | Das Buch ist interessant. | Cuốn sách *(đó)* thú vị. |
-| Số nhiều (tất cả giống) | **die** | Die Kinder spielen. | Những đứa trẻ *(đó)* đang chơi. |
+| Maskulin | **der** | Der Lehrer ist nett. | The teacher is nice. |
+| Feminin | **die** | Die Lampe ist schön. | The lamp is beautiful. |
+| Neutral | **das** | Das Buch ist interessant. | The book is interesting. |
+| Plural (all genders) | **die** | Die Kinder spielen. | The children are playing. |
 
-### Khi nào dùng mạo từ xác định?
+### When to use the definite article?
 
-1. Khi cả hai người đều biết đang nói về cái gì: *"**Die** Schule ist groß."* (Trường học đó lớn.)
-2. Với những thứ duy nhất: *"**Die** Sonne scheint."* (Mặt trời đang chiếu sáng.)
-3. Khi đã nhắc đến trước đó: *"Ich sehe einen Mann. **Der** Mann ist alt."*
+1. When both speakers know what is being discussed: *"**Die** Schule ist groß."* (The school is big.)
+2. With unique things: *"**Die** Sonne scheint."* (The sun is shining.)
+3. When previously mentioned: *"Ich sehe einen Mann. **Der** Mann ist alt."*
 
 ---
 
-## 4 · Mạo từ bất định (Unbestimmter Artikel) — "a / an"
+## 4 · Indefinite Articles (Unbestimmter Artikel) — "a / an"
 
-Dùng khi **giới thiệu một thứ mới** lần đầu, hoặc nói **chung chung**.
+Used when **introducing something new** for the first time, or speaking **in general**.
 
-| Giống | Mạo từ | Ví dụ | Nghĩa |
+| Gender | Article | Example | Meaning |
 |---|---|---|---|
-| Maskulin | **ein** | Ein Mann wartet. | Một người đàn ông đang đợi. |
-| Feminin | **eine** | Eine Frau arbeitet. | Một người phụ nữ đang làm việc. |
-| Neutral | **ein** | Ein Auto ist neu. | Một chiếc xe hơi mới. |
+| Maskulin | **ein** | Ein Mann wartet. | A man is waiting. |
+| Feminin | **eine** | Eine Frau arbeitet. | A woman is working. |
+| Neutral | **ein** | Ein Auto ist neu. | A car is new. |
 
-> ℹ️ Lưu ý: **Không có** mạo từ bất định số nhiều trong tiếng Đức.
+> ℹ️ Note: There is **no** indefinite plural article in German.
 >
-> Tiếng Anh: "I see **some** books." → Tiếng Đức: "Ich sehe **Ø** Bücher." (bỏ mạo từ)
+> English: "I see **some** books." → German: "Ich sehe **Ø** Bücher." (no article)
 
 ---
 
-## 5 · Mạo từ phủ định (Negativartikel) — "kein / keine"
+## 5 · Negative Articles (Negativartikel) — "kein / keine"
 
-Để phủ định một danh từ có mạo từ bất định, ta dùng **kein**:
+To negate a noun with an indefinite article, use **kein**:
 
-| Giống | Khẳng định | Phủ định | Nghĩa |
+| Gender | Affirmative | Negative | Meaning |
 |---|---|---|---|
-| Maskulin | ein Tisch | **kein** Tisch | không có cái bàn nào |
-| Feminin | eine Lampe | **keine** Lampe | không có cái đèn nào |
-| Neutral | ein Buch | **kein** Buch | không có cuốn sách nào |
-| Số nhiều | Ø Bücher | **keine** Bücher | không có cuốn sách nào |
+| Maskulin | ein Tisch | **kein** Tisch | no table |
+| Feminin | eine Lampe | **keine** Lampe | no lamp |
+| Neutral | ein Buch | **kein** Buch | no book |
+| Plural | Ø Bücher | **keine** Bücher | no books |
 
-**Ví dụ trong câu:**
+**Examples in sentences:**
 
-- Ich habe **einen** Hund. → Ich habe **keinen** Hund. *(Tôi không có con chó nào.)*
-- Das ist **eine** Katze. → Das ist **keine** Katze. *(Đó không phải là con mèo.)*
-
----
-
-## 6 · Cách đoán giống danh từ — Các "tín hiệu" hữu ích
-
-Không có quy tắc hoàn hảo 100%, nhưng các mẹo dưới đây đúng trong **phần lớn** trường hợp.
-
-### 6.1 Thường là **der** (Maskulin)
-
-| Nhóm | Ví dụ |
-|---|---|
-| Các ngày trong tuần | der Montag, der Dienstag … |
-| Các tháng | der Januar, der Februar … |
-| Các mùa | der Frühling, der Sommer … |
-| Thời tiết | der Regen, der Schnee, der Wind |
-| Đuôi **-er** (người thực hiện) | der Lehrer, der Fahrer |
-| Đuôi **-ling** | der Frühling, der Schmetterling |
-| Đuôi **-ismus** | der Tourismus, der Optimismus |
-| Đuôi **-or** | der Motor, der Doktor |
-
-### 6.2 Thường là **die** (Feminin)
-
-| Nhóm | Ví dụ |
-|---|---|
-| Đuôi **-e** (nhiều trường hợp) | die Lampe, die Schule, die Tasche |
-| Đuôi **-ung** | die Zeitung, die Wohnung |
-| Đuôi **-heit / -keit** | die Freiheit, die Möglichkeit |
-| Đuôi **-schaft** | die Freundschaft, die Wirtschaft |
-| Đuôi **-ion / -tion** | die Nation, die Information |
-| Đuôi **-tät** | die Universität, die Qualität |
-| Đuôi **-ie** | die Energie, die Fantasie |
-| Đuôi **-in** (nữ giới) | die Lehrerin, die Ärztin |
-| Đuôi **-ur** | die Natur, die Kultur |
-
-### 6.3 Thường là **das** (Neutral)
-
-| Nhóm | Ví dụ |
-|---|---|
-| Đuôi **-chen** (nhỏ bé) | das Mädchen, das Brötchen |
-| Đuôi **-lein** (nhỏ bé) | das Büchlein, das Fräulein |
-| Đuôi **-ment** | das Dokument, das Instrument |
-| Đuôi **-um** | das Zentrum, das Museum |
-| Đuôi **-tum** | das Eigentum, das Wachstum |
-| Danh từ hoá từ động từ (Ge-) | das Essen, das Trinken |
-| Hầu hết kim loại | das Gold, das Silber |
-
-### ⚠️ Ngoại lệ nổi tiếng
-
-- **das Mädchen** = cô gái → Trung tính! (vì đuôi *-chen* luôn là Neutral)
-- **der Junge** = cậu bé → Nam tính! (dù đuôi *-e* thường là Feminin)
+- Ich habe **einen** Hund. → Ich habe **keinen** Hund. *(I don't have a dog.)*
+- Das ist **eine** Katze. → Das ist **keine** Katze. *(That is not a cat.)*
 
 ---
 
-## 7 · Danh từ ghép (Zusammengesetzte Nomen)
+## 6 · How to Guess Noun Gender — Useful "Signals"
 
-Tiếng Đức nổi tiếng với việc **ghép nhiều từ thành một từ dài**. Quy tắc:
+No rule is 100% perfect, but the tips below are correct in **most** cases.
 
-> **Giống của danh từ ghép = giống của từ CUỐI CÙNG.**
+### 6.1 Usually **der** (Maskulin)
 
-| Từ ghép | Phần cuối | Giống | Nghĩa |
+| Category | Examples |
+|---|---|
+| Days of the week | der Montag, der Dienstag … |
+| Months | der Januar, der Februar … |
+| Seasons | der Frühling, der Sommer … |
+| Weather | der Regen, der Schnee, der Wind |
+| Ending **-er** (agent nouns) | der Lehrer, der Fahrer |
+| Ending **-ling** | der Frühling, der Schmetterling |
+| Ending **-ismus** | der Tourismus, der Optimismus |
+| Ending **-or** | der Motor, der Doktor |
+
+### 6.2 Usually **die** (Feminin)
+
+| Category | Examples |
+|---|---|
+| Ending **-e** (many cases) | die Lampe, die Schule, die Tasche |
+| Ending **-ung** | die Zeitung, die Wohnung |
+| Ending **-heit / -keit** | die Freiheit, die Möglichkeit |
+| Ending **-schaft** | die Freundschaft, die Wirtschaft |
+| Ending **-ion / -tion** | die Nation, die Information |
+| Ending **-tät** | die Universität, die Qualität |
+| Ending **-ie** | die Energie, die Fantasie |
+| Ending **-in** (female persons) | die Lehrerin, die Ärztin |
+| Ending **-ur** | die Natur, die Kultur |
+
+### 6.3 Usually **das** (Neutral)
+
+| Category | Examples |
+|---|---|
+| Ending **-chen** (diminutive) | das Mädchen, das Brötchen |
+| Ending **-lein** (diminutive) | das Büchlein, das Fräulein |
+| Ending **-ment** | das Dokument, das Instrument |
+| Ending **-um** | das Zentrum, das Museum |
+| Ending **-tum** | das Eigentum, das Wachstum |
+| Nominalized verbs (Ge-) | das Essen, das Trinken |
+| Most metals | das Gold, das Silber |
+
+### ⚠️ Famous Exceptions
+
+- **das Mädchen** = girl → Neuter! (because *-chen* is always Neutral)
+- **der Junge** = boy → Masculine! (even though *-e* is usually Feminin)
+
+---
+
+## 7 · Compound Nouns (Zusammengesetzte Nomen)
+
+German is famous for **joining multiple words into one long word**. The rule:
+
+> **The gender of a compound noun = the gender of the LAST word.**
+
+| Compound | Last Part | Gender | Meaning |
 |---|---|---|---|
-| **der** Haustürschlüssel | der Schlüssel | Maskulin | chìa khoá cửa nhà |
-| **die** Handtasche | die Tasche | Feminin | túi xách |
-| **das** Schlafzimmer | das Zimmer | Neutral | phòng ngủ |
+| **der** Haustürschlüssel | der Schlüssel | Maskulin | house door key |
+| **die** Handtasche | die Tasche | Feminin | handbag |
+| **das** Schlafzimmer | das Zimmer | Neutral | bedroom |
 
 ---
 
-## 8 · Tổng hợp công thức
+## 8 · Formula Summary
 
 ```
 ╔══════════════════════════════════════════════════╗
-║  Mạo từ xác định:   der / die / das / die (Pl.) ║
-║  Mạo từ bất định:   ein / eine / ein / Ø  (Pl.) ║
-║  Mạo từ phủ định:   kein/ keine/ kein/ keine(Pl.)║
+║  Definite:    der / die / das / die (Pl.)        ║
+║  Indefinite:  ein / eine / ein / Ø  (Pl.)        ║
+║  Negative:    kein/ keine/ kein/ keine (Pl.)     ║
 ║                                                  ║
-║  Cấu trúc:  [Mạo từ] + [Danh từ]               ║
-║  Ví dụ:     Der Mann ist groß.                   ║
-║             Eine Frau arbeitet hier.              ║
-║             Ich habe kein Auto.                   ║
+║  Structure:   [Article] + [Noun]                 ║
+║  Examples:    Der Mann ist groß.                 ║
+║              Eine Frau arbeitet hier.            ║
+║              Ich habe kein Auto.                 ║
 ╚══════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 9 · Số nhiều (Plural) trong tiếng Đức
+## 9 · Plurals (Plural) in German
 
-### 9.1 Quy tắc quan trọng nhất
+### 9.1 Most Important Rule
 
-- **Tất cả** danh từ số nhiều dùng mạo từ xác định: **die**
-- Không có mạo từ bất định số nhiều → bỏ mạo từ hoặc dùng *einige* (một vài), *viele* (nhiều)
+- **All** plural nouns use the definite article: **die**
+- There is no indefinite plural article → drop the article or use *einige* (some), *viele* (many)
 
-### 9.2 Bảy mẫu chuyển đổi số nhiều
+### 9.2 Seven Plural Patterns
 
-| Mẫu | Đuôi | Umlaut? | Ví dụ |
+| Pattern | Ending | Umlaut? | Example |
 |---|---|---|---|
-| ① | **-e** | Không | der Tisch → die Tisch**e** |
-| ② | **-e** | Có | der Stuhl → die St**ü**hl**e** |
-| ③ | **-er** | Không | das Kind → die Kind**er** |
-| ④ | **-er** | Có | das Buch → die B**ü**ch**er** |
-| ⑤ | **-n / -en** | Không | die Frau → die Frau**en** |
-| ⑥ | Ø (không đổi) | Có/Không | der Lehrer → die Lehrer |
-| ⑦ | **-s** | Không | das Auto → die Auto**s** |
+| ① | **-e** | No | der Tisch → die Tisch**e** |
+| ② | **-e** | Yes | der Stuhl → die St**ü**hl**e** |
+| ③ | **-er** | No | das Kind → die Kind**er** |
+| ④ | **-er** | Yes | das Buch → die B**ü**ch**er** |
+| ⑤ | **-n / -en** | No | die Frau → die Frau**en** |
+| ⑥ | Ø (no change) | Yes/No | der Lehrer → die Lehrer |
+| ⑦ | **-s** | No | das Auto → die Auto**s** |
 
-### 9.3 Mẫu nào hay gặp với giống nào?
+### 9.3 Which Patterns Are Common for Which Gender?
 
-| Giống | Mẫu phổ biến |
+| Gender | Common Patterns |
 |---|---|
-| **Maskulin** | -e (có/không Umlaut), không đổi |
-| **Feminin** | -n / -en *(phổ biến nhất!)* |
-| **Neutral** | -er (có/không Umlaut), -e, không đổi |
-| **Từ ngoại lai** | -s |
+| **Maskulin** | -e (with/without Umlaut), no change |
+| **Feminin** | -n / -en *(most common!)* |
+| **Neutral** | -er (with/without Umlaut), -e, no change |
+| **Foreign words** | -s |
 
-### 9.4 Tín hiệu đuôi → dự đoán số nhiều
+### 9.4 Noun Ending Signals → Predicting Plurals
 
-| Đuôi danh từ | Số nhiều thường là | Ví dụ |
+| Noun Ending | Plural Usually Is | Example |
 |---|---|---|
-| -e (Feminin) | thêm **-n** | die Lampe → die Lampen |
-| -ung | thêm **-en** | die Zeitung → die Zeitungen |
-| -heit / -keit | thêm **-en** | die Freiheit → die Freiheiten |
-| -in | thêm **-nen** | die Lehrerin → die Lehrerinnen |
-| -er / -el / -en | thường **không đổi** (± Umlaut) | der Lehrer → die Lehrer |
-| -chen / -lein | **không đổi** | das Mädchen → die Mädchen |
-| Từ ngoại lai | thêm **-s** | das Hotel → die Hotels |
+| -e (Feminin) | add **-n** | die Lampe → die Lampen |
+| -ung | add **-en** | die Zeitung → die Zeitungen |
+| -heit / -keit | add **-en** | die Freiheit → die Freiheiten |
+| -in | add **-nen** | die Lehrerin → die Lehrerinnen |
+| -er / -el / -en | usually **no change** (± Umlaut) | der Lehrer → die Lehrer |
+| -chen / -lein | **no change** | das Mädchen → die Mädchen |
+| Foreign words | add **-s** | das Hotel → die Hotels |
 
-### 9.5 Ví dụ tổng hợp số nhiều
+### 9.5 Plural Examples Summary
 
-| Số ít | Số nhiều | Mẫu |
+| Singular | Plural | Pattern |
 |---|---|---|
 | der Tisch | die Tische | ① -e |
 | der Stuhl | die Stühle | ② -e + Umlaut |
@@ -224,77 +224,77 @@ Tiếng Đức nổi tiếng với việc **ghép nhiều từ thành một từ
 | das Haus | die Häuser | ④ -er + Umlaut |
 | die Frau | die Frauen | ⑤ -en |
 | die Blume | die Blumen | ⑤ -n |
-| der Lehrer | die Lehrer | ⑥ không đổi |
-| der Vater | die Väter | ⑥ không đổi + Umlaut |
+| der Lehrer | die Lehrer | ⑥ no change |
+| der Vater | die Väter | ⑥ no change + Umlaut |
 | das Auto | die Autos | ⑦ -s |
 | das Handy | die Handys | ⑦ -s |
 
 ---
 
-## 10 · Lỗi thường gặp của người mới
+## 10 · Common Beginner Mistakes
 
-| # | Lỗi | Giải thích |
+| # | Mistake | Explanation |
 |---|---|---|
-| 1 | Học danh từ mà không học mạo từ | Không có mạo từ → không biết giống → sai hết ngữ pháp về sau |
-| 2 | Nhầm der / die / das | Giống ngữ pháp ≠ giống tự nhiên. *das Mädchen* là trung tính! |
-| 3 | Dùng *eine* cho Neutral | ein Kind ✅, eine Kind ❌ |
-| 4 | Thêm **-s** cho mọi danh từ số nhiều | Tiếng Đức ≠ tiếng Anh! -s chỉ dùng cho từ ngoại lai |
-| 5 | Quên Umlaut khi chuyển số nhiều | der Apfel → die **Ä**pfel (không phải *Apfele*) |
-| 6 | Dùng sai mạo từ số nhiều | Số nhiều **luôn** là *die*, bất kể giống gốc |
-| 7 | Nhầm *nicht* và *kein* | *kein* phủ định danh từ có ein; *nicht* phủ định động từ/tính từ |
+| 1 | Learning nouns without articles | No article → don't know gender → all later grammar will be wrong |
+| 2 | Mixing up der / die / das | Grammatical gender ≠ natural gender. *das Mädchen* is neuter! |
+| 3 | Using *eine* for Neuter | ein Kind ✅, eine Kind ❌ |
+| 4 | Adding **-s** to every plural noun | German ≠ English! -s is only for foreign words |
+| 5 | Forgetting Umlaut in plurals | der Apfel → die **Ä**pfel (not *Apfele*) |
+| 6 | Using the wrong plural article | Plural is **always** *die*, regardless of original gender |
+| 7 | Confusing *nicht* and *kein* | *kein* negates nouns with ein; *nicht* negates verbs/adjectives |
 
 ---
 
-## 11 · Bài tập trong đầu — Tự kiểm tra nhanh
+## 11 · Mental Exercise — Quick Self-Check
 
-Hãy thử đoán giống và nói to trước khi xem đáp án:
+Try to guess the gender and say it out loud before checking the answer:
 
-| Danh từ | Đoán giống? | Đáp án |
+| Noun | Guess? | Answer |
 |---|---|---|
 | ___ Wohnung | ? | **die** Wohnung (-ung → Feminin) |
 | ___ Brötchen | ? | **das** Brötchen (-chen → Neutral) |
 | ___ Frühling | ? | **der** Frühling (-ling → Maskulin) |
 | ___ Universität | ? | **die** Universität (-tät → Feminin) |
 | ___ Dokument | ? | **das** Dokument (-ment → Neutral) |
-| ___ Fahrer | ? | **der** Fahrer (-er người thực hiện → Maskulin) |
+| ___ Fahrer | ? | **der** Fahrer (-er agent noun → Maskulin) |
 
 ---
 
-## 12 · Câu ví dụ thực hành
+## 12 · Practice Sentences
 
-### 12.1 Mạo từ xác định & bất định
+### 12.1 Definite & Indefinite Articles
 
-| Tiếng Đức | Tiếng Anh | Giải thích |
+| German | English | Explanation |
 |---|---|---|
-| **Der** Mann ist hier. | The man is here. | der = Maskulin, xác định |
-| **Die** Frau kommt aus Berlin. | The woman comes from Berlin. | die = Feminin, xác định |
-| **Das** Kind spielt im Garten. | The child plays in the garden. | das = Neutral, xác định |
-| **Ein** Mann wartet an der Tür. | A man is waiting at the door. | ein = Maskulin, bất định |
-| **Eine** Frau arbeitet im Büro. | A woman works in the office. | eine = Feminin, bất định |
-| **Ein** Auto ist neu. | A car is new. | ein = Neutral, bất định |
+| **Der** Mann ist hier. | The man is here. | der = Maskulin, definite |
+| **Die** Frau kommt aus Berlin. | The woman comes from Berlin. | die = Feminin, definite |
+| **Das** Kind spielt im Garten. | The child plays in the garden. | das = Neutral, definite |
+| **Ein** Mann wartet an der Tür. | A man is waiting at the door. | ein = Maskulin, indefinite |
+| **Eine** Frau arbeitet im Büro. | A woman works in the office. | eine = Feminin, indefinite |
+| **Ein** Auto ist neu. | A car is new. | ein = Neutral, indefinite |
 | Der Tisch ist groß. | The table is big. | der Tisch = Maskulin |
 | Die Lampe ist schön. | The lamp is beautiful. | die Lampe = Feminin |
 | Das Buch ist interessant. | The book is interesting. | das Buch = Neutral |
 | Die Schule ist klein. | The school is small. | die Schule = Feminin |
 
-### 12.2 Số nhiều trong câu
+### 12.2 Plurals in Sentences
 
-| Tiếng Đức | Tiếng Anh | Mẫu số nhiều |
+| German | English | Plural Pattern |
 |---|---|---|
 | **Die** Männer sind hier. | The men are here. | -er + Umlaut |
 | **Die** Frauen arbeiten. | The women work. | -en |
 | **Die** Kinder spielen draußen. | The children play outside. | -er |
 | Ich habe zwei Bücher. | I have two books. | -er + Umlaut |
-| Wir kaufen drei Äpfel. | We buy three apples. | Umlaut (không đổi đuôi) |
+| Wir kaufen drei Äpfel. | We buy three apples. | Umlaut (no ending change) |
 | **Die** Tische sind alt. | The tables are old. | -e |
-| **Die** Lehrer kommen heute. | The teachers come today. | không đổi |
+| **Die** Lehrer kommen heute. | The teachers come today. | no change |
 | Dort stehen viele Autos. | Many cars are standing there. | -s |
 | **Die** Häuser sind groß. | The houses are big. | -er + Umlaut |
 | Ich sehe vier Stühle. | I see four chairs. | -e + Umlaut |
 
-### 12.3 Phủ định với kein/keine
+### 12.3 Negation with kein/keine
 
-| Tiếng Đức | Tiếng Anh |
+| German | English |
 |---|---|
 | Ich habe **kein** Buch. | I don't have a book. |
 | Das ist **keine** Katze. | That is not a cat. |
@@ -303,60 +303,60 @@ Hãy thử đoán giống và nói to trước khi xem đáp án:
 
 ---
 
-## 13 · Chiến lược học hiệu quả
+## 13 · Effective Learning Strategies
 
-### 🎯 Phương pháp "3-in-1 Flashcard"
+### 🎯 "3-in-1 Flashcard" Method
 
-Mặt trước flashcard:
+Flashcard front:
 ```
 der Tisch → die Tische
 (the table → the tables)
 ```
 
-Mặt sau: hình ảnh minh hoạ + câu ví dụ:
+Flashcard back: illustration + example sentence:
 ```
 Der Tisch ist groß. Die Tische sind alt.
 ```
 
-### 📝 Nhóm danh từ theo giống
+### 📝 Group Nouns by Gender
 
-Tạo 3 cột trong vở: **der | die | das** — mỗi khi học từ mới, ghi vào đúng cột.
+Create 3 columns in your notebook: **der | die | das** — every time you learn a new word, write it in the correct column.
 
-### 🔁 Quy tắc lặp lại cách quãng (Spaced Repetition)
+### 🔁 Spaced Repetition
 
-- Ngày 1: học từ mới
-- Ngày 2: ôn lại
-- Ngày 4: ôn lại
-- Ngày 7: ôn lại
-- Ngày 14: ôn lại
+- Day 1: learn new words
+- Day 2: review
+- Day 4: review
+- Day 7: review
+- Day 14: review
 
-### 🗣️ Nói to mạo từ
+### 🗣️ Say the Article Out Loud
 
-Mỗi khi gặp danh từ, **nói to** kèm mạo từ: *"DER Tisch! DIE Lampe! DAS Buch!"* — giúp cơ miệng ghi nhớ.
+Every time you encounter a noun, **say it out loud** with the article: *"DER Tisch! DIE Lampe! DAS Buch!"* — muscle memory helps your brain remember.
 
 ---
 
-## 14 · Tóm tắt bài học
+## 14 · Lesson Summary
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  ✅ Tiếng Đức có 3 giống: Maskulin, Feminin, Neutral    │
-│  ✅ Mạo từ xác định: der / die / das                    │
-│  ✅ Mạo từ bất định: ein / eine / ein                   │
-│  ✅ Phủ định: kein / keine                               │
-│  ✅ Số nhiều luôn dùng: die                              │
-│  ✅ Có 7 mẫu chuyển số nhiều chính                      │
-│  ✅ Đuôi danh từ giúp đoán giống                        │
-│  ✅ Danh từ ghép: giống = giống của từ cuối              │
-│  ✅ Luôn học: mạo từ + danh từ + số nhiều               │
+│  ✅ German has 3 genders: Maskulin, Feminin, Neutral    │
+│  ✅ Definite articles: der / die / das                   │
+│  ✅ Indefinite articles: ein / eine / ein                │
+│  ✅ Negative: kein / keine                               │
+│  ✅ Plural always uses: die                              │
+│  ✅ 7 main plural patterns                               │
+│  ✅ Noun endings help predict gender                     │
+│  ✅ Compound nouns: gender = gender of last word         │
+│  ✅ Always learn: article + noun + plural                │
 └─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Bước tiếp theo
+## Next Steps
 
-1. 📖 Đọc hướng dẫn chi tiết số nhiều: [plural-rules-guide.md](plural-rules-guide.md)
-2. ✍️ Làm bài tập: [exercises.md](exercises.md)
-3. 🔍 Đối chiếu đáp án: [answers.md](answers.md)
-4. 🏆 Thử thách nâng cao: [challenge-exercises.md](challenge-exercises.md)
+1. 📖 Read the detailed plural guide: [plural-rules-guide.md](plural-rules-guide.md)
+2. ✍️ Do the exercises: [exercises.md](exercises.md)
+3. 🔍 Check your answers: [answers.md](answers.md)
+4. 🏆 Advanced challenge: [challenge-exercises.md](challenge-exercises.md)

@@ -1,28 +1,28 @@
-# Bài 3: Thì hiện tại (Präsens) & Động từ tách (Trennbare Verben)
+# Lesson 3: Present Tense (Präsens) & Separable Verbs (Trennbare Verben)
 
-> **Mục tiêu bài học:** Chia thành thạo động từ ở thì hiện tại (quy tắc + bất quy tắc), hiểu cách hoạt động của động từ tách, và áp dụng đúng trật tự từ trong câu.
+> **Learning Goal:** Conjugate verbs in the present tense (regular + irregular), understand how separable verbs work, and apply correct word order in sentences.
 
 ---
 
-## 1 · Tổng quan: Động từ tiếng Đức hoạt động thế nào?
+## 1 · Overview: How Do German Verbs Work?
 
-Mọi động từ tiếng Đức ở dạng nguyên thể (Infinitiv) đều kết thúc bằng **-en** (hoặc hiếm hơn là **-n**):
+All German verbs in the infinitive form end in **-en** (or rarely **-n**):
 
 > *lern**en**, mach**en**, komm**en**, arbeit**en**, wander**n***
 
-Để chia ở thì hiện tại, ta **bỏ đuôi -en** → lấy **gốc (Stamm)** → **thêm đuôi** theo ngôi.
+To conjugate in the present tense, **remove the -en ending** → get the **stem (Stamm)** → **add the ending** by person.
 
 ```
-lernen  →  lern-  (gốc)  →  ich lern-e, du lern-st ...
+lernen  →  lern-  (stem)  →  ich lern-e, du lern-st ...
 ```
 
 ---
 
-## 2 · Động từ quy tắc (Regelmäßige Verben)
+## 2 · Regular Verbs (Regelmäßige Verben)
 
-### 2.1 Bảng đuôi chia — Học thuộc một lần, dùng mãi mãi
+### 2.1 Conjugation Endings — Learn Once, Use Forever
 
-| Ngôi | Đuôi | lernen | machen | wohnen |
+| Person | Ending | lernen | machen | wohnen |
 |---|---|---|---|---|
 | ich | **-e** | lern**e** | mach**e** | wohn**e** |
 | du | **-st** | lern**st** | mach**st** | wohn**st** |
@@ -31,13 +31,13 @@ lernen  →  lern-  (gốc)  →  ich lern-e, du lern-st ...
 | ihr | **-t** | lern**t** | mach**t** | wohn**t** |
 | sie/Sie | **-en** | lern**en** | mach**en** | wohn**en** |
 
-> 💡 **Mẹo:** *wir* và *sie/Sie* luôn giống nguyên thể! *er/sie/es* và *ihr* luôn giống nhau!
+> 💡 **Tip:** *wir* and *sie/Sie* always match the infinitive! *er/sie/es* and *ihr* always match each other!
 
-### 2.2 Trường hợp đặc biệt: gốc kết thúc bằng -t, -d, -chn, -ffn, -gn
+### 2.2 Special Case: Stems Ending in -t, -d, -chn, -ffn, -gn
 
-Khi gốc kết thúc bằng **-t**, **-d**, **-chn**, **-ffn**, **-gn** → thêm **-e-** đệm trước đuôi để dễ phát âm.
+When the stem ends in **-t**, **-d**, **-chn**, **-ffn**, **-gn** → add a buffer **-e-** before the ending for easier pronunciation.
 
-| Ngôi | arbeiten (làm việc) | finden (tìm) | öffnen (mở) |
+| Person | arbeiten (to work) | finden (to find) | öffnen (to open) |
 |---|---|---|---|
 | ich | arbeit**e** | find**e** | öffn**e** |
 | du | arbeit**e**st | find**e**st | öffn**e**st |
@@ -46,41 +46,41 @@ Khi gốc kết thúc bằng **-t**, **-d**, **-chn**, **-ffn**, **-gn** → th�
 | ihr | arbeit**e**t | find**e**t | öffn**e**t |
 | sie/Sie | arbeiten | finden | öffnen |
 
-> ⚠️ Không nói *du arbeitst* ❌ → nói *du arbeit**e**st* ✅
+> ⚠️ Don't say *du arbeitst* ❌ → say *du arbeit**e**st* ✅
 
-### 2.3 Trường hợp đặc biệt: gốc kết thúc bằng -s, -ß, -z, -x
+### 2.3 Special Case: Stems Ending in -s, -ß, -z, -x
 
-Với *du*: đuôi **-st** rút gọn thành **-t** (vì đã có âm *s* rồi).
+For *du*: the ending **-st** reduces to **-t** (because there's already an *s* sound).
 
-| Động từ | du | er/sie/es |
+| Verb | du | er/sie/es |
 |---|---|---|
-| reisen (du lịch) | du reis**t** | er reis**t** |
-| heißen (tên là) | du heiß**t** | er heiß**t** |
-| tanzen (nhảy) | du tanz**t** | er tanz**t** |
+| reisen (to travel) | du reis**t** | er reis**t** |
+| heißen (to be called) | du heiß**t** | er heiß**t** |
+| tanzen (to dance) | du tanz**t** | er tanz**t** |
 
-> Nghĩa là *du* và *er/sie/es* nhìn **giống hệt nhau**!
+> This means *du* and *er/sie/es* look **identical**!
 
 ---
 
-## 3 · Động từ bất quy tắc — Đổi nguyên âm gốc (Vokalwechsel)
+## 3 · Irregular Verbs — Stem Vowel Change (Vokalwechsel)
 
-### 3.1 Quy luật chung
+### 3.1 General Pattern
 
-Một số động từ phổ biến **đổi nguyên âm** ở ngôi **du** và **er/sie/es**. Các ngôi khác chia bình thường.
+Some common verbs **change their stem vowel** for **du** and **er/sie/es**. All other persons conjugate normally.
 
-Có 3 kiểu đổi chính:
+There are 3 main types of change:
 
-| Kiểu đổi | Ví dụ |
+| Type | Example |
 |---|---|
 | **e → i** | sprechen → du spr**i**chst, er spr**i**cht |
 | **e → ie** | lesen → du l**ie**st, er l**ie**st |
 | **a → ä** | fahren → du f**ä**hrst, er f**ä**hrt |
 
-### 3.2 Bảng chia các động từ bất quy tắc quan trọng nhất (A1)
+### 3.2 Full Conjugation of Key Irregular Verbs (A1)
 
-#### sprechen (nói) — e → i
+#### sprechen (to speak) — e → i
 
-| Ngôi | Chia |
+| Person | Conjugation |
 |---|---|
 | ich | sprech**e** |
 | du | spr**i**chst |
@@ -89,9 +89,9 @@ Có 3 kiểu đổi chính:
 | ihr | sprech**t** |
 | sie/Sie | sprech**en** |
 
-#### lesen (đọc) — e → ie
+#### lesen (to read) — e → ie
 
-| Ngôi | Chia |
+| Person | Conjugation |
 |---|---|
 | ich | les**e** |
 | du | l**ie**st |
@@ -100,9 +100,9 @@ Có 3 kiểu đổi chính:
 | ihr | les**t** |
 | sie/Sie | les**en** |
 
-#### fahren (đi/lái) — a → ä
+#### fahren (to drive/go) — a → ä
 
-| Ngôi | Chia |
+| Person | Conjugation |
 |---|---|
 | ich | fahr**e** |
 | du | f**ä**hrst |
@@ -111,74 +111,74 @@ Có 3 kiểu đổi chính:
 | ihr | fahr**t** |
 | sie/Sie | fahr**en** |
 
-### 3.3 Danh sách động từ đổi nguyên âm cần nhớ (A1)
+### 3.3 Must-Know Irregular Verbs (A1)
 
-| Nguyên thể | Nghĩa | du | er/sie/es | Kiểu |
+| Infinitive | Meaning | du | er/sie/es | Type |
 |---|---|---|---|---|
-| sprechen | nói | sprichst | spricht | e→i |
-| essen | ăn | isst | isst | e→i |
-| geben | cho | gibst | gibt | e→i |
-| helfen | giúp | hilfst | hilft | e→i |
-| nehmen | lấy | nimmst | nimmt | e→i *(đặc biệt)* |
-| treffen | gặp | triffst | trifft | e→i |
-| lesen | đọc | liest | liest | e→ie |
-| sehen | nhìn | siehst | sieht | e→ie |
-| fernsehen | xem TV | siehst fern | sieht fern | e→ie *(tách)* |
-| fahren | đi/lái | fährst | fährt | a→ä |
-| schlafen | ngủ | schläfst | schläft | a→ä |
-| tragen | mang | trägst | trägt | a→ä |
-| laufen | chạy | läufst | läuft | a→ä *(au→äu)* |
+| sprechen | to speak | sprichst | spricht | e→i |
+| essen | to eat | isst | isst | e→i |
+| geben | to give | gibst | gibt | e→i |
+| helfen | to help | hilfst | hilft | e→i |
+| nehmen | to take | nimmst | nimmt | e→i *(special)* |
+| treffen | to meet | triffst | trifft | e→i |
+| lesen | to read | liest | liest | e→ie |
+| sehen | to see | siehst | sieht | e→ie |
+| fernsehen | to watch TV | siehst fern | sieht fern | e→ie *(separable)* |
+| fahren | to drive/go | fährst | fährt | a→ä |
+| schlafen | to sleep | schläfst | schläft | a→ä |
+| tragen | to carry/wear | trägst | trägt | a→ä |
+| laufen | to run | läufst | läuft | a→ä *(au→äu)* |
 
-> ⚠️ **nehmen** rất đặc biệt: du **nimmst**, er **nimmt** (đổi cả phụ âm!)
+> ⚠️ **nehmen** is very special: du **nimmst**, er **nimmt** (consonant changes too!)
 
 ---
 
-## 4 · Động từ tách (Trennbare Verben)
+## 4 · Separable Verbs (Trennbare Verben)
 
-### 4.1 Động từ tách là gì?
+### 4.1 What Are Separable Verbs?
 
-Nhiều động từ tiếng Đức có một **tiền tố (Präfix)** gắn ở đầu. Khi chia ở thì hiện tại trong câu chính:
+Many German verbs have a **prefix (Präfix)** attached at the front. When conjugated in the present tense in a main clause:
 
-- Phần gốc động từ → **ở vị trí 2** (chia theo ngôi)
-- Tiền tố → **bay về cuối câu**
+- The verb stem → **goes to position 2** (conjugated by person)
+- The prefix → **flies to the end of the sentence**
 
 ```
 auf|stehen  →  Ich stehe um 7 Uhr auf.
-                     ↑ vị trí 2          ↑ cuối câu
+                     ↑ position 2          ↑ end of sentence
 ```
 
-### 4.2 Các tiền tố tách phổ biến
+### 4.2 Common Separable Prefixes
 
-| Tiền tố | Ví dụ | Nghĩa |
+| Prefix | Examples | Meaning |
 |---|---|---|
-| **auf-** | aufstehen, aufräumen | đứng dậy, dọn dẹp |
-| **an-** | anrufen, ankommen | gọi điện, đến nơi |
-| **ein-** | einkaufen, einladen | mua sắm, mời |
-| **mit-** | mitkommen, mitbringen | đi cùng, mang theo |
-| **ab-** | abfahren, abholen | khởi hành, đón |
-| **zu-** | zumachen, zuhören | đóng lại, lắng nghe |
-| **aus-** | ausgehen, aussehen | đi chơi, trông (như) |
-| **vor-** | vorstellen, vorlesen | giới thiệu, đọc to |
-| **fern-** | fernsehen | xem TV |
-| **zurück-** | zurückkommen | quay lại |
+| **auf-** | aufstehen, aufräumen | to get up, to tidy up |
+| **an-** | anrufen, ankommen | to call, to arrive |
+| **ein-** | einkaufen, einladen | to shop, to invite |
+| **mit-** | mitkommen, mitbringen | to come along, to bring along |
+| **ab-** | abfahren, abholen | to depart, to pick up |
+| **zu-** | zumachen, zuhören | to close, to listen |
+| **aus-** | ausgehen, aussehen | to go out, to look like |
+| **vor-** | vorstellen, vorlesen | to introduce, to read aloud |
+| **fern-** | fernsehen | to watch TV |
+| **zurück-** | zurückkommen | to come back |
 
-> 💡 **Mẹo:** Tiền tố tách thường là **giới từ hoặc trạng từ** có nghĩa riêng. Nếu bạn nhận ra nó như một từ độc lập (auf, an, ein, mit…), rất có thể nó sẽ tách!
+> 💡 **Tip:** Separable prefixes are usually **prepositions or adverbs** with their own meaning. If you recognize it as a standalone word (auf, an, ein, mit…), it's likely separable!
 
-### 4.3 Cách chia — Quy trình 3 bước
+### 4.3 Conjugation — 3-Step Process
 
-**Bước 1:** Tách tiền tố ra → lấy phần gốc
-**Bước 2:** Chia gốc theo ngôi (giống động từ thường)
-**Bước 3:** Đặt tiền tố ở **cuối câu**
+**Step 1:** Separate the prefix → get the stem
+**Step 2:** Conjugate the stem by person (like a regular verb)
+**Step 3:** Place the prefix at the **end of the sentence**
 
-| Bước | aufstehen | einkaufen |
+| Step | aufstehen | einkaufen |
 |---|---|---|
-| Tách | auf + stehen | ein + kaufen |
-| Chia (ich) | steh**e** | kauf**e** |
-| Câu hoàn chỉnh | Ich **stehe** um 7 Uhr **auf**. | Ich **kaufe** heute **ein**. |
+| Separate | auf + stehen | ein + kaufen |
+| Conjugate (ich) | steh**e** | kauf**e** |
+| Full sentence | Ich **stehe** um 7 Uhr **auf**. | Ich **kaufe** heute **ein**. |
 
-### 4.4 Bảng chia đầy đủ — aufstehen (thức dậy)
+### 4.4 Full Conjugation — aufstehen (to get up)
 
-| Ngôi | Chia | Câu ví dụ |
+| Person | Conjugation | Example Sentence |
 |---|---|---|
 | ich | stehe … auf | Ich stehe früh auf. |
 | du | stehst … auf | Du stehst um 8 Uhr auf. |
@@ -187,211 +187,211 @@ auf|stehen  →  Ich stehe um 7 Uhr auf.
 | ihr | steht … auf | Ihr steht um 6 Uhr auf. |
 | sie/Sie | stehen … auf | Sie stehen früh auf. |
 
-### 4.5 Động từ tách + Đổi nguyên âm
+### 4.5 Separable Verbs + Vowel Change
 
-Một số động từ tách **cũng** đổi nguyên âm ở du / er/sie/es:
+Some separable verbs **also** have vowel changes for du / er/sie/es:
 
-| Động từ | du | er/sie/es | Câu ví dụ |
+| Verb | du | er/sie/es | Example Sentence |
 |---|---|---|---|
 | **fern**sehen (e→ie) | siehst … fern | sieht … fern | Er **sieht** abends **fern**. |
 | **an**fahren (a→ä) | fährst … an | fährt … an | Der Zug **fährt** um 9 **an**. |
 | **ein**laden (a→ä) | lädst … ein | lädt … ein | Sie **lädt** uns **ein**. |
 | **ab**fahren (a→ä) | fährst … ab | fährt … ab | Der Bus **fährt** um 8 **ab**. |
 
-### 4.6 Động từ tách trong câu hỏi
+### 4.6 Separable Verbs in Questions
 
-#### Câu hỏi Ja/Nein: Động từ gốc ở vị trí 1, tiền tố vẫn ở cuối
+#### Yes/No Questions: Verb stem in position 1, prefix stays at end
 
-| Câu hỏi | Nghĩa |
+| Question | Meaning |
 |---|---|
-| **Stehst** du früh **auf**? | Bạn có dậy sớm không? |
-| **Rufst** du mich **an**? | Bạn gọi cho tôi không? |
-| **Kauft** ihr heute **ein**? | Hôm nay các bạn đi mua sắm không? |
+| **Stehst** du früh **auf**? | Do you get up early? |
+| **Rufst** du mich **an**? | Are you calling me? |
+| **Kauft** ihr heute **ein**? | Are you shopping today? |
 
-#### Câu hỏi W-: Từ hỏi + Động từ gốc (vị trí 2) + … + Tiền tố (cuối)
+#### W-Questions: W-word + verb stem (position 2) + … + prefix (end)
 
-| Câu hỏi | Nghĩa |
+| Question | Meaning |
 |---|---|
-| **Wann** stehst du **auf**? | Bạn dậy lúc mấy giờ? |
-| **Wen** rufst du **an**? | Bạn gọi cho ai? |
-| **Wo** kaufst du **ein**? | Bạn mua sắm ở đâu? |
+| **Wann** stehst du **auf**? | When do you get up? |
+| **Wen** rufst du **an**? | Who are you calling? |
+| **Wo** kaufst du **ein**? | Where do you shop? |
 
 ---
 
-## 5 · Tiền tố KHÔNG tách (Untrennbare Verben) — Biết để tránh nhầm
+## 5 · Inseparable Prefixes (Untrennbare Verben) — Know Them to Avoid Confusion
 
-Một số tiền tố **không bao giờ** tách ra:
+Some prefixes **never** separate:
 
-| Tiền tố | Ví dụ | Nghĩa |
+| Prefix | Examples | Meaning |
 |---|---|---|
-| **be-** | besuchen, bekommen | thăm, nhận được |
-| **er-** | erzählen, erklären | kể, giải thích |
-| **ver-** | verstehen, vergessen | hiểu, quên |
-| **ent-** | entschuldigen | xin lỗi |
-| **ge-** | gehören, gefallen | thuộc về, thích |
-| **emp-** | empfehlen | giới thiệu/khuyên |
+| **be-** | besuchen, bekommen | to visit, to receive |
+| **er-** | erzählen, erklären | to tell, to explain |
+| **ver-** | verstehen, vergessen | to understand, to forget |
+| **ent-** | entschuldigen | to apologize |
+| **ge-** | gehören, gefallen | to belong, to like |
+| **emp-** | empfehlen | to recommend |
 
-> Chia bình thường, **không** tách: *Ich **verstehe** das.* ✅ (không phải *Ich stehe das ver.* ❌)
+> Conjugate normally, **no** separation: *Ich **verstehe** das.* ✅ (not *Ich stehe das ver.* ❌)
 
-### Mẹo phân biệt tách / không tách
+### How to Distinguish Separable / Inseparable
 
-| Tách ✅ | Không tách ❌ |
+| Separable ✅ | Inseparable ❌ |
 |---|---|
-| Tiền tố có nghĩa riêng: auf, an, ein, mit, ab, zu, aus, vor, zurück | Tiền tố trừu tượng: be-, er-, ver-, ent-, ge-, emp- |
-| Tiền tố được **nhấn trọng âm**: **AUF**stehen | Tiền tố **không** nhấn: ver**STE**hen |
+| Prefix has its own meaning: auf, an, ein, mit, ab, zu, aus, vor, zurück | Abstract prefix: be-, er-, ver-, ent-, ge-, emp- |
+| Prefix is **stressed**: **AUF**stehen | Prefix is **unstressed**: ver**STE**hen |
 
-> 💡 **Mẹo tai nghe:** Nếu trọng âm rơi vào **tiền tố** → tách. Nếu trọng âm rơi vào **gốc** → không tách.
-
----
-
-## 6 · Trật tự từ — Tổng hợp
-
-### 6.1 Câu trần thuật
-
-```
-[Vị trí 1]        [Vị trí 2]     [Giữa câu]         [Cuối câu]
-Ich                lerne          Deutsch.
-Ich                stehe          um 7 Uhr            auf.
-Am Montag          kaufe          ich                 ein.
-```
-
-> ⚠️ Nếu vị trí 1 không phải chủ ngữ → chủ ngữ nhảy ra **sau** động từ (đảo ngữ).
-
-### 6.2 Câu hỏi Ja/Nein
-
-```
-[Vị trí 1]     [Vị trí 2]     [...]            [Cuối]
-Lernst          du             Deutsch?
-Stehst          du             früh              auf?
-```
-
-### 6.3 Câu hỏi W-
-
-```
-[W-Wort]       [Động từ]      [Chủ ngữ]   [...]           [Cuối]
-Was             lernst         du?
-Wann            stehst         du                           auf?
-```
+> 💡 **Listening Tip:** If the stress falls on the **prefix** → separable. If the stress falls on the **stem** → inseparable.
 
 ---
 
-## 7 · Lỗi thường gặp
+## 6 · Word Order — Summary
 
-| # | ❌ Sai | ✅ Đúng | Giải thích |
+### 6.1 Statements
+
+```
+[Position 1]        [Position 2]     [Middle]            [End]
+Ich                  lerne            Deutsch.
+Ich                  stehe            um 7 Uhr            auf.
+Am Montag            kaufe            ich                  ein.
+```
+
+> ⚠️ If position 1 is not the subject → the subject moves **after** the verb (inversion).
+
+### 6.2 Yes/No Questions
+
+```
+[Position 1]     [Position 2]     [...]            [End]
+Lernst            du               Deutsch?
+Stehst            du               früh              auf?
+```
+
+### 6.3 W-Questions
+
+```
+[W-Word]       [Verb]      [Subject]   [...]           [End]
+Was             lernst       du?
+Wann            stehst       du                          auf?
+```
+
+---
+
+## 7 · Common Mistakes
+
+| # | ❌ Wrong | ✅ Correct | Explanation |
 |---|---|---|---|
-| 1 | Ich *lernen* Deutsch. | Ich **lerne** Deutsch. | Phải chia theo ngôi, không dùng nguyên thể |
-| 2 | Du *arbeitst*. | Du **arbeitest**. | Gốc -t → cần -e- đệm |
-| 3 | Er *sprechen* gut. | Er **spricht** gut. | e→i ở ngôi thứ 3 |
-| 4 | Ich *aufstehe* früh. | Ich **stehe** früh **auf**. | Tiền tố tách phải bay về cuối |
-| 5 | Er *versteht das nicht ver.* | Er **versteht** das nicht. | ver- không tách! |
-| 6 | Du *lesst* ein Buch. | Du **liest** ein Buch. | e→ie + du đuôi -st |
-| 7 | Ich *stehe auf um 7 Uhr.* | Ich stehe **um 7 Uhr** auf. | Tiền tố phải ở **cuối cùng** |
-| 8 | *Wann du stehst auf?* | **Wann stehst du auf?** | Câu hỏi W-: W-Wort + Động từ + Chủ ngữ |
+| 1 | Ich *lernen* Deutsch. | Ich **lerne** Deutsch. | Must conjugate, don't use infinitive |
+| 2 | Du *arbeitst*. | Du **arbeitest**. | Stem -t → needs buffer -e- |
+| 3 | Er *sprechen* gut. | Er **spricht** gut. | e→i for 3rd person |
+| 4 | Ich *aufstehe* früh. | Ich **stehe** früh **auf**. | Separable prefix must go to end |
+| 5 | Er *versteht das nicht ver.* | Er **versteht** das nicht. | ver- is inseparable! |
+| 6 | Du *lesst* ein Buch. | Du **liest** ein Buch. | e→ie + du ending -st |
+| 7 | Ich *stehe auf um 7 Uhr.* | Ich stehe **um 7 Uhr** auf. | Prefix must be at the **very end** |
+| 8 | *Wann du stehst auf?* | **Wann stehst du auf?** | W-question: W-word + verb + subject |
 
 ---
 
-## 8 · Tự kiểm tra nhanh
+## 8 · Quick Self-Check
 
-| # | Câu (điền chỗ trống) | Đáp án |
+| # | Sentence (fill the blank) | Answer |
 |---|---|---|
 | 1 | Er ___ (sprechen) Deutsch. | Er **spricht** Deutsch. |
 | 2 | Du ___ (fahren) nach Hamburg. | Du **fährst** nach Hamburg. |
 | 3 | Ich ___ um 6 Uhr ___ (aufstehen). | Ich **stehe** um 6 Uhr **auf**. |
 | 4 | ___ du heute ___ (einkaufen)? | **Kaufst** du heute **ein**? |
-| 5 | Sie (cô ấy) ___ (lesen) ein Buch. | Sie **liest** ein Buch. |
+| 5 | Sie (she) ___ (lesen) ein Buch. | Sie **liest** ein Buch. |
 | 6 | Wir ___ (arbeiten) im Büro. | Wir **arbeiten** im Büro. |
 | 7 | Er ___ seine Mutter ___ (anrufen). | Er **ruft** seine Mutter **an**. |
-| 8 | Ich ___ (verstehen) das nicht. | Ich **verstehe** das nicht. *(ver- không tách!)* |
+| 8 | Ich ___ (verstehen) das nicht. | Ich **verstehe** das nicht. *(ver- is inseparable!)* |
 
 ---
 
-## 9 · Câu ví dụ thực hành
+## 9 · Practice Sentences
 
-### 9.1 Động từ quy tắc
+### 9.1 Regular Verbs
 
-| Tiếng Đức | Tiếng Việt |
+| German | English |
 |---|---|
-| Ich **lerne** Deutsch. | Tôi học tiếng Đức. |
-| Du **machst** die Hausaufgaben. | Bạn làm bài tập. |
-| Er **wohnt** in Hamburg. | Anh ấy sống ở Hamburg. |
-| Sie **arbeitet** im Büro. | Cô ấy làm việc ở văn phòng. |
-| Wir **kommen** aus Vietnam. | Chúng tôi đến từ Việt Nam. |
-| Ihr **spielt** Fußball. | Các bạn chơi bóng đá. |
-| Sie **trinken** Kaffee. | Họ uống cà phê. |
+| Ich **lerne** Deutsch. | I am learning German. |
+| Du **machst** die Hausaufgaben. | You are doing the homework. |
+| Er **wohnt** in Hamburg. | He lives in Hamburg. |
+| Sie **arbeitet** im Büro. | She works in the office. |
+| Wir **kommen** aus Vietnam. | We come from Vietnam. |
+| Ihr **spielt** Fußball. | You all play soccer. |
+| Sie **trinken** Kaffee. | They drink coffee. |
 
-### 9.2 Động từ bất quy tắc (đổi nguyên âm)
+### 9.2 Irregular Verbs (Vowel Change)
 
-| Tiếng Đức | Tiếng Việt | Kiểu đổi |
+| German | English | Type |
 |---|---|---|
-| Du **fährst** nach Berlin. | Bạn đi Berlin. | a→ä |
-| Er **liest** ein Buch. | Anh ấy đọc sách. | e→ie |
-| Sie **spricht** drei Sprachen. | Cô ấy nói ba ngôn ngữ. | e→i |
-| Er **isst** einen Apfel. | Anh ấy ăn một quả táo. | e→i |
-| Du **siehst** den Film. | Bạn xem phim. | e→ie |
-| Er **schläft** lange. | Anh ấy ngủ lâu. | a→ä |
-| Sie **nimmt** den Bus. | Cô ấy đi xe buýt. | e→i (đặc biệt) |
+| Du **fährst** nach Berlin. | You are going to Berlin. | a→ä |
+| Er **liest** ein Buch. | He is reading a book. | e→ie |
+| Sie **spricht** drei Sprachen. | She speaks three languages. | e→i |
+| Er **isst** einen Apfel. | He is eating an apple. | e→i |
+| Du **siehst** den Film. | You are watching the movie. | e→ie |
+| Er **schläft** lange. | He sleeps for a long time. | a→ä |
+| Sie **nimmt** den Bus. | She takes the bus. | e→i (special) |
 
-### 9.3 Động từ tách
+### 9.3 Separable Verbs
 
-| Tiếng Đức | Tiếng Việt | Tiền tố |
+| German | English | Prefix |
 |---|---|---|
-| Ich **stehe** früh **auf**. | Tôi dậy sớm. | auf- |
-| Du **kaufst** heute **ein**. | Bạn mua sắm hôm nay. | ein- |
-| Er **ruft** seine Mutter **an**. | Anh ấy gọi cho mẹ. | an- |
-| Wir **kommen** morgen **mit**. | Chúng tôi đi cùng ngày mai. | mit- |
-| Sie **räumt** das Zimmer **auf**. | Cô ấy dọn phòng. | auf- |
-| Ich **sehe** abends **fern**. | Tôi xem TV vào buổi tối. | fern- |
-| **Rufst** du mich heute **an**? | Hôm nay bạn gọi cho tôi không? | an- |
-| **Wann** steht ihr **auf**? | Các bạn dậy lúc mấy giờ? | auf- |
-| Er **fährt** um 8 Uhr **ab**. | Anh ấy khởi hành lúc 8 giờ. | ab- |
-| Sie **lädt** uns **ein**. | Cô ấy mời chúng tôi. | ein- |
+| Ich **stehe** früh **auf**. | I get up early. | auf- |
+| Du **kaufst** heute **ein**. | You are shopping today. | ein- |
+| Er **ruft** seine Mutter **an**. | He is calling his mother. | an- |
+| Wir **kommen** morgen **mit**. | We are coming along tomorrow. | mit- |
+| Sie **räumt** das Zimmer **auf**. | She is tidying the room. | auf- |
+| Ich **sehe** abends **fern**. | I watch TV in the evening. | fern- |
+| **Rufst** du mich heute **an**? | Are you calling me today? | an- |
+| **Wann** steht ihr **auf**? | When do you all get up? | auf- |
+| Er **fährt** um 8 Uhr **ab**. | He departs at 8 o'clock. | ab- |
+| Sie **lädt** uns **ein**. | She is inviting us. | ein- |
 
 ---
 
-## 10 · Chiến lược học hiệu quả
+## 10 · Effective Learning Strategies
 
-### 🎯 Bước 1: Nắm vững đuôi chia quy tắc
+### 🎯 Step 1: Master the Regular Endings
 
-Viết bảng đuôi **-e, -st, -t, -en, -t, -en** ra giấy. Chia 5 động từ quy tắc bất kỳ (machen, lernen, spielen, kochen, hören).
+Write the endings **-e, -st, -t, -en, -t, -en** on paper. Conjugate 5 random regular verbs (machen, lernen, spielen, kochen, hören).
 
-### 🔁 Bước 2: Flashcard cho bất quy tắc
+### 🔁 Step 2: Flashcards for Irregular Verbs
 
-Mặt trước: **fahren (du)** → Mặt sau: **du fährst** (a→ä)
+Front: **fahren (du)** → Back: **du fährst** (a→ä)
 
-Tập trung vào 13 động từ bất quy tắc ở mục 3.3 — đây là nhóm xuất hiện nhiều nhất ở A1.
+Focus on the 13 irregular verbs in section 3.3 — these are the most common at A1.
 
-### 📝 Bước 3: Luyện động từ tách bằng nhật ký
+### 📝 Step 3: Practice Separable Verbs with a Diary
 
-Viết 5 câu mô tả ngày hôm nay dùng động từ tách:
+Write 5 sentences describing your day using separable verbs:
 > *Ich stehe um 7 Uhr auf. Ich kaufe nach der Arbeit ein. Ich rufe meine Mutter an. Ich sehe abends fern. Ich räume mein Zimmer auf.*
 
-### 🗣️ Bước 4: Nói to + nhấn trọng âm
+### 🗣️ Step 4: Speak Aloud + Stress the Prefix
 
-Khi nói động từ tách, **nhấn mạnh tiền tố**: ***AUF**stehen, **AN**rufen, **EIN**kaufen*
-Khi nói động từ không tách, **nhấn mạnh gốc**: *ver**STE**hen, er**ZÄH**len*
+When saying separable verbs, **stress the prefix**: ***AUF**stehen, **AN**rufen, **EIN**kaufen*
+When saying inseparable verbs, **stress the stem**: *ver**STE**hen, er**ZÄH**len*
 
 ---
 
-## 11 · Tóm tắt bài học
+## 11 · Lesson Summary
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  ✅ Đuôi chia quy tắc: -e / -st / -t / -en / -t / -en      │
-│  ✅ Gốc đuôi -t/-d: thêm -e- đệm (du arbeitest)            │
-│  ✅ 3 kiểu đổi nguyên âm: e→i, e→ie, a→ä                   │
-│  ✅ Chỉ đổi ở du & er/sie/es, các ngôi khác bình thường     │
-│  ✅ Động từ tách: gốc ở vị trí 2, tiền tố bay về cuối       │
-│  ✅ Tiền tố tách: auf, an, ein, mit, ab, zu, aus, vor...    │
-│  ✅ Tiền tố KHÔNG tách: be-, er-, ver-, ent-, ge-, emp-      │
-│  ✅ Phân biệt: trọng âm ở tiền tố → tách; ở gốc → không    │
-│  ✅ Câu hỏi: tiền tố vẫn ở cuối câu                        │
+│  ✅ Regular endings: -e / -st / -t / -en / -t / -en          │
+│  ✅ Stem ending -t/-d: add buffer -e- (du arbeitest)         │
+│  ✅ 3 vowel change types: e→i, e→ie, a→ä                    │
+│  ✅ Only changes for du & er/sie/es, others are normal       │
+│  ✅ Separable verbs: stem at position 2, prefix flies to end │
+│  ✅ Separable prefixes: auf, an, ein, mit, ab, zu, aus, vor  │
+│  ✅ Inseparable prefixes: be-, er-, ver-, ent-, ge-, emp-     │
+│  ✅ Distinguish: stress on prefix → separable; on stem → not │
+│  ✅ Questions: prefix still goes to end of sentence          │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Bước tiếp theo
+## Next Steps
 
-1. ✍️ Làm bài tập: [exercises.md](exercises.md)
-2. 🔍 Đối chiếu đáp án: [answers.md](answers.md)
-3. ➡️ Chuyển sang Bài 4: [Trật tự từ, Câu hỏi & Phủ định](../04-word-order-questions-negation/lesson.md)
+1. ✍️ Do the exercises: [exercises.md](exercises.md)
+2. 🔍 Check your answers: [answers.md](answers.md)
+3. ➡️ Continue to Lesson 4: [Word Order, Questions & Negation](../04-word-order-questions-negation/lesson.md)

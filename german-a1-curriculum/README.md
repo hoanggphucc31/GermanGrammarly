@@ -1,69 +1,69 @@
-# 🇩🇪 Chương trình Ngữ pháp Tiếng Đức A1 — Tự học từ con số 0
+# 🇩🇪 German A1 Grammar Curriculum — Self-Study from Zero
 
-> Bộ tài liệu này giúp bạn **nắm vững toàn bộ ngữ pháp A1** trong 21 ngày — đủ để giao tiếp cơ bản và chuẩn bị cho kỳ thi chứng chỉ Goethe/ÖSD A1.
+> This curriculum helps you **master all A1 grammar** in 21 days — enough for basic communication and preparing for the Goethe/ÖSD A1 certificate exam.
 
 ---
 
-## 📂 Cấu trúc khoá học
+## 📂 Course Structure
 
-### 6 Bài giảng chính (Lý thuyết + Ví dụ + Mẹo)
+### 6 Main Lessons (Theory + Examples + Tips)
 
-| # | Chủ đề | Thư mục | Nội dung chính |
+| # | Topic | Folder | Key Content |
 |---|---|---|---|
-| 1 | Danh từ & Mạo từ | `01-nouns-articles/` | der/die/das, ein/eine, kein, giống, số nhiều |
-| 2 | Đại từ & sein/haben | `02-pronouns-sein-haben/` | 9 đại từ, chia sein/haben, mạo từ sở hữu |
-| 3 | Thì hiện tại & Động từ tách | `03-present-tense-separable-verbs/` | Đuôi chia, đổi nguyên âm, trennbare Verben |
-| 4 | Trật tự từ & Phủ định | `04-word-order-questions-negation/` | V2-Regel, W-Fragen, nicht vs kein, doch |
-| 5 | Các cách & Giới từ | `05-cases-prepositions/` | Nom./Akk./Dat., Wechselpräpositionen |
-| 6 | Modal, Mệnh lệnh & Liên từ | `06-modal-verbs-time-connectors/` | 6 Modalverben, Imperativ, um/am/im, und/aber/denn |
+| 1 | Nouns & Articles | `01-nouns-articles/` | der/die/das, ein/eine, kein, gender, plurals |
+| 2 | Pronouns & sein/haben | `02-pronouns-sein-haben/` | 9 pronouns, sein/haben conjugation, possessives |
+| 3 | Present Tense & Separable Verbs | `03-present-tense-separable-verbs/` | Endings, vowel changes, trennbare Verben |
+| 4 | Word Order & Negation | `04-word-order-questions-negation/` | V2-Regel, W-Fragen, nicht vs kein, doch |
+| 5 | Cases & Prepositions | `05-cases-prepositions/` | Nom./Akk./Dat., Wechselpräpositionen |
+| 6 | Modals, Imperative & Connectors | `06-modal-verbs-time-connectors/` | 6 Modalverben, Imperativ, um/am/im, und/aber/denn |
 
-### Tài liệu bổ trợ
+### Supplementary Materials
 
-| Tài liệu | Mô tả |
+| Resource | Description |
 |---|---|
-| 📖 [vocabulary.md](vocabulary.md) | 150+ từ vựng theo chủ đề (ăn uống, gia đình, nhà cửa, giao thông, thời gian) |
-| 🧠 [memorization-tips.md](memorization-tips.md) | 12 phương pháp ghi nhớ hiệu quả |
-| 📅 [study-plan-21-days.md](study-plan-21-days.md) | Kế hoạch học 21 ngày chi tiết |
-| 📝 [practice-test.md](practice-test.md) | Bài kiểm tra tổng hợp 50 câu |
-| 🎯 [a1-exam-prep/](a1-exam-prep/) | Luyện thi chứng chỉ A1 (Đọc, Nghe, Viết, Nói, Mock test) |
+| 📖 [vocabulary.md](vocabulary.md) | 150+ themed vocabulary (food, family, home, transport, time, etc.) |
+| 🧠 [memorization-tips.md](memorization-tips.md) | 12 effective memorization techniques |
+| 📅 [study-plan-21-days.md](study-plan-21-days.md) | Detailed 21-day study plan |
+| 📝 [practice-test.md](practice-test.md) | Comprehensive 50-question test |
+| 🎯 [a1-exam-prep/](a1-exam-prep/) | A1 certificate prep (Reading, Listening, Writing, Speaking, Mock tests) |
 
 ---
 
-## 🗺️ Lộ trình học khuyến nghị
+## 🗺️ Recommended Learning Path
 
 ```
-Tuần 1                    Tuần 2                    Tuần 3
+Week 1                    Week 2                    Week 3
 ┌────────────────┐       ┌────────────────┐       ┌────────────────┐
-│ Bài 1: Danh từ │       │ Bài 3: Động từ │       │ Bài 5: Cách    │
-│ Bài 2: sein/   │  ──►  │ Bài 4: Trật tự │  ──►  │ Bài 6: Modal   │
-│        haben   │       │        từ      │       │ Ôn tập + Thi   │
+│ Lesson 1: Nouns│       │ Lesson 3: Verbs│       │ Lesson 5: Cases│
+│ Lesson 2: sein/│  ──►  │ Lesson 4: Word │  ──►  │ Lesson 6: Modal│
+│        haben   │       │        Order   │       │ Review + Test  │
 └────────────────┘       └────────────────┘       └────────────────┘
 ```
 
-### Quy trình cho MỖI bài:
+### Process for EACH lesson:
 
-1. 📖 Đọc **lesson.md** — hiểu lý thuyết + ví dụ
-2. 🧠 Ghi nhớ **công thức & bảng chia** chính
-3. ✍️ Làm **exercises.md** — không xem đáp án
-4. 🔍 Đối chiếu **answers.md** — đánh dấu lỗi sai
-5. 🔁 Ôn lại lỗi sai sau **1 ngày, 3 ngày, 7 ngày**
-
----
-
-## ⚡ Bắt đầu từ đâu?
-
-- **Mới hoàn toàn?** → Đọc [Bài 1: Danh từ & Mạo từ](01-nouns-articles/lesson.md)
-- **Đã biết cơ bản?** → Làm [Bài kiểm tra 50 câu](practice-test.md) để tìm điểm yếu
-- **Chuẩn bị thi A1?** → Vào [a1-exam-prep/](a1-exam-prep/) luyện 4 kỹ năng
+1. 📖 Read **lesson.md** — understand theory + examples
+2. 🧠 Memorize **key formulas & tables**
+3. ✍️ Do **exercises.md** — don't look at answers
+4. 🔍 Check **answers.md** — mark your mistakes
+5. 🔁 Review mistakes after **1 day, 3 days, 7 days**
 
 ---
 
-## 📌 Quy ước trong bài giảng
+## ⚡ Where to Start?
 
-| Ký hiệu | Nghĩa |
+- **Complete beginner?** → Read [Lesson 1: Nouns & Articles](01-nouns-articles/lesson.md)
+- **Already know basics?** → Take the [50-question test](practice-test.md) to find weak points
+- **Preparing for A1 exam?** → Go to [a1-exam-prep/](a1-exam-prep/) for 4-skill practice
+
+---
+
+## 📌 Conventions Used in Lessons
+
+| Symbol | Meaning |
 |---|---|
-| ✅ | Đúng / Nên làm |
-| ❌ | Sai / Tránh |
-| ⚠️ | Lưu ý quan trọng / Ngoại lệ |
-| 💡 | Mẹo ghi nhớ |
-| 🔵 der / 🔴 die / 🟢 das | Mã màu giống ngữ pháp |
+| ✅ | Correct / Recommended |
+| ❌ | Wrong / Avoid |
+| ⚠️ | Important note / Exception |
+| 💡 | Memory tip |
+| 🔵 der / 🔴 die / 🟢 das | Gender color coding |

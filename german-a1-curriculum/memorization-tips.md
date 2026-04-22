@@ -1,116 +1,116 @@
-# 🧠 12 Phương pháp Ghi nhớ Ngữ pháp Tiếng Đức Hiệu quả
+# 🧠 12 Effective Methods to Memorize German Grammar
 
-> Ngữ pháp tiếng Đức không khó — chỉ cần **phương pháp đúng**. Dưới đây là 12 kỹ thuật đã được chứng minh hiệu quả cho người mới bắt đầu.
+> German grammar is not hard — you just need the **right methods**. Here are 12 proven techniques for beginners.
 
 ---
 
-## 1 · Luôn học danh từ KÈM mạo từ + số nhiều
+## 1 · Always Learn Nouns WITH Article + Plural
 
-Không bao giờ học riêng từ. Học cả "gói":
+Never learn a word alone. Learn the whole "package":
 
-| ❌ Sai | ✅ Đúng |
+| ❌ Wrong | ✅ Correct |
 |---|---|
 | Tisch | **der** Tisch → **die** Tische |
 | Lampe | **die** Lampe → **die** Lampen |
 
 ---
 
-## 2 · Mã màu cho 3 giống (Color Coding)
+## 2 · Color Code the 3 Genders
 
-Dùng **3 màu cố định** cho mọi ghi chú, flashcard, vở:
+Use **3 fixed colors** for all notes, flashcards, and notebooks:
 
-| Màu | Giống | Mạo từ |
+| Color | Gender | Article |
 |---|---|---|
-| 🔵 Xanh dương | Maskulin | der |
-| 🔴 Đỏ | Feminin | die |
-| 🟢 Xanh lá | Neutral | das |
+| 🔵 Blue | Maskulin | der |
+| 🔴 Red | Feminin | die |
+| 🟢 Green | Neutral | das |
 
-> Viết bằng bút màu hoặc highlight — não ghi nhớ **hình ảnh** tốt hơn **chữ**!
-
----
-
-## 3 · Học công thức, không chỉ học quy tắc
-
-Ghi nhớ dưới dạng **template** — dễ áp dụng ngay vào câu:
-
-```
-Câu trần thuật:     S + V + ...
-Câu hỏi Ja/Nein:   V + S + ...?
-Câu hỏi W-:        W + V + S + ...?
-Modal:              S + Modal + ... + Infinitiv
-Động từ tách:       S + Gốc + ... + Tiền tố
-```
+> Write with colored pens or highlighters — the brain remembers **images** better than **text**!
 
 ---
 
-## 4 · Viết 5 câu mỗi ngày (Tagesbuch)
+## 3 · Learn Formulas, Not Just Rules
 
-Mỗi tối, viết **5 câu đơn giản** về ngày hôm nay:
+Memorize as **templates** — easy to apply directly to sentences:
+
+```
+Statement:         S + V + ...
+Yes/No Question:   V + S + ...?
+W-Question:        W + V + S + ...?
+Modal:             S + Modal + ... + Infinitive
+Separable Verb:    S + Stem + ... + Prefix
+```
+
+---
+
+## 4 · Write 5 Sentences Every Day (Tagesbuch)
+
+Every evening, write **5 simple sentences** about your day:
 
 > *Heute bin ich müde. Ich habe viel gearbeitet. Morgen muss ich früh aufstehen. Ich möchte einen Kaffee. Das Wetter ist kalt.*
 
-📌 Dùng cấu trúc mới nhất bạn vừa học!
+📌 Use the newest structure you just learned!
 
 ---
 
-## 5 · Nói to (Laut sprechen)
+## 5 · Speak Out Loud (Laut sprechen)
 
-Ngữ pháp tiếng Đức dễ nhớ hơn khi **miệng** quen thuộc:
+German grammar is easier to remember when your **mouth** gets used to it:
 
-- Nói to bảng chia: *"ich bin, du bist, er ist, wir sind..."*
-- Nhấn mạnh mạo từ: ***DER** Tisch! **DIE** Lampe! **DAS** Buch!*
-- Nhấn trọng âm tiền tố tách: ***AUF**stehen! **AN**rufen!*
+- Say conjugation tables aloud: *"ich bin, du bist, er ist, wir sind..."*
+- Emphasize articles: ***DER** Tisch! **DIE** Lampe! **DAS** Buch!*
+- Stress separable prefixes: ***AUF**stehen! **AN**rufen!*
 
 ---
 
-## 6 · So sánh các dạng tương tự (Kontrastpaare)
+## 6 · Compare Similar Forms (Kontrastpaare)
 
-Đặt cạnh nhau để thấy sự khác biệt:
+Place them side by side to see the difference:
 
-| Nominativ | Akkusativ | Ghi chú |
+| Nominative | Accusative | Note |
 |---|---|---|
-| **der** Mann | **den** Mann | Maskulin đổi! |
-| **die** Frau | **die** Frau | Feminin giữ nguyên |
+| **der** Mann | **den** Mann | Masculine changes! |
+| **die** Frau | **die** Frau | Feminine stays the same |
 
-| nicht | kein | Khi nào? |
+| nicht | kein | When? |
 |---|---|---|
-| Das ist **nicht** teuer. | Das ist **kein** Auto. | nicht = động từ/tính từ, kein = danh từ |
+| Das ist **nicht** teuer. | Das ist **kein** Auto. | nicht = verb/adjective, kein = noun |
 
 ---
 
-## 7 · Sổ tay lỗi sai (Fehlerheft)
+## 7 · Keep a Mistake Notebook (Fehlerheft)
 
-Tạo **1 trang riêng** ghi lại mọi lỗi bạn mắc:
+Create **1 dedicated page** to record every mistake you make:
 
 ```
 ❌ Ich helfe dich.
 ✅ Ich helfe dir.
-📝 helfen + DATIV! (không phải Akkusativ)
+📝 helfen + DATIV! (not Akkusativ)
 ```
 
-Ôn lại sổ này **mỗi tuần** — lỗi cũ sẽ không lặp lại!
+Review this notebook **every week** — old mistakes won't repeat!
 
 ---
 
-## 8 · Lặp lại cách quãng (Spaced Repetition)
+## 8 · Spaced Repetition
 
-Thay vì ôn liên tục, hãy **giãn thời gian** giữa các lần ôn:
+Instead of reviewing continuously, **space out** the intervals:
 
 ```
-Lần 1: ngay sau khi học
-Lần 2: sau 1 ngày
-Lần 3: sau 3 ngày
-Lần 4: sau 7 ngày
-Lần 5: sau 14 ngày
+Round 1: right after learning
+Round 2: after 1 day
+Round 3: after 3 days
+Round 4: after 7 days
+Round 5: after 14 days
 ```
 
-> 💡 Dùng app như **Anki** hoặc flashcard giấy — hệ thống sẽ tự nhắc bạn.
+> 💡 Use apps like **Anki** or physical flashcards — the system will remind you automatically.
 
 ---
 
-## 9 · Viết mini-hội thoại (Mini-Dialoge)
+## 9 · Write Mini-Dialogues (Mini-Dialoge)
 
-Tự viết đoạn hội thoại ngắn 4-6 câu, dùng cấu trúc vừa học:
+Write short 4-6 sentence dialogues using the structures you just learned:
 
 ```
 A: Hallo! Wie heißt du?
@@ -123,60 +123,60 @@ B: Ja, ich habe einen Bruder und eine Schwester.
 
 ---
 
-## 10 · Ưu tiên cấu trúc tần suất cao
+## 10 · Prioritize High-Frequency Structures
 
-Tập trung **80% thời gian** vào những thứ dùng **nhiều nhất**:
+Focus **80% of your time** on what you use **most often**:
 
-| Ưu tiên 1 (hàng ngày) | Ưu tiên 2 (hàng tuần) |
+| Priority 1 (daily) | Priority 2 (weekly) |
 |---|---|
-| sein / haben | Giới từ Dativ |
-| Thì hiện tại | Câu hỏi W- |
-| nicht / kein | Modalverben |
-| Akk. Maskulin (den/einen) | Imperativ |
-| Đại từ nhân xưng | Liên từ |
+| sein / haben | Dative prepositions |
+| Present tense | W-questions |
+| nicht / kein | Modal verbs |
+| Akk. Masculine (den/einen) | Imperative |
+| Personal pronouns | Connectors |
 
 ---
 
-## 11 · Nhóm từ theo mẫu (Muster-Gruppen)
+## 11 · Group Words by Pattern (Muster-Gruppen)
 
-Thay vì nhớ từng từ riêng lẻ, **nhóm theo quy luật**:
+Instead of memorizing individually, **group by pattern**:
 
-**Nhóm "-ung" → luôn die, số nhiều -en:**
+**Group "-ung" → always die, plural -en:**
 > die Wohnung → die Wohnungen
 > die Zeitung → die Zeitungen
 > die Übung → die Übungen
 
-**Nhóm "-chen" → luôn das, số nhiều không đổi:**
+**Group "-chen" → always das, plural unchanged:**
 > das Mädchen → die Mädchen
 > das Brötchen → die Brötchen
 
 ---
 
-## 12 · Tự giới thiệu bản thân mỗi ngày (Selbstvorstellung)
+## 12 · Introduce Yourself Every Day (Selbstvorstellung)
 
-Mỗi sáng, đứng trước gương và nói:
+Every morning, stand in front of a mirror and say:
 
-> *Hallo! Ich heiße [tên]. Ich bin [tuổi] Jahre alt. Ich komme aus Vietnam. Ich wohne in [thành phố]. Ich bin [nghề]. Ich kann Vietnamesisch und ein bisschen Deutsch sprechen. Ich lerne Deutsch, denn ich möchte in Deutschland arbeiten.*
+> *Hallo! Ich heiße [name]. Ich bin [age] Jahre alt. Ich komme aus [country]. Ich wohne in [city]. Ich bin [profession]. Ich kann [language] und ein bisschen Deutsch sprechen. Ich lerne Deutsch, denn ich möchte in Deutschland arbeiten.*
 
-📌 Mỗi tuần, **thêm 1-2 câu mới** vào bài giới thiệu!
+📌 Every week, **add 1-2 new sentences** to your introduction!
 
 ---
 
-## Tóm tắt nhanh
+## Quick Summary
 
 ```
 ┌──────────────────────────────────────────────────┐
-│  1. Học danh từ kèm mạo từ + số nhiều           │
-│  2. Mã màu: 🔵 der / 🔴 die / 🟢 das            │
-│  3. Ghi nhớ công thức câu                        │
-│  4. Viết 5 câu mỗi ngày                         │
-│  5. Nói to khi luyện                             │
-│  6. So sánh các dạng tương tự                    │
-│  7. Ghi sổ tay lỗi sai                          │
-│  8. Lặp lại cách quãng (1-3-7-14 ngày)          │
-│  9. Viết mini-hội thoại                          │
-│  10. Ưu tiên cấu trúc tần suất cao              │
-│  11. Nhóm từ theo mẫu quy luật                  │
-│  12. Tự giới thiệu bản thân mỗi ngày            │
+│  1. Learn nouns with article + plural            │
+│  2. Color coding: 🔵 der / 🔴 die / 🟢 das      │
+│  3. Memorize sentence formulas                   │
+│  4. Write 5 sentences every day                  │
+│  5. Speak out loud when practicing               │
+│  6. Compare similar forms side by side            │
+│  7. Keep a mistake notebook                      │
+│  8. Spaced repetition (1-3-7-14 days)            │
+│  9. Write mini-dialogues                         │
+│  10. Prioritize high-frequency structures        │
+│  11. Group words by pattern                      │
+│  12. Introduce yourself every day                │
 └──────────────────────────────────────────────────┘
 ```

@@ -1,228 +1,228 @@
-# 📖 Từ vựng Tiếng Đức A1 — Theo chủ đề (Số ít & Số nhiều)
+# 📖 German A1 Vocabulary — By Topic (Singular & Plural)
 
-> Học từ vựng **kèm mạo từ + số nhiều** là cách hiệu quả nhất. Bảng dưới đây bao gồm 150+ từ thiết yếu cho A1.
-
----
-
-## Cách sử dụng bảng từ vựng
-
-1. 🗣️ **Đọc to** mỗi dòng: *"der Apfel — die Äpfel"*
-2. 🙈 **Che cột tiếng Việt**, thử nhớ nghĩa
-3. 📝 **Che cột số nhiều**, thử tự đoán
-4. 🎯 Mỗi ngày tập trung **1 chủ đề**
-5. 🃏 Tạo **flashcard**: mặt trước = tiếng Đức, mặt sau = nghĩa + số nhiều
+> Learning vocabulary **with articles + plurals** is the most effective approach. The tables below include 150+ essential words for A1.
 
 ---
 
-## 1 · Thức ăn & Đồ uống (Essen & Trinken) 🍎
+## How to Use This Vocabulary List
 
-| Số ít | Số nhiều | Tiếng Việt | Mẫu số nhiều |
+1. 🗣️ **Read aloud** each row: *"der Apfel — die Äpfel"*
+2. 🙈 **Cover the English column**, try to recall the meaning
+3. 📝 **Cover the plural column**, try to guess it
+4. 🎯 Focus on **1 topic per day**
+5. 🃏 Make **flashcards**: front = German, back = meaning + plural
+
+---
+
+## 1 · Food & Drink (Essen & Trinken) 🍎
+
+| Singular | Plural | English | Plural Pattern |
 |---|---|---|---|
-| der Apfel | die Äpfel | táo | Umlaut |
-| die Banane | die Bananen | chuối | -n |
-| die Birne | die Birnen | lê | -n |
-| die Karotte | die Karotten | cà rốt | -n |
-| die Tomate | die Tomaten | cà chua | -n |
-| die Kartoffel | die Kartoffeln | khoai tây | -n |
-| das Brot | die Brote | bánh mì | -e |
-| die Wurst | die Würste | xúc xích | -e + Umlaut |
-| das Ei | die Eier | trứng | -er |
-| die Milch | — | sữa | không đếm được |
-| der Käse | die Käse | phô mai | không đổi |
-| der Joghurt | die Joghurts | sữa chua | -s |
-| der Saft | die Säfte | nước ép | -e + Umlaut |
-| das Wasser | — | nước | không đếm được |
-| das Bier | die Biere | bia | -e |
-| der Wein | die Weine | rượu vang | -e |
-| der Kaffee | — | cà phê | không đếm được |
-| der Tee | die Tees | trà | -s |
-| der Reis | — | cơm / gạo | không đếm được |
-| das Fleisch | — | thịt | không đếm được |
-| der Fisch | die Fische | cá | -e |
-| der Kuchen | die Kuchen | bánh ngọt | không đổi |
-| die Suppe | die Suppen | súp | -n |
+| der Apfel | die Äpfel | apple | Umlaut |
+| die Banane | die Bananen | banana | -n |
+| die Birne | die Birnen | pear | -n |
+| die Karotte | die Karotten | carrot | -n |
+| die Tomate | die Tomaten | tomato | -n |
+| die Kartoffel | die Kartoffeln | potato | -n |
+| das Brot | die Brote | bread | -e |
+| die Wurst | die Würste | sausage | -e + Umlaut |
+| das Ei | die Eier | egg | -er |
+| die Milch | — | milk | uncountable |
+| der Käse | die Käse | cheese | no change |
+| der Joghurt | die Joghurts | yogurt | -s |
+| der Saft | die Säfte | juice | -e + Umlaut |
+| das Wasser | — | water | uncountable |
+| das Bier | die Biere | beer | -e |
+| der Wein | die Weine | wine | -e |
+| der Kaffee | — | coffee | uncountable |
+| der Tee | die Tees | tea | -s |
+| der Reis | — | rice | uncountable |
+| das Fleisch | — | meat | uncountable |
+| der Fisch | die Fische | fish | -e |
+| der Kuchen | die Kuchen | cake | no change |
+| die Suppe | die Suppen | soup | -n |
 
 ---
 
-## 2 · Quần áo & Phụ kiện (Kleidung & Accessoires) 👔
+## 2 · Clothing & Accessories (Kleidung & Accessoires) 👔
 
-| Số ít | Số nhiều | Tiếng Việt | Mẫu số nhiều |
+| Singular | Plural | English | Plural Pattern |
 |---|---|---|---|
-| das Hemd | die Hemden | áo sơ mi | -en |
-| die Bluse | die Blusen | áo kiểu nữ | -n |
-| der Pullover | die Pullover | áo len | không đổi |
-| die Jacke | die Jacken | áo khoác | -n |
-| der Mantel | die Mäntel | áo choàng | Umlaut |
-| die Hose | die Hosen | quần dài | -n |
-| der Rock | die Röcke | váy | -e + Umlaut |
-| das Kleid | die Kleider | đầm / váy liền | -er |
-| der Schuh | die Schuhe | giày | -e |
-| die Socke | die Socken | tất | -n |
-| der Hut | die Hüte | mũ | -e + Umlaut |
-| der Schal | die Schals | khăn quàng | -s |
-| die Brille | die Brillen | kính mắt | -n |
-| die Uhr | die Uhren | đồng hồ | -en |
-| der Ring | die Ringe | nhẫn | -e |
-| die Tasche | die Taschen | túi xách | -n |
+| das Hemd | die Hemden | shirt | -en |
+| die Bluse | die Blusen | blouse | -n |
+| der Pullover | die Pullover | sweater | no change |
+| die Jacke | die Jacken | jacket | -n |
+| der Mantel | die Mäntel | coat | Umlaut |
+| die Hose | die Hosen | trousers/pants | -n |
+| der Rock | die Röcke | skirt | -e + Umlaut |
+| das Kleid | die Kleider | dress | -er |
+| der Schuh | die Schuhe | shoe | -e |
+| die Socke | die Socken | sock | -n |
+| der Hut | die Hüte | hat | -e + Umlaut |
+| der Schal | die Schals | scarf | -s |
+| die Brille | die Brillen | glasses | -n |
+| die Uhr | die Uhren | watch | -en |
+| der Ring | die Ringe | ring | -e |
+| die Tasche | die Taschen | bag/handbag | -n |
 
 ---
 
-## 3 · Gia đình & Con người (Familie & Menschen) 👨‍👩‍👧‍👦
+## 3 · Family & People (Familie & Menschen) 👨‍👩‍👧‍👦
 
-| Số ít | Số nhiều | Tiếng Việt | Mẫu số nhiều |
+| Singular | Plural | English | Plural Pattern |
 |---|---|---|---|
-| der Mann | die Männer | đàn ông / chồng | -er + Umlaut |
-| die Frau | die Frauen | phụ nữ / vợ | -en |
-| der Junge | die Jungen | cậu bé | -n |
-| das Mädchen | die Mädchen | cô gái | không đổi ⚠️ Neutral! |
-| das Kind | die Kinder | trẻ em | -er |
-| der Vater | die Väter | bố | Umlaut |
-| die Mutter | die Mütter | mẹ | Umlaut |
-| der Sohn | die Söhne | con trai | -e + Umlaut |
-| die Tochter | die Töchter | con gái | Umlaut |
-| der Bruder | die Brüder | anh/em trai | Umlaut |
-| die Schwester | die Schwestern | chị/em gái | -n |
-| der Onkel | die Onkel | chú/bác | không đổi |
-| die Tante | die Tanten | cô/dì | -n |
-| der Freund | die Freunde | bạn (nam) | -e |
-| die Freundin | die Freundinnen | bạn (nữ) | -nen |
-| der Kollege | die Kollegen | đồng nghiệp (nam) | -n |
-| die Kollegin | die Kolleginnen | đồng nghiệp (nữ) | -nen |
-| der Nachbar | die Nachbarn | hàng xóm (nam) | -n |
-| die Nachbarin | die Nachbarinnen | hàng xóm (nữ) | -nen |
-| der Arzt | die Ärzte | bác sĩ (nam) | -e + Umlaut |
-| die Ärztin | die Ärztinnen | bác sĩ (nữ) | -nen |
-| der Lehrer | die Lehrer | giáo viên (nam) | không đổi |
-| die Lehrerin | die Lehrerinnen | giáo viên (nữ) | -nen |
-| der Student | die Studenten | sinh viên (nam) | -en |
-| die Studentin | die Studentinnen | sinh viên (nữ) | -nen |
+| der Mann | die Männer | man / husband | -er + Umlaut |
+| die Frau | die Frauen | woman / wife | -en |
+| der Junge | die Jungen | boy | -n |
+| das Mädchen | die Mädchen | girl | no change ⚠️ Neutral! |
+| das Kind | die Kinder | child | -er |
+| der Vater | die Väter | father | Umlaut |
+| die Mutter | die Mütter | mother | Umlaut |
+| der Sohn | die Söhne | son | -e + Umlaut |
+| die Tochter | die Töchter | daughter | Umlaut |
+| der Bruder | die Brüder | brother | Umlaut |
+| die Schwester | die Schwestern | sister | -n |
+| der Onkel | die Onkel | uncle | no change |
+| die Tante | die Tanten | aunt | -n |
+| der Freund | die Freunde | friend (male) | -e |
+| die Freundin | die Freundinnen | friend (female) | -nen |
+| der Kollege | die Kollegen | colleague (male) | -n |
+| die Kollegin | die Kolleginnen | colleague (female) | -nen |
+| der Nachbar | die Nachbarn | neighbor (male) | -n |
+| die Nachbarin | die Nachbarinnen | neighbor (female) | -nen |
+| der Arzt | die Ärzte | doctor (male) | -e + Umlaut |
+| die Ärztin | die Ärztinnen | doctor (female) | -nen |
+| der Lehrer | die Lehrer | teacher (male) | no change |
+| die Lehrerin | die Lehrerinnen | teacher (female) | -nen |
+| der Student | die Studenten | student (male) | -en |
+| die Studentin | die Studentinnen | student (female) | -nen |
 
-> 💡 **Quy luật:** Nghề nữ = nghề nam + **-in** (số nhiều: **-innen**). Ví dụ: Lehrer → Lehrer**in** → Lehrer**innen**
+> 💡 **Pattern:** Female profession = male profession + **-in** (plural: **-innen**). Example: Lehrer → Lehrer**in** → Lehrer**innen**
 
 ---
 
-## 4 · Nhà cửa & Nội thất (Haus & Wohnung) 🏠
+## 4 · Home & Furniture (Haus & Wohnung) 🏠
 
-| Số ít | Số nhiều | Tiếng Việt | Mẫu số nhiều |
+| Singular | Plural | English | Plural Pattern |
 |---|---|---|---|
-| das Haus | die Häuser | nhà | -er + Umlaut |
-| die Wohnung | die Wohnungen | căn hộ | -en |
-| das Zimmer | die Zimmer | phòng | không đổi |
-| die Küche | die Küchen | bếp | -n |
-| das Bad | die Bäder | phòng tắm | -er + Umlaut |
-| das Schlafzimmer | die Schlafzimmer | phòng ngủ | không đổi |
-| das Wohnzimmer | die Wohnzimmer | phòng khách | không đổi |
-| der Flur | die Flure | hành lang | -e |
-| das Fenster | die Fenster | cửa sổ | không đổi |
-| die Tür | die Türen | cửa | -en |
-| der Stuhl | die Stühle | ghế | -e + Umlaut |
-| der Tisch | die Tische | bàn | -e |
-| das Bett | die Betten | giường | -en |
-| der Schrank | die Schränke | tủ | -e + Umlaut |
-| das Regal | die Regale | kệ | -e |
-| die Lampe | die Lampen | đèn | -n |
-| der Teppich | die Teppiche | thảm | -e |
-| das Bild | die Bilder | tranh / hình | -er |
-| der Spiegel | die Spiegel | gương | không đổi |
-| der Schlüssel | die Schlüssel | chìa khoá | không đổi |
-| der Kühlschrank | die Kühlschränke | tủ lạnh | -e + Umlaut |
-| die Waschmaschine | die Waschmaschinen | máy giặt | -n |
+| das Haus | die Häuser | house | -er + Umlaut |
+| die Wohnung | die Wohnungen | apartment | -en |
+| das Zimmer | die Zimmer | room | no change |
+| die Küche | die Küchen | kitchen | -n |
+| das Bad | die Bäder | bathroom | -er + Umlaut |
+| das Schlafzimmer | die Schlafzimmer | bedroom | no change |
+| das Wohnzimmer | die Wohnzimmer | living room | no change |
+| der Flur | die Flure | hallway | -e |
+| das Fenster | die Fenster | window | no change |
+| die Tür | die Türen | door | -en |
+| der Stuhl | die Stühle | chair | -e + Umlaut |
+| der Tisch | die Tische | table | -e |
+| das Bett | die Betten | bed | -en |
+| der Schrank | die Schränke | wardrobe/cupboard | -e + Umlaut |
+| das Regal | die Regale | shelf | -e |
+| die Lampe | die Lampen | lamp | -n |
+| der Teppich | die Teppiche | carpet | -e |
+| das Bild | die Bilder | picture/painting | -er |
+| der Spiegel | die Spiegel | mirror | no change |
+| der Schlüssel | die Schlüssel | key | no change |
+| der Kühlschrank | die Kühlschränke | refrigerator | -e + Umlaut |
+| die Waschmaschine | die Waschmaschinen | washing machine | -n |
 
 ---
 
-## 5 · Giao thông & Địa điểm (Verkehr & Orte) 🚌
+## 5 · Transport & Places (Verkehr & Orte) 🚌
 
-| Số ít | Số nhiều | Tiếng Việt | Mẫu số nhiều |
+| Singular | Plural | English | Plural Pattern |
 |---|---|---|---|
-| das Auto | die Autos | xe hơi | -s |
-| der Bus | die Busse | xe buýt | -se |
-| der Zug | die Züge | tàu hoả | -e + Umlaut |
-| das Fahrrad | die Fahrräder | xe đạp | -er + Umlaut |
-| das Flugzeug | die Flugzeuge | máy bay | -e |
-| der Bahnhof | die Bahnhöfe | ga tàu | -e + Umlaut |
-| der Flughafen | die Flughäfen | sân bay | Umlaut |
-| die Haltestelle | die Haltestellen | trạm xe | -n |
-| die Straße | die Straßen | đường phố | -n |
-| der Platz | die Plätze | quảng trường | -e + Umlaut |
-| das Museum | die Museen | bảo tàng | -en (đặc biệt) |
-| das Kino | die Kinos | rạp phim | -s |
-| das Restaurant | die Restaurants | nhà hàng | -s |
-| das Café | die Cafés | quán cà phê | -s |
-| das Hotel | die Hotels | khách sạn | -s |
-| das Krankenhaus | die Krankenhäuser | bệnh viện | -er + Umlaut |
-| die Apotheke | die Apotheken | hiệu thuốc | -n |
-| der Supermarkt | die Supermärkte | siêu thị | -e + Umlaut |
-| die Schule | die Schulen | trường học | -n |
-| die Universität | die Universitäten | đại học | -en |
-| die Bibliothek | die Bibliotheken | thư viện | -en |
-| der Park | die Parks | công viên | -s |
-| der Garten | die Gärten | vườn | Umlaut |
-| der See | die Seen | hồ | -n |
-| das Meer | die Meere | biển | -e |
-| der Strand | die Strände | bãi biển | -e + Umlaut |
+| das Auto | die Autos | car | -s |
+| der Bus | die Busse | bus | -se |
+| der Zug | die Züge | train | -e + Umlaut |
+| das Fahrrad | die Fahrräder | bicycle | -er + Umlaut |
+| das Flugzeug | die Flugzeuge | airplane | -e |
+| der Bahnhof | die Bahnhöfe | train station | -e + Umlaut |
+| der Flughafen | die Flughäfen | airport | Umlaut |
+| die Haltestelle | die Haltestellen | bus/tram stop | -n |
+| die Straße | die Straßen | street/road | -n |
+| der Platz | die Plätze | square | -e + Umlaut |
+| das Museum | die Museen | museum | -en (special) |
+| das Kino | die Kinos | cinema | -s |
+| das Restaurant | die Restaurants | restaurant | -s |
+| das Café | die Cafés | café | -s |
+| das Hotel | die Hotels | hotel | -s |
+| das Krankenhaus | die Krankenhäuser | hospital | -er + Umlaut |
+| die Apotheke | die Apotheken | pharmacy | -n |
+| der Supermarkt | die Supermärkte | supermarket | -e + Umlaut |
+| die Schule | die Schulen | school | -n |
+| die Universität | die Universitäten | university | -en |
+| die Bibliothek | die Bibliotheken | library | -en |
+| der Park | die Parks | park | -s |
+| der Garten | die Gärten | garden | Umlaut |
+| der See | die Seen | lake | -n |
+| das Meer | die Meere | sea | -e |
+| der Strand | die Strände | beach | -e + Umlaut |
 
 ---
 
-## 6 · Thời gian & Lịch (Zeit & Kalender) 📅
+## 6 · Time & Calendar (Zeit & Kalender) 📅
 
-### Các ngày trong tuần (Wochentage) — tất cả là **der**
+### Days of the Week (Wochentage) — all are **der**
 
-| Tiếng Đức | Tiếng Việt | Giới từ |
+| German | English | Preposition |
 |---|---|---|
-| der Montag | Thứ Hai | **am** Montag |
-| der Dienstag | Thứ Ba | **am** Dienstag |
-| der Mittwoch | Thứ Tư | **am** Mittwoch |
-| der Donnerstag | Thứ Năm | **am** Donnerstag |
-| der Freitag | Thứ Sáu | **am** Freitag |
-| der Samstag | Thứ Bảy | **am** Samstag |
-| der Sonntag | Chủ Nhật | **am** Sonntag |
+| der Montag | Monday | **am** Montag |
+| der Dienstag | Tuesday | **am** Dienstag |
+| der Mittwoch | Wednesday | **am** Mittwoch |
+| der Donnerstag | Thursday | **am** Donnerstag |
+| der Freitag | Friday | **am** Freitag |
+| der Samstag | Saturday | **am** Samstag |
+| der Sonntag | Sunday | **am** Sonntag |
 
-### Các tháng (Monate) — tất cả là **der**
+### Months (Monate) — all are **der**
 
-| Tiếng Đức | Tiếng Việt | Giới từ |
+| German | English | Preposition |
 |---|---|---|
-| der Januar | Tháng 1 | **im** Januar |
-| der Februar | Tháng 2 | **im** Februar |
-| der März | Tháng 3 | **im** März |
-| der April | Tháng 4 | **im** April |
-| der Mai | Tháng 5 | **im** Mai |
-| der Juni | Tháng 6 | **im** Juni |
-| der Juli | Tháng 7 | **im** Juli |
-| der August | Tháng 8 | **im** August |
-| der September | Tháng 9 | **im** September |
-| der Oktober | Tháng 10 | **im** Oktober |
-| der November | Tháng 11 | **im** November |
-| der Dezember | Tháng 12 | **im** Dezember |
+| der Januar | January | **im** Januar |
+| der Februar | February | **im** Februar |
+| der März | March | **im** März |
+| der April | April | **im** April |
+| der Mai | May | **im** Mai |
+| der Juni | June | **im** Juni |
+| der Juli | July | **im** Juli |
+| der August | August | **im** August |
+| der September | September | **im** September |
+| der Oktober | October | **im** Oktober |
+| der November | November | **im** November |
+| der Dezember | December | **im** Dezember |
 
-### Các mùa (Jahreszeiten) — tất cả là **der**
+### Seasons (Jahreszeiten) — all are **der**
 
-| Tiếng Đức | Tiếng Việt | Giới từ |
+| German | English | Preposition |
 |---|---|---|
-| der Frühling | Mùa xuân | **im** Frühling |
-| der Sommer | Mùa hè | **im** Sommer |
-| der Herbst | Mùa thu | **im** Herbst |
-| der Winter | Mùa đông | **im** Winter |
+| der Frühling | spring | **im** Frühling |
+| der Sommer | summer | **im** Sommer |
+| der Herbst | autumn | **im** Herbst |
+| der Winter | winter | **im** Winter |
 
-### Thời gian khác
+### Other Time Words
 
-| Tiếng Đức | Tiếng Việt |
+| German | English |
 |---|---|
-| der Tag / die Tage | ngày |
-| die Nacht / die Nächte | đêm |
-| die Woche / die Wochen | tuần |
-| der Monat / die Monate | tháng |
-| das Jahr / die Jahre | năm |
-| der Morgen | buổi sáng |
-| der Mittag | buổi trưa |
-| der Abend / die Abende | buổi tối |
-| die Stunde / die Stunden | giờ (khoảng thời gian) |
-| die Minute / die Minuten | phút |
+| der Tag / die Tage | day |
+| die Nacht / die Nächte | night |
+| die Woche / die Wochen | week |
+| der Monat / die Monate | month |
+| das Jahr / die Jahre | year |
+| der Morgen | morning |
+| der Mittag | noon |
+| der Abend / die Abende | evening |
+| die Stunde / die Stunden | hour |
+| die Minute / die Minuten | minute |
 
 ---
 
-## 7 · Số đếm (Zahlen) 🔢
+## 7 · Numbers (Zahlen) 🔢
 
-| Số | Tiếng Đức | | Số | Tiếng Đức |
+| Number | German | | Number | German |
 |---|---|---|---|---|
 | 0 | null | | 11 | elf |
 | 1 | eins | | 12 | zwölf |
@@ -236,9 +236,9 @@
 | 9 | neun | | 20 | zwanzig |
 | 10 | zehn | | 100 | hundert |
 
-> 💡 Từ 21 trở đi: đọc **hàng đơn vị trước**: 21 = ein**und**zwanzig, 35 = fünf**und**dreißig
+> 💡 From 21 onwards: read the **ones digit first**: 21 = ein**und**zwanzig, 35 = fünf**und**dreißig
 
-| Số | Tiếng Đức |
+| Number | German |
 |---|---|
 | 30 | dreißig |
 | 40 | vierzig |
@@ -251,74 +251,74 @@
 
 ---
 
-## 8 · Tính từ phổ biến (Adjektive) 📊
+## 8 · Common Adjectives (Adjektive) 📊
 
-| Tiếng Đức | Tiếng Việt | Trái nghĩa | Tiếng Việt |
+| German | English | Opposite | English |
 |---|---|---|---|
-| groß | lớn, to | klein | nhỏ, bé |
-| alt | già, cũ | neu / jung | mới / trẻ |
-| gut | tốt | schlecht | xấu, tệ |
-| schön | đẹp | hässlich | xấu xí |
-| teuer | đắt | billig | rẻ |
-| schnell | nhanh | langsam | chậm |
-| leicht | dễ, nhẹ | schwer | khó, nặng |
-| heiß | nóng | kalt | lạnh |
-| lang | dài | kurz | ngắn |
-| laut | ồn | leise | yên lặng |
-| nett | tốt bụng | böse | ác, giận |
-| müde | mệt | fit | khoẻ |
-| hungrig | đói | satt | no |
-| richtig | đúng | falsch | sai |
-| frei | trống, tự do | besetzt | đã có người |
+| groß | big, tall | klein | small, short |
+| alt | old | neu / jung | new / young |
+| gut | good | schlecht | bad |
+| schön | beautiful | hässlich | ugly |
+| teuer | expensive | billig | cheap |
+| schnell | fast | langsam | slow |
+| leicht | easy, light | schwer | difficult, heavy |
+| heiß | hot | kalt | cold |
+| lang | long | kurz | short |
+| laut | loud | leise | quiet |
+| nett | nice, kind | böse | mean, angry |
+| müde | tired | fit | fit, energetic |
+| hungrig | hungry | satt | full |
+| richtig | correct | falsch | wrong |
+| frei | free, available | besetzt | occupied |
 
 ---
 
-## 9 · Động từ thường gặp (Wichtige Verben) 💪
+## 9 · Common Verbs (Wichtige Verben) 💪
 
-| Tiếng Đức | Tiếng Việt | Đặc biệt? |
+| German | English | Special? |
 |---|---|---|
-| sein | là, ở | bất quy tắc |
-| haben | có | bất quy tắc |
-| machen | làm | quy tắc |
-| gehen | đi (bộ) | quy tắc |
-| kommen | đến | quy tắc |
-| wohnen | sống (ở đâu) | quy tắc |
-| arbeiten | làm việc | -e- đệm |
-| lernen | học | quy tắc |
-| sprechen | nói | e→i |
-| lesen | đọc | e→ie |
-| schreiben | viết | quy tắc |
-| fahren | đi (xe) | a→ä |
-| essen | ăn | e→i |
-| trinken | uống | quy tắc |
-| schlafen | ngủ | a→ä |
-| kaufen | mua | quy tắc |
-| kochen | nấu | quy tắc |
-| spielen | chơi | quy tắc |
-| sehen | nhìn | e→ie |
-| hören | nghe | quy tắc |
-| verstehen | hiểu | không tách |
-| brauchen | cần | quy tắc |
-| helfen | giúp | e→i, +Dativ |
-| gefallen | thích | a→ä, +Dativ |
-| aufstehen | dậy | tách |
-| anrufen | gọi điện | tách |
-| einkaufen | mua sắm | tách |
-| fernsehen | xem TV | tách, e→ie |
+| sein | to be | irregular |
+| haben | to have | irregular |
+| machen | to make/do | regular |
+| gehen | to go (walk) | regular |
+| kommen | to come | regular |
+| wohnen | to live (reside) | regular |
+| arbeiten | to work | -e- buffer |
+| lernen | to learn | regular |
+| sprechen | to speak | e→i |
+| lesen | to read | e→ie |
+| schreiben | to write | regular |
+| fahren | to go (vehicle) | a→ä |
+| essen | to eat | e→i |
+| trinken | to drink | regular |
+| schlafen | to sleep | a→ä |
+| kaufen | to buy | regular |
+| kochen | to cook | regular |
+| spielen | to play | regular |
+| sehen | to see | e→ie |
+| hören | to hear | regular |
+| verstehen | to understand | inseparable |
+| brauchen | to need | regular |
+| helfen | to help | e→i, +Dativ |
+| gefallen | to please/like | a→ä, +Dativ |
+| aufstehen | to get up | separable |
+| anrufen | to call (phone) | separable |
+| einkaufen | to shop | separable |
+| fernsehen | to watch TV | separable, e→ie |
 
 ---
 
-## 10 · Câu hỏi thường dùng (Wichtige Fragen) ❓
+## 10 · Essential Questions (Wichtige Fragen) ❓
 
-| Tiếng Đức | Tiếng Việt |
+| German | English |
 |---|---|
-| Wie heißen Sie? / Wie heißt du? | Ông/Bà / Bạn tên gì? |
-| Woher kommen Sie? | Ông/Bà đến từ đâu? |
-| Wo wohnen Sie? | Ông/Bà sống ở đâu? |
-| Was machen Sie beruflich? | Ông/Bà làm nghề gì? |
-| Wie alt sind Sie? | Ông/Bà bao nhiêu tuổi? |
-| Haben Sie Kinder? | Ông/Bà có con không? |
-| Sprechen Sie Englisch? | Ông/Bà nói tiếng Anh không? |
-| Wie viel kostet das? | Cái này giá bao nhiêu? |
-| Wo ist die Toilette? | Nhà vệ sinh ở đâu? |
-| Können Sie das wiederholen? | Ông/Bà có thể nhắc lại không? |
+| Wie heißen Sie? / Wie heißt du? | What is your name? |
+| Woher kommen Sie? | Where are you from? |
+| Wo wohnen Sie? | Where do you live? |
+| Was machen Sie beruflich? | What do you do for work? |
+| Wie alt sind Sie? | How old are you? |
+| Haben Sie Kinder? | Do you have children? |
+| Sprechen Sie Englisch? | Do you speak English? |
+| Wie viel kostet das? | How much does that cost? |
+| Wo ist die Toilette? | Where is the restroom? |
+| Können Sie das wiederholen? | Can you repeat that? |

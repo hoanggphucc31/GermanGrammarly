@@ -1,174 +1,174 @@
-# 📅 Kế hoạch Tự học 21 Ngày — Ngữ pháp Tiếng Đức A1
+# 📅 21-Day Self-Study Plan — German A1 Grammar
 
-> **Mục tiêu:** Nắm vững toàn bộ 6 chủ đề ngữ pháp A1 trong 3 tuần. Mỗi ngày học **45-60 phút**.
-
----
-
-## Tuần 1: Nền tảng (Danh từ, Mạo từ, sein/haben, Sở hữu)
-
-### Ngày 1 — Danh từ & Mạo từ (Phần 1)
-- [ ] Đọc [Bài 1: lesson.md](01-nouns-articles/lesson.md) → Mục 1-5
-- [ ] Học thuộc bảng: der / die / das / ein / eine / kein
-- [ ] Học 20 danh từ kèm mạo từ từ [vocabulary.md](vocabulary.md) (chủ đề 1-2)
-- [ ] 🗣️ Nói to 20 từ kèm mạo từ
-
-### Ngày 2 — Danh từ & Mạo từ (Phần 2) + Số nhiều
-- [ ] Đọc [Bài 1: lesson.md](01-nouns-articles/lesson.md) → Mục 6-14
-- [ ] Đọc [plural-rules-guide.md](01-nouns-articles/plural-rules-guide.md)
-- [ ] Tự tạo danh sách 20 cặp số ít / số nhiều
-- [ ] Làm [exercises.md](01-nouns-articles/exercises.md)
-- [ ] Đối chiếu [answers.md](01-nouns-articles/answers.md), đánh dấu lỗi
-
-### Ngày 3 — Đại từ nhân xưng + sein
-- [ ] Đọc [Bài 2: lesson.md](02-pronouns-sein-haben/lesson.md) → Mục 1-2
-- [ ] Học thuộc bảng chia **sein** (viết 5 lần)
-- [ ] Viết 10 câu với sein: *Ich bin..., Du bist..., Er ist...*
-- [ ] 🗣️ Nói to bảng chia sein 3 lần
-
-### Ngày 4 — haben + Phân biệt sein/haben
-- [ ] Đọc [Bài 2: lesson.md](02-pronouns-sein-haben/lesson.md) → Mục 3-4
-- [ ] Học thuộc bảng chia **haben** (viết 5 lần)
-- [ ] Viết 10 câu phân biệt sein vs haben
-- [ ] Làm [exercises.md](02-pronouns-sein-haben/exercises.md) câu 1-15
-
-### Ngày 5 — Mạo từ sở hữu
-- [ ] Đọc [Bài 2: lesson.md](02-pronouns-sein-haben/lesson.md) → Mục 5-11
-- [ ] Học bảng đuôi mein/dein/sein/ihr ở Nom. & Akk.
-- [ ] Viết 10 câu: *mein Bruder, meine Schwester, meinen Vater*
-- [ ] Làm [exercises.md](02-pronouns-sein-haben/exercises.md) câu 16-30
-
-### Ngày 6 — 🔁 Ôn tập Tuần 1
-- [ ] Ôn lại bảng mạo từ + bảng chia sein/haben
-- [ ] Làm lại các bài tập đã sai
-- [ ] Học thêm 15 từ vựng từ [vocabulary.md](vocabulary.md) (chủ đề 3)
-- [ ] 🗣️ Đọc to 30 câu ví dụ từ Bài 1 & 2
-
-### Ngày 7 — 📝 Mini-test + Tự giới thiệu
-- [ ] Tự kiểm tra: làm bài "Tự kiểm tra nhanh" ở cuối Bài 1 & 2
-- [ ] ✍️ Viết bài tự giới thiệu bằng tiếng Đức (5-8 câu)
-- [ ] 🗣️ Nói to bài giới thiệu 3 lần
-- [ ] Ghi sổ lỗi sai
+> **Goal:** Master all 6 grammar topics at A1 level in 3 weeks. Study **45-60 minutes** per day.
 
 ---
 
-## Tuần 2: Động từ & Cấu trúc câu
+## Week 1: Foundations (Nouns, Articles, sein/haben, Possessives)
 
-### Ngày 8 — Động từ quy tắc (Thì hiện tại)
-- [ ] Đọc [Bài 3: lesson.md](03-present-tense-separable-verbs/lesson.md) → Mục 1-2
-- [ ] Học thuộc đuôi chia: -e / -st / -t / -en / -t / -en
-- [ ] Chia 5 động từ quy tắc ở tất cả các ngôi
-- [ ] Viết 10 câu thì hiện tại
+### Day 1 — Nouns & Articles (Part 1)
+- [ ] Read [Lesson 1: lesson.md](01-nouns-articles/lesson.md) → Sections 1-5
+- [ ] Memorize the table: der / die / das / ein / eine / kein
+- [ ] Learn 20 nouns with articles from [vocabulary.md](vocabulary.md) (topics 1-2)
+- [ ] 🗣️ Say 20 words aloud with their articles
 
-### Ngày 9 — Động từ bất quy tắc + Đổi nguyên âm
-- [ ] Đọc [Bài 3: lesson.md](03-present-tense-separable-verbs/lesson.md) → Mục 3
-- [ ] Học thuộc 13 động từ đổi nguyên âm (bảng 3.3)
-- [ ] Làm [exercises.md](03-present-tense-separable-verbs/exercises.md) câu 1-15
-- [ ] 🗣️ Luyện nói: *du fährst, er spricht, sie liest...*
+### Day 2 — Nouns & Articles (Part 2) + Plurals
+- [ ] Read [Lesson 1: lesson.md](01-nouns-articles/lesson.md) → Sections 6-14
+- [ ] Read [plural-rules-guide.md](01-nouns-articles/plural-rules-guide.md)
+- [ ] Create your own list of 20 singular / plural pairs
+- [ ] Do [exercises.md](01-nouns-articles/exercises.md)
+- [ ] Check [answers.md](01-nouns-articles/answers.md), mark mistakes
 
-### Ngày 10 — Động từ tách + Không tách
-- [ ] Đọc [Bài 3: lesson.md](03-present-tense-separable-verbs/lesson.md) → Mục 4-5
-- [ ] Viết 10 câu với động từ tách: aufstehen, anrufen, einkaufen...
-- [ ] Làm [exercises.md](03-present-tense-separable-verbs/exercises.md) câu 16-30
-- [ ] Đối chiếu đáp án, ghi sổ lỗi
+### Day 3 — Personal Pronouns + sein
+- [ ] Read [Lesson 2: lesson.md](02-pronouns-sein-haben/lesson.md) → Sections 1-2
+- [ ] Memorize the **sein** conjugation table (write it 5 times)
+- [ ] Write 10 sentences with sein: *Ich bin..., Du bist..., Er ist...*
+- [ ] 🗣️ Say the sein table aloud 3 times
 
-### Ngày 11 — Trật tự từ + Câu hỏi
-- [ ] Đọc [Bài 4: lesson.md](04-word-order-questions-negation/lesson.md) → Mục 1-3
-- [ ] Luyện V2-Regel: viết 10 câu rồi đưa thời gian lên đầu (đảo ngữ)
-- [ ] Viết 10 câu hỏi W- + 5 câu hỏi Ja/Nein
-- [ ] Làm [exercises.md](04-word-order-questions-negation/exercises.md) câu 1-15
+### Day 4 — haben + Distinguishing sein/haben
+- [ ] Read [Lesson 2: lesson.md](02-pronouns-sein-haben/lesson.md) → Sections 3-4
+- [ ] Memorize the **haben** conjugation table (write it 5 times)
+- [ ] Write 10 sentences distinguishing sein vs haben
+- [ ] Do [exercises.md](02-pronouns-sein-haben/exercises.md) questions 1-15
 
-### Ngày 12 — nicht vs kein + doch
-- [ ] Đọc [Bài 4: lesson.md](04-word-order-questions-negation/lesson.md) → Mục 4-7
-- [ ] Viết 10 câu phủ định: 5 với nicht, 5 với kein
-- [ ] Luyện trả lời Ja / Nein / Doch
-- [ ] Làm [exercises.md](04-word-order-questions-negation/exercises.md) câu 16-30
+### Day 5 — Possessive Articles
+- [ ] Read [Lesson 2: lesson.md](02-pronouns-sein-haben/lesson.md) → Sections 5-11
+- [ ] Learn mein/dein/sein/ihr endings for Nom. & Akk.
+- [ ] Write 10 sentences: *mein Bruder, meine Schwester, meinen Vater*
+- [ ] Do [exercises.md](02-pronouns-sein-haben/exercises.md) questions 16-30
 
-### Ngày 13 — 🔁 Ôn tập Tuần 2
-- [ ] Ôn lại bảng chia động từ + đổi nguyên âm
-- [ ] Ôn lại: V2, đảo ngữ, nicht vs kein
-- [ ] Làm lại các bài tập sai từ Bài 3 & 4
-- [ ] Học 15 từ vựng từ [vocabulary.md](vocabulary.md) (chủ đề 4-5)
+### Day 6 — 🔁 Week 1 Review
+- [ ] Review the article tables + sein/haben conjugations
+- [ ] Redo any wrong exercises
+- [ ] Learn 15 more words from [vocabulary.md](vocabulary.md) (topic 3)
+- [ ] 🗣️ Read 30 example sentences aloud from Lessons 1 & 2
 
-### Ngày 14 — 📝 Mini-test + Hội thoại
-- [ ] Tự kiểm tra: làm bài ở cuối Bài 3 & 4
-- [ ] ✍️ Viết đoạn hội thoại 8-10 câu (hỏi đáp về công việc/gia đình)
-- [ ] 🗣️ Đọc to hội thoại
-- [ ] Ghi sổ lỗi sai
-
----
-
-## Tuần 3: Cách, Giới từ, Modal & Tổng ôn
-
-### Ngày 15 — Nominativ & Akkusativ
-- [ ] Đọc [Bài 5: lesson.md](05-cases-prepositions/lesson.md) → Mục 1-3
-- [ ] Học thuộc bảng mạo từ Nom. vs Akk.
-- [ ] Học đại từ Akkusativ: mich, dich, ihn...
-- [ ] Viết 10 câu với Akkusativ
-
-### Ngày 16 — Dativ + Giới từ
-- [ ] Đọc [Bài 5: lesson.md](05-cases-prepositions/lesson.md) → Mục 4-6
-- [ ] Học thuộc bảng mạo từ Dativ: dem/der/dem/den
-- [ ] Học giới từ Akk. (FUDGO) + Dat. (mit/nach/aus/bei/von/zu)
-- [ ] Làm [exercises.md](05-cases-prepositions/exercises.md) câu 1-15
-
-### Ngày 17 — Giới từ hai chiều (Wo? vs Wohin?)
-- [ ] Đọc [Bài 5: lesson.md](05-cases-prepositions/lesson.md) → Mục 7
-- [ ] Luyện mô tả đồ vật trong phòng: *auf dem Tisch / auf den Tisch*
-- [ ] Làm [exercises.md](05-cases-prepositions/exercises.md) câu 16-30
-- [ ] Đối chiếu đáp án, ghi sổ lỗi
-
-### Ngày 18 — Modalverben
-- [ ] Đọc [Bài 6: lesson.md](06-modal-verbs-time-connectors/lesson.md) → Mục 1
-- [ ] Học thuộc bảng chia 6 Modalverben
-- [ ] Viết 12 câu (mỗi Modal 2 câu)
-- [ ] Luyện khung câu: *Ich kann ... sprechen. Ich muss ... arbeiten.*
-
-### Ngày 19 — Imperativ + Thời gian + Liên từ
-- [ ] Đọc [Bài 6: lesson.md](06-modal-verbs-time-connectors/lesson.md) → Mục 2-4
-- [ ] Luyện Imperativ: du/ihr/Sie cho 5 động từ
-- [ ] Học um/am/im + 5 liên từ kết hợp
-- [ ] Làm [exercises.md](06-modal-verbs-time-connectors/exercises.md)
-
-### Ngày 20 — 🔁 Tổng ôn tập
-- [ ] Ôn lại **tất cả bảng mạo từ** (Nom./Akk./Dat.)
-- [ ] Ôn lại **bảng chia** sein/haben + 6 Modalverben
-- [ ] Làm lại **tất cả bài tập sai** từ 6 chủ đề
-- [ ] Đọc [memorization-tips.md](memorization-tips.md) — chọn 3 phương pháp yêu thích
-- [ ] Tạo **1 trang tóm tắt ngữ pháp** cho riêng mình
-
-### Ngày 21 — 🏆 Bài kiểm tra cuối khoá
-- [ ] Làm [practice-test.md](practice-test.md) — **50 câu**, tự bấm giờ 40 phút
-- [ ] Đối chiếu đáp án, tính điểm
-- [ ] Xem lại các chủ đề còn yếu
-- [ ] 🗣️ Đọc to bài tự giới thiệu bản thân (phiên bản nâng cấp)
-- [ ] 🎯 Nếu đạt ≥ 40/50: sẵn sàng cho [a1-exam-prep/](a1-exam-prep/)!
+### Day 7 — 📝 Mini-Test + Self-Introduction
+- [ ] Self-test: do the "Quick Self-Check" at the end of Lessons 1 & 2
+- [ ] ✍️ Write a self-introduction in German (5-8 sentences)
+- [ ] 🗣️ Say your introduction aloud 3 times
+- [ ] Record mistakes in your notebook
 
 ---
 
-## Bảng theo dõi tiến độ
+## Week 2: Verbs & Sentence Structure
 
-| Ngày | Chủ đề | Hoàn thành? | Ghi chú |
+### Day 8 — Regular Verbs (Present Tense)
+- [ ] Read [Lesson 3: lesson.md](03-present-tense-separable-verbs/lesson.md) → Sections 1-2
+- [ ] Memorize the endings: -e / -st / -t / -en / -t / -en
+- [ ] Conjugate 5 regular verbs in all persons
+- [ ] Write 10 present tense sentences
+
+### Day 9 — Irregular Verbs + Vowel Changes
+- [ ] Read [Lesson 3: lesson.md](03-present-tense-separable-verbs/lesson.md) → Section 3
+- [ ] Memorize the 13 vowel-change verbs (table 3.3)
+- [ ] Do [exercises.md](03-present-tense-separable-verbs/exercises.md) questions 1-15
+- [ ] 🗣️ Practice saying: *du fährst, er spricht, sie liest...*
+
+### Day 10 — Separable + Inseparable Verbs
+- [ ] Read [Lesson 3: lesson.md](03-present-tense-separable-verbs/lesson.md) → Sections 4-5
+- [ ] Write 10 sentences with separable verbs: aufstehen, anrufen, einkaufen...
+- [ ] Do [exercises.md](03-present-tense-separable-verbs/exercises.md) questions 16-30
+- [ ] Check answers, record mistakes
+
+### Day 11 — Word Order + Questions
+- [ ] Read [Lesson 4: lesson.md](04-word-order-questions-negation/lesson.md) → Sections 1-3
+- [ ] Practice V2 rule: write 10 sentences, then move time to position 1 (inversion)
+- [ ] Write 10 W-questions + 5 Yes/No questions
+- [ ] Do [exercises.md](04-word-order-questions-negation/exercises.md) questions 1-15
+
+### Day 12 — nicht vs kein + doch
+- [ ] Read [Lesson 4: lesson.md](04-word-order-questions-negation/lesson.md) → Sections 4-7
+- [ ] Write 10 negative sentences: 5 with nicht, 5 with kein
+- [ ] Practice answering Ja / Nein / Doch
+- [ ] Do [exercises.md](04-word-order-questions-negation/exercises.md) questions 16-30
+
+### Day 13 — 🔁 Week 2 Review
+- [ ] Review verb conjugation tables + vowel changes
+- [ ] Review: V2, inversion, nicht vs kein
+- [ ] Redo wrong exercises from Lessons 3 & 4
+- [ ] Learn 15 words from [vocabulary.md](vocabulary.md) (topics 4-5)
+
+### Day 14 — 📝 Mini-Test + Dialogue
+- [ ] Self-test: do the checks at the end of Lessons 3 & 4
+- [ ] ✍️ Write a dialogue of 8-10 sentences (ask/answer about work/family)
+- [ ] 🗣️ Read the dialogue aloud
+- [ ] Record mistakes in your notebook
+
+---
+
+## Week 3: Cases, Prepositions, Modals & Final Review
+
+### Day 15 — Nominative & Accusative
+- [ ] Read [Lesson 5: lesson.md](05-cases-prepositions/lesson.md) → Sections 1-3
+- [ ] Memorize the Nom. vs Akk. article table
+- [ ] Learn Accusative pronouns: mich, dich, ihn...
+- [ ] Write 10 sentences with Accusative
+
+### Day 16 — Dative + Prepositions
+- [ ] Read [Lesson 5: lesson.md](05-cases-prepositions/lesson.md) → Sections 4-6
+- [ ] Memorize the Dative article table: dem/der/dem/den
+- [ ] Learn Akk. prepositions (FUDGO) + Dat. prepositions (mit/nach/aus/bei/von/zu)
+- [ ] Do [exercises.md](05-cases-prepositions/exercises.md) questions 1-15
+
+### Day 17 — Two-Way Prepositions (Wo? vs Wohin?)
+- [ ] Read [Lesson 5: lesson.md](05-cases-prepositions/lesson.md) → Section 7
+- [ ] Practice describing objects in your room: *auf dem Tisch / auf den Tisch*
+- [ ] Do [exercises.md](05-cases-prepositions/exercises.md) questions 16-30
+- [ ] Check answers, record mistakes
+
+### Day 18 — Modal Verbs
+- [ ] Read [Lesson 6: lesson.md](06-modal-verbs-time-connectors/lesson.md) → Section 1
+- [ ] Memorize the conjugation of all 6 modal verbs
+- [ ] Write 12 sentences (2 per modal verb)
+- [ ] Practice the sentence frame: *Ich kann ... sprechen. Ich muss ... arbeiten.*
+
+### Day 19 — Imperative + Time + Connectors
+- [ ] Read [Lesson 6: lesson.md](06-modal-verbs-time-connectors/lesson.md) → Sections 2-4
+- [ ] Practice imperative: du/ihr/Sie for 5 verbs
+- [ ] Learn um/am/im + 5 coordinating conjunctions
+- [ ] Do [exercises.md](06-modal-verbs-time-connectors/exercises.md)
+
+### Day 20 — 🔁 Comprehensive Review
+- [ ] Review **all article tables** (Nom./Akk./Dat.)
+- [ ] Review **conjugation tables** sein/haben + 6 modal verbs
+- [ ] Redo **all wrong exercises** from all 6 topics
+- [ ] Read [memorization-tips.md](memorization-tips.md) — pick your 3 favorite methods
+- [ ] Create **1 personal grammar summary page**
+
+### Day 21 — 🏆 Final Test
+- [ ] Take [practice-test.md](practice-test.md) — **50 questions**, time yourself for 40 minutes
+- [ ] Check answers, calculate your score
+- [ ] Review your weakest topics
+- [ ] 🗣️ Say your self-introduction aloud (upgraded version)
+- [ ] 🎯 If you score ≥ 40/50: ready for [a1-exam-prep/](a1-exam-prep/)!
+
+---
+
+## Progress Tracker
+
+| Day | Topic | Done? | Notes |
 |---|---|---|---|
-| 1 | Danh từ & Mạo từ (1) | ☐ | |
-| 2 | Danh từ & Mạo từ (2) + Số nhiều | ☐ | |
-| 3 | Đại từ + sein | ☐ | |
+| 1 | Nouns & Articles (1) | ☐ | |
+| 2 | Nouns & Articles (2) + Plurals | ☐ | |
+| 3 | Pronouns + sein | ☐ | |
 | 4 | haben + sein vs haben | ☐ | |
-| 5 | Mạo từ sở hữu | ☐ | |
-| 6 | 🔁 Ôn tập Tuần 1 | ☐ | |
-| 7 | 📝 Mini-test + Tự giới thiệu | ☐ | |
-| 8 | Động từ quy tắc | ☐ | |
-| 9 | Động từ bất quy tắc | ☐ | |
-| 10 | Động từ tách | ☐ | |
-| 11 | Trật tự từ + Câu hỏi | ☐ | |
+| 5 | Possessive Articles | ☐ | |
+| 6 | 🔁 Week 1 Review | ☐ | |
+| 7 | 📝 Mini-Test + Self-Intro | ☐ | |
+| 8 | Regular Verbs | ☐ | |
+| 9 | Irregular Verbs | ☐ | |
+| 10 | Separable Verbs | ☐ | |
+| 11 | Word Order + Questions | ☐ | |
 | 12 | nicht vs kein + doch | ☐ | |
-| 13 | 🔁 Ôn tập Tuần 2 | ☐ | |
-| 14 | 📝 Mini-test + Hội thoại | ☐ | |
-| 15 | Nominativ & Akkusativ | ☐ | |
-| 16 | Dativ + Giới từ | ☐ | |
-| 17 | Giới từ hai chiều | ☐ | |
-| 18 | Modalverben | ☐ | |
-| 19 | Imperativ + Thời gian + Liên từ | ☐ | |
-| 20 | 🔁 Tổng ôn tập | ☐ | |
-| 21 | 🏆 Bài kiểm tra cuối khoá | ☐ | |
+| 13 | 🔁 Week 2 Review | ☐ | |
+| 14 | 📝 Mini-Test + Dialogue | ☐ | |
+| 15 | Nominative & Accusative | ☐ | |
+| 16 | Dative + Prepositions | ☐ | |
+| 17 | Two-Way Prepositions | ☐ | |
+| 18 | Modal Verbs | ☐ | |
+| 19 | Imperative + Time + Connectors | ☐ | |
+| 20 | 🔁 Comprehensive Review | ☐ | |
+| 21 | 🏆 Final Test | ☐ | |
 
-> 💡 Mỗi ngày sau khi hoàn thành, đánh dấu ☑ và ghi chú những gì cần ôn lại!
+> 💡 After completing each day, check ☑ and note anything you need to review!

@@ -1,63 +1,63 @@
-# Bài 2: Đại từ nhân xưng, Động từ sein & haben, Mạo từ sở hữu
+# Lesson 2: Personal Pronouns, Verbs sein & haben, Possessive Articles
 
-> **Mục tiêu bài học:** Nắm vững đại từ nhân xưng, chia thành thạo hai động từ quan trọng nhất (sein / haben), và sử dụng đúng mạo từ sở hữu (mein, dein, sein…) theo giống & cách.
+> **Learning Goal:** Master the personal pronouns, conjugate the two most important verbs (sein / haben), and use possessive articles (mein, dein, sein…) correctly by gender & case.
 
 ---
 
-## 1 · Đại từ nhân xưng (Personalpronomen)
+## 1 · Personal Pronouns (Personalpronomen)
 
-Đại từ nhân xưng **thay thế danh từ** để tránh lặp lại:
+Personal pronouns **replace nouns** to avoid repetition:
 
-- *Anna ist hier. **Sie** ist müde.* (Anna ở đây. **Cô ấy** mệt.)
+- *Anna ist hier. **Sie** ist müde.* (Anna is here. **She** is tired.)
 
-### 1.1 Bảng đại từ nhân xưng
+### 1.1 Personal Pronouns Table
 
-| Đại từ | Nghĩa | Ghi chú |
+| Pronoun | Meaning | Notes |
 |---|---|---|
-| **ich** | tôi | người nói |
-| **du** | bạn (1 người) | thân mật |
-| **er** | anh ấy / nó | thay danh từ Maskulin |
-| **sie** | cô ấy / nó | thay danh từ Feminin |
-| **es** | nó | thay danh từ Neutral |
-| **wir** | chúng tôi | nhóm gồm người nói |
-| **ihr** | các bạn | nhiều người, thân mật |
-| **sie** | họ | ngôi thứ 3 số nhiều |
-| **Sie** | Ông/Bà/Quý vị | lịch sự (luôn viết hoa) |
+| **ich** | I | the speaker |
+| **du** | you (1 person) | informal |
+| **er** | he / it | replaces Maskulin nouns |
+| **sie** | she / it | replaces Feminin nouns |
+| **es** | it | replaces Neutral nouns |
+| **wir** | we | group including the speaker |
+| **ihr** | you all | multiple people, informal |
+| **sie** | they | 3rd person plural |
+| **Sie** | you (formal) | always capitalized |
 
-### 1.2 Phân biệt sie / sie / Sie — Bẫy #1 của người mới
+### 1.2 Distinguishing sie / sie / Sie — Trap #1 for Beginners
 
-| Viết | Nghĩa | Động từ đi kèm | Ví dụ |
+| Written Form | Meaning | Verb Form | Example |
 |---|---|---|---|
-| sie (thường) | cô ấy | số ít: *ist, hat* | Sie **ist** Lehrerin. |
-| sie (thường) | họ | số nhiều: *sind, haben* | Sie **sind** nett. |
-| **S**ie (viết hoa) | Ông/Bà | số nhiều: *sind, haben* | **S**ie **sind** Herr Meier? |
+| sie (lowercase) | she | singular: *ist, hat* | Sie **ist** Lehrerin. |
+| sie (lowercase) | they | plural: *sind, haben* | Sie **sind** nett. |
+| **S**ie (capitalized) | you (formal) | plural: *sind, haben* | **S**ie **sind** Herr Meier? |
 
-> 💡 **Mẹo:** Nhìn **chữ hoa** và **động từ** để phân biệt!
+> 💡 **Tip:** Look at the **capital letter** and the **verb form** to tell them apart!
 
-### 1.3 Đại từ phụ thuộc vào giống ngữ pháp
+### 1.3 Pronouns Depend on Grammatical Gender
 
-| Danh từ | Giống | Đại từ |
+| Noun | Gender | Pronoun |
 |---|---|---|
 | der Mann | Maskulin | **er** |
 | die Frau | Feminin | **sie** |
 | das Kind | Neutral | **es** |
-| das Mädchen | Neutral ⚠️ | **es** (dù nghĩa là "cô gái") |
+| das Mädchen | Neutral ⚠️ | **es** (even though it means "girl") |
 
-> ⚠️ *das Mädchen* = cô gái, nhưng đuôi *-chen* → Neutral → dùng **es** (ở cấp A1).
+> ⚠️ *das Mädchen* = girl, but the ending *-chen* → Neutral → use **es** (at A1 level).
 
-### 1.4 du hay Sie? — Văn hoá giao tiếp Đức
+### 1.4 du or Sie? — German Communication Culture
 
-| Tình huống | Dùng | Ví dụ |
+| Situation | Use | Example |
 |---|---|---|
-| Bạn bè, gia đình, trẻ em | **du / ihr** | *Kommst **du** mit?* |
-| Người lạ, cấp trên, khách hàng | **Sie** | *Haben **Sie** einen Termin?* |
-| Đồng nghiệp mới quen | **Sie** (cho đến khi họ nói "Wir können uns duzen") | |
+| Friends, family, children | **du / ihr** | *Kommst **du** mit?* |
+| Strangers, superiors, customers | **Sie** | *Haben **Sie** einen Termin?* |
+| New colleagues | **Sie** (until they say "Wir können uns duzen") | |
 
 ---
 
-## 2 · Động từ sein (to be) — "là / ở / thì"
+## 2 · The Verb sein (to be)
 
-### 2.1 Bảng chia sein
+### 2.1 Conjugation of sein
 
 ```
 ╔═══════════╦═══════╗
@@ -70,42 +70,42 @@
 ╚═══════════╩═══════╝
 ```
 
-> ⚠️ **sein** là động từ bất quy tắc — mỗi ngôi một dạng khác nhau, phải học thuộc!
+> ⚠️ **sein** is an irregular verb — every person has a different form, you must memorize it!
 
-### 2.2 Khi nào dùng sein?
+### 2.2 When to use sein?
 
-| Chức năng | Công thức | Ví dụ | Nghĩa |
+| Function | Formula | Example | Meaning |
 |---|---|---|---|
-| Danh tính | S + sein + danh từ | Ich **bin** Ali. | Tôi là Ali. |
-| Nghề nghiệp | S + sein + nghề | Sie **ist** Ärztin. | Cô ấy là bác sĩ. |
-| Quốc tịch | S + sein + quốc tịch | Wir **sind** aus Vietnam. | Chúng tôi đến từ Việt Nam. |
-| Vị trí | S + sein + nơi chốn | Er **ist** in Berlin. | Anh ấy ở Berlin. |
-| Mô tả | S + sein + tính từ | Das Kind **ist** müde. | Đứa trẻ mệt. |
-| Tuổi | S + sein + số + Jahre alt | Ich **bin** 25 Jahre alt. | Tôi 25 tuổi. |
+| Identity | S + sein + noun | Ich **bin** Ali. | I am Ali. |
+| Profession | S + sein + profession | Sie **ist** Ärztin. | She is a doctor. |
+| Nationality | S + sein + nationality | Wir **sind** aus Vietnam. | We are from Vietnam. |
+| Location | S + sein + place | Er **ist** in Berlin. | He is in Berlin. |
+| Description | S + sein + adjective | Das Kind **ist** müde. | The child is tired. |
+| Age | S + sein + number + Jahre alt | Ich **bin** 25 Jahre alt. | I am 25 years old. |
 
-### 2.3 Câu hỏi với sein
+### 2.3 Questions with sein
 
-**Câu hỏi Ja/Nein:** đảo động từ lên đầu.
+**Yes/No questions:** move the verb to the front.
 
-| Câu hỏi | Nghĩa |
+| Question | Meaning |
 |---|---|
-| **Bist** du müde? | Bạn mệt không? |
-| **Ist** er krank? | Anh ấy bị bệnh à? |
-| **Sind** Sie Herr Meier? | Ông có phải là ông Meier không? |
+| **Bist** du müde? | Are you tired? |
+| **Ist** er krank? | Is he sick? |
+| **Sind** Sie Herr Meier? | Are you Mr. Meier? |
 
-**Câu hỏi W-:** từ hỏi + sein + chủ ngữ.
+**W-questions:** question word + sein + subject.
 
-| Câu hỏi | Nghĩa |
+| Question | Meaning |
 |---|---|
-| **Wer** ist das? | Đó là ai? |
-| **Wo** bist du? | Bạn ở đâu? |
-| **Wie** ist das Wetter? | Thời tiết thế nào? |
+| **Wer** ist das? | Who is that? |
+| **Wo** bist du? | Where are you? |
+| **Wie** ist das Wetter? | How is the weather? |
 
 ---
 
-## 3 · Động từ haben (to have) — "có"
+## 3 · The Verb haben (to have)
 
-### 3.1 Bảng chia haben
+### 3.1 Conjugation of haben
 
 ```
 ╔═══════════╦════════╗
@@ -118,290 +118,290 @@
 ╚═══════════╩════════╝
 ```
 
-> ℹ️ Lưu ý: *du ha**st*** (bỏ chữ *b*), *er/sie/es ha**t*** (bỏ *ben*).
+> ℹ️ Note: *du ha**st*** (drops the *b*), *er/sie/es ha**t*** (drops *ben*).
 
-### 3.2 Khi nào dùng haben?
+### 3.2 When to use haben?
 
-| Chức năng | Ví dụ | Nghĩa |
+| Function | Example | Meaning |
 |---|---|---|
-| Sở hữu đồ vật | Ich **habe** ein Auto. | Tôi có xe hơi. |
-| Gia đình | Sie **hat** zwei Brüder. | Cô ấy có hai anh em trai. |
-| Thứ trừu tượng | Wir **haben** Zeit. | Chúng tôi có thời gian. |
-| Cảm giác / trạng thái | Ich **habe** Hunger. | Tôi đói. |
-| Lịch học / lịch hẹn | Ich **habe** heute Deutsch. | Hôm nay tôi có tiết tiếng Đức. |
+| Possession of objects | Ich **habe** ein Auto. | I have a car. |
+| Family | Sie **hat** zwei Brüder. | She has two brothers. |
+| Abstract things | Wir **haben** Zeit. | We have time. |
+| Feelings / states | Ich **habe** Hunger. | I am hungry. |
+| Schedule | Ich **habe** heute Deutsch. | I have German class today. |
 
-### 3.3 Câu hỏi với haben
+### 3.3 Questions with haben
 
-| Câu hỏi | Nghĩa |
+| Question | Meaning |
 |---|---|
-| **Hast** du Geschwister? | Bạn có anh chị em không? |
-| **Hat** er ein Auto? | Anh ấy có xe không? |
-| **Haben** Sie einen Termin? | Ông/Bà có hẹn không? |
+| **Hast** du Geschwister? | Do you have siblings? |
+| **Hat** er ein Auto? | Does he have a car? |
+| **Haben** Sie einen Termin? | Do you have an appointment? |
 
-### 3.4 haben + Akkusativ
+### 3.4 haben + Accusative
 
-> ⚠️ **Quan trọng:** Tân ngữ sau *haben* luôn ở **cách Akkusativ**.
+> ⚠️ **Important:** The object after *haben* is always in the **Accusative case**.
 
-| Giống | Nominativ | Akkusativ (sau haben) |
+| Gender | Nominative | Accusative (after haben) |
 |---|---|---|
 | Maskulin | ein / der | ein**en** / d**en** |
-| Feminin | eine / die | eine / die *(không đổi)* |
-| Neutral | ein / das | ein / das *(không đổi)* |
+| Feminin | eine / die | eine / die *(no change)* |
+| Neutral | ein / das | ein / das *(no change)* |
 
-Ví dụ:
-- Ich habe ein**en** Bruder. *(Maskulin → đổi)*
-- Ich habe eine Schwester. *(Feminin → giữ nguyên)*
-- Ich habe ein Buch. *(Neutral → giữ nguyên)*
+Examples:
+- Ich habe ein**en** Bruder. *(Maskulin → changes)*
+- Ich habe eine Schwester. *(Feminin → stays the same)*
+- Ich habe ein Buch. *(Neutral → stays the same)*
 
 ---
 
-## 4 · Phân biệt sein và haben
+## 4 · Distinguishing sein and haben
 
-| Dùng **sein** khi… | Dùng **haben** khi… |
+| Use **sein** when… | Use **haben** when… |
 |---|---|
-| Nói ai **là** ai: *Ich **bin** Student.* | Nói ai **có** gì: *Ich **habe** ein Buch.* |
-| Mô tả trạng thái: *Er **ist** müde.* | Nói về sở hữu: *Er **hat** ein Handy.* |
-| Nói vị trí: *Wir **sind** in Berlin.* | Nói về thời gian: *Wir **haben** Zeit.* |
-| Nói tuổi: *Ich **bin** 20.* | Nói cảm giác: *Ich **habe** Hunger.* |
+| Saying who someone **is**: *Ich **bin** Student.* | Saying what someone **has**: *Ich **habe** ein Buch.* |
+| Describing a state: *Er **ist** müde.* | Talking about possession: *Er **hat** ein Handy.* |
+| Stating location: *Wir **sind** in Berlin.* | Talking about time: *Wir **haben** Zeit.* |
+| Stating age: *Ich **bin** 20.* | Expressing feelings: *Ich **habe** Hunger.* |
 
-### ⚠️ Lỗi kinh điển
+### ⚠️ Classic Mistakes
 
-| ❌ Sai | ✅ Đúng | Tại sao |
+| ❌ Wrong | ✅ Correct | Why |
 |---|---|---|
-| Ich **bin** ein Auto. | Ich **habe** ein Auto. | Bạn không **là** xe hơi, bạn **có** xe hơi |
-| Ich **habe** müde. | Ich **bin** müde. | Mệt là trạng thái → dùng sein |
-| Ich **bin** Hunger. | Ich **habe** Hunger. | Tiếng Đức: "có cơn đói" (khác tiếng Anh!) |
+| Ich **bin** ein Auto. | Ich **habe** ein Auto. | You are not a car, you have a car |
+| Ich **habe** müde. | Ich **bin** müde. | Tired is a state → use sein |
+| Ich **bin** Hunger. | Ich **habe** Hunger. | German says "have hunger" (unlike English!) |
 
-> 💡 **Mẹo Việt hoá:**
-> - *sein* ≈ "**là** / **ở** / **thì**"
-> - *haben* ≈ "**có**"
+> 💡 **Quick Guide:**
+> - *sein* ≈ "**to be**" (identity, location, description, age)
+> - *haben* ≈ "**to have**" (possession, feelings like Hunger/Durst)
 
 ---
 
-## 5 · Mạo từ sở hữu (Possessivartikel)
+## 5 · Possessive Articles (Possessivartikel)
 
-### 5.1 Gốc sở hữu theo từng đại từ
+### 5.1 Possessive Stems by Pronoun
 
-| Đại từ | Gốc sở hữu | Nghĩa |
+| Pronoun | Possessive Stem | Meaning |
 |---|---|---|
-| ich | **mein-** | của tôi |
-| du | **dein-** | của bạn |
-| er | **sein-** | của anh ấy |
-| sie | **ihr-** | của cô ấy |
-| es | **sein-** | của nó |
-| wir | **unser-** | của chúng tôi |
-| ihr | **euer-** | của các bạn |
-| sie | **ihr-** | của họ |
-| Sie | **Ihr-** | của Ông/Bà (lịch sự) |
+| ich | **mein-** | my |
+| du | **dein-** | your |
+| er | **sein-** | his |
+| sie | **ihr-** | her |
+| es | **sein-** | its |
+| wir | **unser-** | our |
+| ihr | **euer-** | your (plural) |
+| sie | **ihr-** | their |
+| Sie | **Ihr-** | your (formal) |
 
-### 5.2 Đuôi thay đổi theo giống & cách
+### 5.2 Endings Change by Gender & Case
 
-Mạo từ sở hữu chia đuôi **giống hệt** mạo từ bất định *ein*.
+Possessive articles take endings **identical to** the indefinite article *ein*.
 
-#### Nominativ (chủ ngữ)
+#### Nominative (subject)
 
-| Giống | Đuôi | Ví dụ với mein- |
+| Gender | Ending | Example with mein- |
 |---|---|---|
-| Maskulin | -Ø (không đuôi) | **mein** Bruder |
+| Maskulin | -Ø (no ending) | **mein** Bruder |
 | Feminin | **-e** | **meine** Schwester |
 | Neutral | -Ø | **mein** Buch |
 | Plural | **-e** | **meine** Freunde |
 
-#### Akkusativ (tân ngữ)
+#### Accusative (direct object)
 
-| Giống | Đuôi | Ví dụ với mein- |
+| Gender | Ending | Example with mein- |
 |---|---|---|
 | Maskulin | **-en** ⚠️ | Ich sehe **meinen** Bruder. |
 | Feminin | **-e** | Ich sehe **meine** Schwester. |
 | Neutral | -Ø | Ich habe **mein** Buch. |
 | Plural | **-e** | Ich kenne **meine** Freunde. |
 
-> ⚠️ **Chỉ Maskulin Akkusativ thay đổi:** thêm **-en**. Phần còn lại giữ nguyên!
+> ⚠️ **Only Masculine Accusative changes:** adds **-en**. Everything else stays the same!
 
-#### Bảng tổng hợp Nominativ vs. Akkusativ
+#### Summary Table: Nominative vs. Accusative
 
-| Cách | Maskulin | Feminin | Neutral | Plural |
+| Case | Maskulin | Feminin | Neutral | Plural |
 |---|---|---|---|---|
-| **Nominativ** | mein | meine | mein | meine |
-| **Akkusativ** | mein**en** | meine | mein | meine |
+| **Nominative** | mein | meine | mein | meine |
+| **Accusative** | mein**en** | meine | mein | meine |
 
-> Quy tắc đuôi này áp dụng cho **tất cả** gốc sở hữu: dein-, sein-, ihr-, unser-, euer-, Ihr-.
+> This ending pattern applies to **all** possessive stems: dein-, sein-, ihr-, unser-, euer-, Ihr-.
 
-### 5.3 Lưu ý đặc biệt: euer
+### 5.3 Special Note: euer
 
-Khi thêm đuôi **-e**, bỏ chữ *e* ở giữa:
+When adding the ending **-e**, drop the middle *e*:
 
-| Giống | Đúng ✅ | Sai ❌ |
+| Gender | Correct ✅ | Wrong ❌ |
 |---|---|---|
 | Maskulin (Nom.) | euer Bruder | — |
 | Feminin (Nom.) | eu**re** Mutter | eu**ere** Mutter |
 | Plural (Nom.) | eu**re** Freunde | eu**ere** Freunde |
 
-### 5.4 Phân biệt sein / ihr / Ihr
+### 5.4 Distinguishing sein / ihr / Ihr
 
-| Gốc | Thuộc về | Ví dụ |
+| Stem | Belongs to | Example |
 |---|---|---|
-| **sein-** | er / es | Das ist **sein** Buch. (sách của anh ấy) |
-| **ihr-** (thường) | sie (cô ấy) | Das ist **ihr** Buch. (sách của cô ấy) |
-| **ihr-** (thường) | sie (họ) | Das ist **ihr** Buch. (sách của họ) |
-| **Ihr-** (viết hoa) | Sie (lịch sự) | Ist das **Ihr** Buch? (sách của Ông/Bà?) |
+| **sein-** | er / es | Das ist **sein** Buch. (his book) |
+| **ihr-** (lowercase) | sie (she) | Das ist **ihr** Buch. (her book) |
+| **ihr-** (lowercase) | sie (they) | Das ist **ihr** Buch. (their book) |
+| **Ihr-** (capitalized) | Sie (formal) | Ist das **Ihr** Buch? (your book, formal) |
 
-> 💡 Phân biệt bằng **ngữ cảnh** và **chữ hoa**.
+> 💡 Distinguish by **context** and **capitalization**.
 
 ---
 
-## 6 · Các cấu trúc câu quan trọng
+## 6 · Important Sentence Structures
 
-### 6.1 Câu trần thuật: Động từ ở vị trí 2
-
-```
-[Vị trí 1]    [Vị trí 2]    [Phần còn lại]
-Ich            bin            Student.
-Mein Bruder    ist            in Berlin.
-Wir            haben          heute Zeit.
-```
-
-### 6.2 Câu hỏi Ja/Nein: Động từ ở vị trí 1
+### 6.1 Statements: Verb in Position 2
 
 ```
-[Vị trí 1]    [Vị trí 2]    [Phần còn lại]
-Bist           du             müde?
-Hat            er             ein Auto?
-Sind           Sie            Frau Meier?
+[Position 1]    [Position 2]    [Rest]
+Ich              bin              Student.
+Mein Bruder      ist              in Berlin.
+Wir              haben            heute Zeit.
 ```
 
-### 6.3 Câu hỏi W-: Từ hỏi + Động từ + Chủ ngữ
+### 6.2 Yes/No Questions: Verb in Position 1
 
 ```
-[W-Wort]    [Động từ]    [Chủ ngữ]    [...]
-Wer          ist           das?
-Wo           bist          du?
-Was          hast          du?
+[Position 1]    [Position 2]    [Rest]
+Bist             du               müde?
+Hat              er               ein Auto?
+Sind             Sie              Frau Meier?
+```
+
+### 6.3 W-Questions: Question Word + Verb + Subject
+
+```
+[W-Word]    [Verb]    [Subject]    [...]
+Wer          ist        das?
+Wo           bist       du?
+Was          hast       du?
 ```
 
 ---
 
-## 7 · Lỗi thường gặp — Tổng hợp
+## 7 · Common Mistakes — Summary
 
-| # | Lỗi | Sửa |
+| # | Mistake | Correction |
 |---|---|---|
-| 1 | Nhầm *sie* (cô ấy) và *sie* (họ) | Nhìn động từ: *ist* = cô ấy, *sind* = họ |
-| 2 | Viết *sie* thay vì *Sie* (lịch sự) | Lịch sự luôn viết **hoa** |
-| 3 | Dùng *er* cho *das Mädchen* | -chen → Neutral → **es** |
-| 4 | *Ich bin 25 Jahre.* (thiếu *alt*) | Ich bin 25 Jahre **alt**. |
-| 5 | *mein Tasche* | mein**e** Tasche (Feminin → thêm -e) |
+| 1 | Confusing *sie* (she) and *sie* (they) | Check the verb: *ist* = she, *sind* = they |
+| 2 | Writing *sie* instead of *Sie* (formal) | Formal is always **capitalized** |
+| 3 | Using *er* for *das Mädchen* | -chen → Neutral → **es** |
+| 4 | *Ich bin 25 Jahre.* (missing *alt*) | Ich bin 25 Jahre **alt**. |
+| 5 | *mein Tasche* | mein**e** Tasche (Feminin → add -e) |
 | 6 | *Ich sehe mein Bruder.* | Ich sehe mein**en** Bruder. (Akk. Maskulin → -en) |
-| 7 | *euere Mutter* | eu**re** Mutter (bỏ -e- thừa) |
-| 8 | *Ich habe müde.* | Ich **bin** müde. (trạng thái → sein) |
-| 9 | *Ich bin Hunger.* | Ich **habe** Hunger. (Đức: "có cơn đói") |
+| 7 | *euere Mutter* | eu**re** Mutter (drop extra -e-) |
+| 8 | *Ich habe müde.* | Ich **bin** müde. (state → sein) |
+| 9 | *Ich bin Hunger.* | Ich **habe** Hunger. (German: "have hunger") |
 
 ---
 
-## 8 · Tự kiểm tra nhanh
+## 8 · Quick Self-Check
 
-Điền vào chỗ trống rồi kiểm tra đáp án bên dưới:
+Fill in the blanks, then check the answers below:
 
-| # | Câu | Đáp án |
+| # | Sentence | Answer |
 |---|---|---|
 | 1 | ___ bin Student. | **Ich** bin Student. |
 | 2 | ___ bist du? — Ich bin in Berlin. | **Wo** bist du? |
 | 3 | Er ___ einen Bruder. | Er **hat** einen Bruder. |
 | 4 | Wir ___ aus Vietnam. | Wir **sind** aus Vietnam. |
-| 5 | Das ist ___ Tasche. (của cô ấy) | Das ist **ihre** Tasche. |
-| 6 | Ich sehe ___ Vater. (của tôi) | Ich sehe **meinen** Vater. |
+| 5 | Das ist ___ Tasche. (her) | Das ist **ihre** Tasche. |
+| 6 | Ich sehe ___ Vater. (my) | Ich sehe **meinen** Vater. |
 | 7 | ___ Sie Frau Meier? | **Sind** Sie Frau Meier? |
 | 8 | Das Mädchen ist hier. ___ ist nett. | **Es** ist nett. |
 
 ---
 
-## 9 · Câu ví dụ thực hành
+## 9 · Practice Sentences
 
-### 9.1 Đại từ nhân xưng + sein
+### 9.1 Personal Pronouns + sein
 
-| Tiếng Đức | Tiếng Việt |
+| German | English |
 |---|---|
-| Ich **bin** Maria. | Tôi là Maria. |
-| Du **bist** müde. | Bạn mệt. |
-| Er **ist** Lehrer. | Anh ấy là giáo viên. |
-| Sie **ist** Ärztin. | Cô ấy là bác sĩ. |
-| Es **ist** kalt. | Trời lạnh. |
-| Wir **sind** in Berlin. | Chúng tôi ở Berlin. |
-| Ihr **seid** hier. | Các bạn ở đây. |
-| Sie **sind** aus Spanien. | Họ đến từ Tây Ban Nha. |
-| **Sind** Sie Herr Klein? | Ông có phải là ông Klein không? |
-| Ich **bin** 20 Jahre alt. | Tôi 20 tuổi. |
+| Ich **bin** Maria. | I am Maria. |
+| Du **bist** müde. | You are tired. |
+| Er **ist** Lehrer. | He is a teacher. |
+| Sie **ist** Ärztin. | She is a doctor. |
+| Es **ist** kalt. | It is cold. |
+| Wir **sind** in Berlin. | We are in Berlin. |
+| Ihr **seid** hier. | You all are here. |
+| Sie **sind** aus Spanien. | They are from Spain. |
+| **Sind** Sie Herr Klein? | Are you Mr. Klein? |
+| Ich **bin** 20 Jahre alt. | I am 20 years old. |
 
-### 9.2 Đại từ nhân xưng + haben
+### 9.2 Personal Pronouns + haben
 
-| Tiếng Đức | Tiếng Việt |
+| German | English |
 |---|---|
-| Ich **habe** ein Buch. | Tôi có một cuốn sách. |
-| Du **hast** ein Problem. | Bạn có một vấn đề. |
-| Er **hat** einen Bruder. | Anh ấy có một người anh em trai. |
-| Sie **hat** eine Katze. | Cô ấy có một con mèo. |
-| Wir **haben** eine Wohnung. | Chúng tôi có một căn hộ. |
-| Ihr **habt** viel Zeit. | Các bạn có nhiều thời gian. |
-| Sie **haben** einen Termin. | Họ có một cuộc hẹn. |
-| Ich **habe** Hunger. | Tôi đói. |
+| Ich **habe** ein Buch. | I have a book. |
+| Du **hast** ein Problem. | You have a problem. |
+| Er **hat** einen Bruder. | He has a brother. |
+| Sie **hat** eine Katze. | She has a cat. |
+| Wir **haben** eine Wohnung. | We have an apartment. |
+| Ihr **habt** viel Zeit. | You all have a lot of time. |
+| Sie **haben** einen Termin. | They have an appointment. |
+| Ich **habe** Hunger. | I am hungry. |
 
-### 9.3 Mạo từ sở hữu trong câu
+### 9.3 Possessive Articles in Sentences
 
-| Tiếng Đức | Tiếng Việt |
+| German | English |
 |---|---|
-| **Mein** Name ist Ali. | Tên tôi là Ali. |
-| Das ist **meine** Tasche. | Đó là túi của tôi. |
-| **Sein** Auto ist neu. | Xe của anh ấy mới. |
-| **Ihre** Wohnung ist groß. | Căn hộ của cô ấy lớn. |
-| Ich sehe **meinen** Lehrer. | Tôi nhìn thấy thầy giáo của tôi. |
-| Wir besuchen **unsere** Freunde. | Chúng tôi thăm bạn bè. |
-| Ist das **Ihr** Sohn? | Đó có phải con trai của Ông không? |
-| **Eure** Mutter ist nett. | Mẹ các bạn tốt bụng. |
+| **Mein** Name ist Ali. | My name is Ali. |
+| Das ist **meine** Tasche. | That is my bag. |
+| **Sein** Auto ist neu. | His car is new. |
+| **Ihre** Wohnung ist groß. | Her apartment is big. |
+| Ich sehe **meinen** Lehrer. | I see my teacher. |
+| Wir besuchen **unsere** Freunde. | We are visiting our friends. |
+| Ist das **Ihr** Sohn? | Is that your son? (formal) |
+| **Eure** Mutter ist nett. | Your (pl.) mother is nice. |
 
 ---
 
-## 10 · Chiến lược học hiệu quả
+## 10 · Effective Learning Strategies
 
-### 🎯 Bước 1: Học thuộc bảng chia
+### 🎯 Step 1: Memorize the Conjugation Tables
 
-Viết bảng chia *sein* và *haben* ra giấy **mỗi ngày** trong 5 ngày đầu. Nói to khi viết.
+Write the conjugation of *sein* and *haben* on paper **every day** for the first 5 days. Say it out loud as you write.
 
-### 🔁 Bước 2: Luyện cặp đôi
+### 🔁 Step 2: Practice in Pairs
 
-Tập nói nhanh các cặp:
+Practice saying the pairs quickly:
 > *ich bin — ich habe, du bist — du hast, er ist — er hat…*
 
-### 📝 Bước 3: Flashcard sở hữu
+### 📝 Step 3: Possessive Flashcards
 
-Mặt trước: **my brother (Nom.)** → Mặt sau: **mein Bruder**
-Mặt trước: **my brother (Akk.)** → Mặt sau: **meinen Bruder**
+Front: **my brother (Nom.)** → Back: **mein Bruder**
+Front: **my brother (Akk.)** → Back: **meinen Bruder**
 
-### 🗣️ Bước 4: Tự giới thiệu bản thân
+### 🗣️ Step 4: Self-Introduction
 
-Viết 5 câu về mình dùng sein + haben + sở hữu:
-> *Ich bin [tên]. Ich bin [tuổi] Jahre alt. Ich bin aus Vietnam. Ich habe [số] Geschwister. Mein Bruder ist [tuổi].*
+Write 5 sentences about yourself using sein + haben + possessives:
+> *Ich bin [name]. Ich bin [age] Jahre alt. Ich bin aus [country]. Ich habe [number] Geschwister. Mein Bruder ist [age].*
 
 ---
 
-## 11 · Tóm tắt bài học
+## 11 · Lesson Summary
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  ✅ 9 đại từ nhân xưng: ich/du/er/sie/es/wir/ihr/sie/Sie   │
-│  ✅ sein: bin/bist/ist/sind/seid/sind (là / ở / thì)        │
-│  ✅ haben: habe/hast/hat/haben/habt/haben (có)              │
-│  ✅ sein → danh tính, mô tả, vị trí, tuổi                  │
-│  ✅ haben → sở hữu, gia đình, cảm giác (Hunger/Durst)      │
-│  ✅ Gốc sở hữu: mein/dein/sein/ihr/unser/euer/Ihr          │
-│  ✅ Đuôi sở hữu = đuôi của ein (chỉ Akk. Mask. thêm -en)  │
-│  ✅ sie/sie/Sie → phân biệt bằng động từ + chữ hoa         │
-│  ✅ Luôn học: đại từ + bảng chia + câu ví dụ                │
+│  ✅ 9 personal pronouns: ich/du/er/sie/es/wir/ihr/sie/Sie  │
+│  ✅ sein: bin/bist/ist/sind/seid/sind (to be)               │
+│  ✅ haben: habe/hast/hat/haben/habt/haben (to have)         │
+│  ✅ sein → identity, description, location, age              │
+│  ✅ haben → possession, family, feelings (Hunger/Durst)      │
+│  ✅ Possessive stems: mein/dein/sein/ihr/unser/euer/Ihr     │
+│  ✅ Possessive endings = ein endings (only Akk. Mask. → -en)│
+│  ✅ sie/sie/Sie → distinguish by verb + capitalization       │
+│  ✅ Always learn: pronoun + conjugation + example sentence   │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Bước tiếp theo
+## Next Steps
 
-1. ✍️ Làm bài tập: [exercises.md](exercises.md)
-2. 🔍 Đối chiếu đáp án: [answers.md](answers.md)
-3. ➡️ Chuyển sang Bài 3: [Thì hiện tại & Động từ tách](../03-present-tense-separable-verbs/lesson.md)
+1. ✍️ Do the exercises: [exercises.md](exercises.md)
+2. 🔍 Check your answers: [answers.md](answers.md)
+3. ➡️ Continue to Lesson 3: [Present Tense & Separable Verbs](../03-present-tense-separable-verbs/lesson.md)

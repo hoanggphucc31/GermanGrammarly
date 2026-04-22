@@ -1,39 +1,39 @@
-# Bài 6: Động từ khiếm khuyết, Mệnh lệnh, Thời gian & Liên từ
+# Lesson 6: Modal Verbs, Imperative, Time Expressions & Connectors
 
-> **Mục tiêu:** Chia thành thạo 6 động từ khiếm khuyết (Modalverben), biết ra lệnh/yêu cầu (Imperativ), diễn đạt thời gian, và nối câu bằng liên từ cơ bản.
+> **Learning Goal:** Conjugate all 6 modal verbs (Modalverben), form commands (Imperativ), express time, and connect sentences with basic conjunctions.
 
 ---
 
-## 1 · Động từ khiếm khuyết (Modalverben)
+## 1 · Modal Verbs (Modalverben)
 
-### 1.1 Tổng quan 6 Modalverben
+### 1.1 Overview of the 6 Modal Verbs
 
-| Động từ | Nghĩa | Ví dụ nhanh |
+| Verb | Meaning | Quick Example |
 |---|---|---|
-| **können** | có thể, biết (khả năng) | Ich **kann** schwimmen. |
-| **müssen** | phải (bắt buộc) | Du **musst** lernen. |
-| **wollen** | muốn (ý chí mạnh) | Er **will** nach Berlin fahren. |
-| **möchten** | muốn (lịch sự) | Ich **möchte** einen Kaffee. |
-| **dürfen** | được phép | Hier **darf** man nicht rauchen. |
-| **sollen** | nên, được bảo rằng | Du **sollst** den Arzt anrufen. |
+| **können** | can, to be able to | Ich **kann** schwimmen. |
+| **müssen** | must, to have to | Du **musst** lernen. |
+| **wollen** | to want (strong will) | Er **will** nach Berlin fahren. |
+| **möchten** | would like (polite) | Ich **möchte** einen Kaffee. |
+| **dürfen** | may, to be allowed to | Hier **darf** man nicht rauchen. |
+| **sollen** | should, to be supposed to | Du **sollst** den Arzt anrufen. |
 
-### 1.2 Cấu trúc câu — Quy tắc khung (Satzklammer)
+### 1.2 Sentence Structure — The Sentence Frame (Satzklammer)
 
 ```
-[Vị trí 2: Modal đã chia]  ───────────────  [Cuối câu: Động từ chính ở NGUYÊN THỂ]
+[Pos. 2: Conjugated Modal]  ───────────────  [End: Main verb in INFINITIVE]
 
 Ich        kann         gut              kochen.
 Du         musst        heute            arbeiten.
 Wir        wollen       ein Auto         kaufen.
 ```
 
-> ⚠️ **Chỉ chia Modalverb!** Động từ chính giữ nguyên dạng **Infinitiv** và đứng ở **cuối câu**.
+> ⚠️ **Only conjugate the modal verb!** The main verb stays in **infinitive** form at the **end** of the sentence.
 
-### 1.3 Bảng chia đầy đủ 6 Modalverben
+### 1.3 Full Conjugation Tables for All 6 Modal Verbs
 
-#### können (có thể)
+#### können (can)
 
-| Ngôi | Chia |
+| Person | Conjugation |
 |---|---|
 | ich | **kann** |
 | du | **kannst** |
@@ -42,9 +42,9 @@ Wir        wollen       ein Auto         kaufen.
 | ihr | **könnt** |
 | sie/Sie | **können** |
 
-#### müssen (phải)
+#### müssen (must)
 
-| Ngôi | Chia |
+| Person | Conjugation |
 |---|---|
 | ich | **muss** |
 | du | **musst** |
@@ -53,9 +53,9 @@ Wir        wollen       ein Auto         kaufen.
 | ihr | **müsst** |
 | sie/Sie | **müssen** |
 
-#### wollen (muốn)
+#### wollen (want)
 
-| Ngôi | Chia |
+| Person | Conjugation |
 |---|---|
 | ich | **will** |
 | du | **willst** |
@@ -64,9 +64,9 @@ Wir        wollen       ein Auto         kaufen.
 | ihr | **wollt** |
 | sie/Sie | **wollen** |
 
-#### möchten (muốn — lịch sự)
+#### möchten (would like)
 
-| Ngôi | Chia |
+| Person | Conjugation |
 |---|---|
 | ich | **möchte** |
 | du | **möchtest** |
@@ -75,9 +75,9 @@ Wir        wollen       ein Auto         kaufen.
 | ihr | **möchtet** |
 | sie/Sie | **möchten** |
 
-#### dürfen (được phép)
+#### dürfen (may)
 
-| Ngôi | Chia |
+| Person | Conjugation |
 |---|---|
 | ich | **darf** |
 | du | **darfst** |
@@ -86,9 +86,9 @@ Wir        wollen       ein Auto         kaufen.
 | ihr | **dürft** |
 | sie/Sie | **dürfen** |
 
-#### sollen (nên)
+#### sollen (should)
 
-| Ngôi | Chia |
+| Person | Conjugation |
 |---|---|
 | ich | **soll** |
 | du | **sollst** |
@@ -97,53 +97,53 @@ Wir        wollen       ein Auto         kaufen.
 | ihr | **sollt** |
 | sie/Sie | **sollen** |
 
-> 💡 **Mẹo:** *ich* và *er/sie/es* luôn **giống nhau** ở Modalverben (không có đuôi -e / -t)!
+> 💡 **Tip:** *ich* and *er/sie/es* are always **the same** in modal verbs (no -e / -t ending)!
 
-### 1.4 Phân biệt ý nghĩa — Khi nào dùng cái nào?
+### 1.4 Meaning Differences — When to Use Which?
 
-| Tình huống | Dùng | Ví dụ |
+| Situation | Use | Example |
 |---|---|---|
-| Khả năng / biết làm gì | **können** | Ich **kann** Deutsch sprechen. |
-| Bắt buộc (quy tắc, luật) | **müssen** | Du **musst** einen Ausweis haben. |
-| Ý chí mạnh, quyết tâm | **wollen** | Ich **will** Arzt werden. |
-| Lịch sự (nhà hàng, cửa hàng) | **möchten** | Ich **möchte** ein Wasser, bitte. |
-| Được phép / không được phép | **dürfen** | Man **darf** hier nicht parken. |
-| Lời khuyên / ai đó bảo | **sollen** | Du **sollst** mehr schlafen. |
+| Ability / knowing how | **können** | Ich **kann** Deutsch sprechen. |
+| Obligation (rule, law) | **müssen** | Du **musst** einen Ausweis haben. |
+| Strong will, determination | **wollen** | Ich **will** Arzt werden. |
+| Polite request (restaurant, shop) | **möchten** | Ich **möchte** ein Wasser, bitte. |
+| Permission / prohibition | **dürfen** | Man **darf** hier nicht parken. |
+| Advice / someone told you | **sollen** | Du **sollst** mehr schlafen. |
 
 ### 1.5 möchten vs. wollen
 
 | | wollen | möchten |
 |---|---|---|
-| Mức độ | Mạnh, trực tiếp | Nhẹ nhàng, lịch sự |
-| Dùng khi | Nói ý định thật | Gọi món, yêu cầu lịch sự |
-| Ví dụ | Ich **will** das! (Tôi muốn cái đó!) | Ich **möchte** das, bitte. (Tôi muốn cái đó, làm ơn.) |
+| Strength | Strong, direct | Soft, polite |
+| Use when | Stating intention | Ordering, polite requests |
+| Example | Ich **will** das! (I want that!) | Ich **möchte** das, bitte. (I would like that, please.) |
 
-### 1.6 Câu hỏi & Phủ định với Modalverben
+### 1.6 Questions & Negation with Modal Verbs
 
-**Câu hỏi Ja/Nein:** đảo Modalverb lên đầu.
+**Yes/No questions:** move the modal verb to position 1.
 
-| Câu hỏi | Nghĩa |
+| Question | Meaning |
 |---|---|
-| **Kannst** du mir helfen? | Bạn có thể giúp tôi không? |
-| **Muss** sie früh aufstehen? | Cô ấy phải dậy sớm không? |
-| **Darf** ich hier sitzen? | Tôi có được ngồi đây không? |
+| **Kannst** du mir helfen? | Can you help me? |
+| **Muss** sie früh aufstehen? | Does she have to get up early? |
+| **Darf** ich hier sitzen? | May I sit here? |
 
-**Phủ định:** *nicht* đứng trước Infinitiv cuối câu.
+**Negation:** *nicht* goes before the infinitive at the end.
 
-| Câu | Nghĩa |
+| Sentence | Meaning |
 |---|---|
-| Ich kann **nicht** schwimmen. | Tôi không biết bơi. |
-| Du musst heute **nicht** arbeiten. | Hôm nay bạn không phải làm việc. |
+| Ich kann **nicht** schwimmen. | I can't swim. |
+| Du musst heute **nicht** arbeiten. | You don't have to work today. |
 
 > ⚠️ **nicht müssen ≠ nicht dürfen!**
-> - Du musst **nicht** kommen. = Bạn **không cần** đến. (không bắt buộc)
-> - Du darfst **nicht** kommen. = Bạn **không được phép** đến. (cấm)
+> - Du musst **nicht** kommen. = You **don't have to** come. (not obligatory)
+> - Du darfst **nicht** kommen. = You **are not allowed** to come. (forbidden)
 
-### 1.7 Modalverben + Động từ tách
+### 1.7 Modal Verbs + Separable Verbs
 
-Khi dùng Modalverb, động từ tách **KHÔNG tách** — giữ nguyên ở cuối câu:
+When using a modal verb, separable verbs **DO NOT separate** — they stay whole at the end:
 
-| Không có Modal (tách) | Có Modal (không tách) |
+| Without Modal (separates) | With Modal (stays together) |
 |---|---|
 | Ich **stehe** um 7 Uhr **auf**. | Ich muss um 7 Uhr **aufstehen**. |
 | Er **ruft** seine Mutter **an**. | Er will seine Mutter **anrufen**. |
@@ -151,19 +151,19 @@ Khi dùng Modalverb, động từ tách **KHÔNG tách** — giữ nguyên ở c
 
 ---
 
-## 2 · Mệnh lệnh (Imperativ)
+## 2 · Imperative (Imperativ)
 
-### 2.1 Ba dạng mệnh lệnh ở A1
+### 2.1 Three Imperative Forms at A1
 
-| Đối tượng | Cách tạo | Ví dụ (kommen) | Ví dụ (lesen) |
+| Audience | How to Form | Example (kommen) | Example (lesen) |
 |---|---|---|---|
-| **du** (thân mật, 1 người) | Gốc động từ (bỏ -st) | **Komm!** | **Lies!** |
-| **ihr** (thân mật, nhiều người) | Giống chia ihr, bỏ ihr | **Kommt!** | **Lest!** |
-| **Sie** (lịch sự) | Nguyên thể + Sie | **Kommen Sie!** | **Lesen Sie!** |
+| **du** (informal, 1 person) | Verb stem (drop -st) | **Komm!** | **Lies!** |
+| **ihr** (informal, multiple) | Same as ihr form, drop ihr | **Kommt!** | **Lest!** |
+| **Sie** (formal) | Infinitive + Sie | **Kommen Sie!** | **Lesen Sie!** |
 
-### 2.2 Bảng chia Imperativ — Các động từ phổ biến
+### 2.2 Imperative Table — Common Verbs
 
-| Nguyên thể | du | ihr | Sie |
+| Infinitive | du | ihr | Sie |
 |---|---|---|---|
 | kommen | Komm! | Kommt! | Kommen Sie! |
 | machen | Mach! | Macht! | Machen Sie! |
@@ -171,76 +171,76 @@ Khi dùng Modalverb, động từ tách **KHÔNG tách** — giữ nguyên ở c
 | lesen (e→ie) | **Lies!** | Lest! | Lesen Sie! |
 | sprechen (e→i) | **Sprich!** | Sprecht! | Sprechen Sie! |
 | nehmen (e→i) | **Nimm!** | Nehmt! | Nehmen Sie! |
-| fahren (a→ä) | **Fahr!** *(không Umlaut!)* | Fahrt! | Fahren Sie! |
+| fahren (a→ä) | **Fahr!** *(no Umlaut!)* | Fahrt! | Fahren Sie! |
 | sein | **Sei!** | Seid! | Seien Sie! |
 
-> ⚠️ Với *du*: Động từ đổi **e→i/ie** → giữ đổi. Động từ đổi **a→ä** → **KHÔNG** Umlaut!
+> ⚠️ For *du*: Verbs that change **e→i/ie** → keep the change. Verbs that change **a→ä** → **NO** Umlaut!
 
-### 2.3 Imperativ với động từ tách
+### 2.3 Imperative with Separable Verbs
 
-Tiền tố vẫn **bay về cuối**:
+The prefix still **goes to the end**:
 
-| Ví dụ | Nghĩa |
+| Example | Meaning |
 |---|---|
-| **Steh** ... **auf!** | Dậy đi! (du) |
-| **Steht** ... **auf!** | Dậy đi! (ihr) |
-| **Stehen** Sie ... **auf!** | Xin hãy đứng dậy! (Sie) |
-| **Ruf** mich **an!** | Gọi cho tôi đi! |
-| **Mach** die Tür **zu!** | Đóng cửa lại! |
+| **Steh** ... **auf!** | Get up! (du) |
+| **Steht** ... **auf!** | Get up! (ihr) |
+| **Stehen** Sie ... **auf!** | Please stand up! (Sie) |
+| **Ruf** mich **an!** | Call me! |
+| **Mach** die Tür **zu!** | Close the door! |
 
-### 2.4 Làm mềm mệnh lệnh
+### 2.4 Softening Commands
 
-Thêm **bitte** (xin, làm ơn) để lịch sự hơn:
+Add **bitte** (please) to be more polite:
 
-- Komm **bitte** schnell! *(Làm ơn đến nhanh!)*
-- **Bitte** kommen Sie herein! *(Xin mời vào!)*
-- Mach **bitte** die Tür zu! *(Làm ơn đóng cửa!)*
+- Komm **bitte** schnell! *(Please come quickly!)*
+- **Bitte** kommen Sie herein! *(Please come in!)*
+- Mach **bitte** die Tür zu! *(Please close the door!)*
 
 ---
 
-## 3 · Diễn đạt thời gian (Zeitangaben)
+## 3 · Time Expressions (Zeitangaben)
 
-### 3.1 Từ vựng thời gian cơ bản
+### 3.1 Basic Time Vocabulary
 
-| Tiếng Đức | Nghĩa |
+| German | English |
 |---|---|
-| heute | hôm nay |
-| morgen | ngày mai |
-| gestern | hôm qua |
-| jetzt | bây giờ |
-| später | sau, lát nữa |
-| bald | sớm thôi |
-| immer | luôn luôn |
-| oft | thường xuyên |
-| manchmal | thỉnh thoảng |
-| nie / niemals | không bao giờ |
+| heute | today |
+| morgen | tomorrow |
+| gestern | yesterday |
+| jetzt | now |
+| später | later |
+| bald | soon |
+| immer | always |
+| oft | often |
+| manchmal | sometimes |
+| nie / niemals | never |
 
-### 3.2 Giới từ thời gian — um / am / im
+### 3.2 Time Prepositions — um / am / im
 
-| Giới từ | Dùng với | Ví dụ |
+| Preposition | Used With | Example |
 |---|---|---|
-| **um** | Giờ cụ thể | **um** 8 Uhr (lúc 8 giờ) |
-| **am** | Ngày trong tuần, ngày tháng | **am** Montag (vào thứ Hai), **am** 5. Mai |
-| **im** | Tháng, mùa | **im** Januar (vào tháng 1), **im** Sommer (vào mùa hè) |
+| **um** | Specific clock time | **um** 8 Uhr (at 8 o'clock) |
+| **am** | Days of the week, dates | **am** Montag (on Monday), **am** 5. Mai |
+| **im** | Months, seasons | **im** Januar (in January), **im** Sommer (in summer) |
 
-> 💡 **Mẹo:** **u**m = **U**hr (giờ), **a**m = t**a**g (ngày), **i**m = Mona**t** / Ze**i**t dài
+> 💡 **Memory trick:** **u**m = **U**hr (clock), **a**m = t**a**g (day), **i**m = long t**i**me periods
 
-### 3.3 Các buổi trong ngày
+### 3.3 Parts of the Day
 
-| Tiếng Đức | Nghĩa | Dùng với |
+| German | English | Used With |
 |---|---|---|
-| am Morgen / morgens | buổi sáng | **am** + Dat. / trạng từ |
-| am Vormittag / vormittags | buổi sáng muộn | |
-| am Mittag / mittags | buổi trưa | |
-| am Nachmittag / nachmittags | buổi chiều | |
-| am Abend / abends | buổi tối | |
-| in der Nacht / nachts | ban đêm | |
+| am Morgen / morgens | in the morning | **am** + Dat. / adverb |
+| am Vormittag / vormittags | in the late morning | |
+| am Mittag / mittags | at noon | |
+| am Nachmittag / nachmittags | in the afternoon | |
+| am Abend / abends | in the evening | |
+| in der Nacht / nachts | at night | |
 
-### 3.4 Thời gian ở vị trí 1 → Đảo ngữ
+### 3.4 Time in Position 1 → Inversion
 
-Khi đưa thời gian lên đầu câu, nhớ **đảo ngữ** (V2-Regel):
+When time goes to the front, remember **inversion** (V2-Regel):
 
-| Bình thường | Đảo ngữ |
+| Normal | Inverted |
 |---|---|
 | Ich arbeite **heute**. | **Heute** arbeite **ich**. |
 | Wir fahren **morgen** nach Bonn. | **Morgen** fahren **wir** nach Bonn. |
@@ -248,66 +248,66 @@ Khi đưa thời gian lên đầu câu, nhớ **đảo ngữ** (V2-Regel):
 
 ---
 
-## 4 · Liên từ cơ bản (Konjunktionen)
+## 4 · Basic Connectors (Konjunktionen)
 
-### 4.1 Liên từ kết hợp (Koordinierende Konjunktionen) — Không đổi trật tự từ
+### 4.1 Coordinating Conjunctions — No Word Order Change
 
-| Liên từ | Nghĩa | Ví dụ |
+| Conjunction | Meaning | Example |
 |---|---|---|
-| **und** | và | Ich trinke Tee **und** er trinkt Kaffee. |
-| **aber** | nhưng | Sie ist müde, **aber** sie lernt. |
-| **oder** | hoặc | Trinkst du Tee **oder** Kaffee? |
-| **denn** | bởi vì | Ich lerne Deutsch, **denn** ich wohne in Berlin. |
-| **sondern** | mà là (sau phủ định) | Ich trinke nicht Tee, **sondern** Kaffee. |
+| **und** | and | Ich trinke Tee **und** er trinkt Kaffee. |
+| **aber** | but | Sie ist müde, **aber** sie lernt. |
+| **oder** | or | Trinkst du Tee **oder** Kaffee? |
+| **denn** | because | Ich lerne Deutsch, **denn** ich wohne in Berlin. |
+| **sondern** | but rather (after negation) | Ich trinke nicht Tee, **sondern** Kaffee. |
 
-> 💡 Sau 5 liên từ này, trật tự từ **KHÔNG thay đổi**: [Liên từ] + S + V + …
+> 💡 After these 5 conjunctions, word order **DOES NOT change**: [Conjunction] + S + V + …
 
 ### 4.2 sondern vs. aber
 
 | | aber | sondern |
 |---|---|---|
-| Dùng khi | Hai ý **tương phản** | **Phủ định** ý đầu, **thay bằng** ý sau |
-| Ví dụ | Er ist arm, **aber** glücklich. | Er ist **nicht** arm, **sondern** reich. |
+| Use when | Two **contrasting** ideas | **Negating** first idea, **replacing** with second |
+| Example | Er ist arm, **aber** glücklich. | Er ist **nicht** arm, **sondern** reich. |
 
-> sondern chỉ dùng sau **nicht** hoặc **kein**!
+> sondern is only used after **nicht** or **kein**!
 
-### 4.3 Trạng từ nối (Konjunktionaladverbien) — CÓ đảo ngữ
+### 4.3 Conjunctional Adverbs (Konjunktionaladverbien) — DO Cause Inversion
 
-Các từ nối này đứng ở **vị trí 1** → gây **đảo ngữ**:
+These connectors go in **position 1** → cause **inversion**:
 
-| Trạng từ nối | Nghĩa | Ví dụ |
+| Adverb | Meaning | Example |
 |---|---|---|
-| **dann** | sau đó | Ich esse. **Dann** gehe **ich** zur Arbeit. |
-| **deshalb** | vì vậy | Ich bin müde. **Deshalb** schlafe **ich**. |
-| **danach** | sau đó | Ich dusche. **Danach** frühstücke **ich**. |
-| **trotzdem** | mặc dù vậy | Es regnet. **Trotzdem** gehe **ich** spazieren. |
-| **zuerst** | trước tiên | **Zuerst** lerne **ich**, dann spiele ich. |
+| **dann** | then | Ich esse. **Dann** gehe **ich** zur Arbeit. |
+| **deshalb** | therefore | Ich bin müde. **Deshalb** schlafe **ich**. |
+| **danach** | after that | Ich dusche. **Danach** frühstücke **ich**. |
+| **trotzdem** | nevertheless | Es regnet. **Trotzdem** gehe **ich** spazieren. |
+| **zuerst** | first | **Zuerst** lerne **ich**, dann spiele ich. |
 
-> ⚠️ Khác biệt: **denn** (liên từ, không đảo) vs. **deshalb** (trạng từ nối, CÓ đảo)!
+> ⚠️ Key difference: **denn** (conjunction, no inversion) vs. **deshalb** (adverb, DOES invert)!
 >
 > - Ich bin müde, **denn** **ich** arbeite viel. *(S + V)*
 > - Ich arbeite viel. **Deshalb** **bin** **ich** müde. *(V + S)*
 
 ---
 
-## 5 · Lỗi thường gặp
+## 5 · Common Mistakes
 
-| # | ❌ Sai | ✅ Đúng | Giải thích |
+| # | ❌ Wrong | ✅ Correct | Explanation |
 |---|---|---|---|
-| 1 | Ich kann Deutsch **spreche**. | Ich kann Deutsch **sprechen**. | Infinitiv ở cuối (không chia!) |
-| 2 | Ich **kann sprechen** Deutsch. | Ich **kann** Deutsch **sprechen**. | Infinitiv phải ở cuối câu |
-| 3 | Ich muss nicht kommen. *(nghĩ = cấm)* | Ich **darf** nicht kommen. | nicht müssen = không cần ≠ nicht dürfen = cấm |
-| 4 | Ich will um 7 Uhr **aufstehe**. | Ich will um 7 Uhr **aufstehen**. | Modal + Infinitiv → không tách |
-| 5 | **Fährt!** (Imperativ du) | **Fahr!** | Imperativ du: KHÔNG Umlaut với a→ä |
-| 6 | **Lese!** (Imperativ du) | **Lies!** | Imperativ du: giữ đổi e→ie |
-| 7 | Ich lerne Deutsch, **deshalb** **ich** wohne in Berlin. | ...**denn** ich wohne... HOẶC ...**Deshalb** **wohne** ich... | denn = không đảo; deshalb = đảo |
-| 8 | Er ist nicht arm, **aber** reich. | Er ist nicht arm, **sondern** reich. | Sau nicht + thay thế → sondern |
+| 1 | Ich kann Deutsch **spreche**. | Ich kann Deutsch **sprechen**. | Infinitive at end (don't conjugate!) |
+| 2 | Ich **kann sprechen** Deutsch. | Ich **kann** Deutsch **sprechen**. | Infinitive must be at end of sentence |
+| 3 | Ich muss nicht kommen. *(thinking = forbidden)* | Ich **darf** nicht kommen. | nicht müssen = don't need to ≠ nicht dürfen = forbidden |
+| 4 | Ich will um 7 Uhr **aufstehe**. | Ich will um 7 Uhr **aufstehen**. | Modal + infinitive → no separation |
+| 5 | **Fährt!** (Imperative du) | **Fahr!** | Imperative du: NO Umlaut for a→ä |
+| 6 | **Lese!** (Imperative du) | **Lies!** | Imperative du: keep e→ie change |
+| 7 | Ich lerne Deutsch, **deshalb** **ich** wohne in Berlin. | ...**denn** ich wohne... OR ...**Deshalb** **wohne** ich... | denn = no inversion; deshalb = inversion |
+| 8 | Er ist nicht arm, **aber** reich. | Er ist nicht arm, **sondern** reich. | After nicht + replacement → sondern |
 
 ---
 
-## 6 · Tự kiểm tra nhanh
+## 6 · Quick Self-Check
 
-| # | Câu | Đáp án |
+| # | Sentence | Answer |
 |---|---|---|
 | 1 | Ich ___ (können) gut kochen. | Ich **kann** gut kochen. |
 | 2 | ___ du mir helfen? (können) | **Kannst** du mir helfen? |
@@ -316,92 +316,92 @@ Các từ nối này đứng ở **vị trí 1** → gây **đảo ngữ**:
 | 5 | Man ___ hier nicht rauchen. (dürfen) | Man **darf** hier nicht rauchen. |
 | 6 | ___ bitte die Tür ___! (zumachen, du) | **Mach** bitte die Tür **zu!** |
 | 7 | Das Treffen ist ___ 9 Uhr ___ Montag. | Das Treffen ist **um** 9 Uhr **am** Montag. |
-| 8 | Ich bin müde, ___ ich arbeite viel. (bởi vì) | ....**denn** ich arbeite viel. |
+| 8 | Ich bin müde, ___ ich arbeite viel. (because) | ....**denn** ich arbeite viel. |
 
 ---
 
-## 7 · Câu ví dụ thực hành
+## 7 · Practice Sentences
 
-### 7.1 Modalverben
+### 7.1 Modal Verbs
 
-| Tiếng Đức | Tiếng Việt |
+| German | English |
 |---|---|
-| Ich **kann** gut kochen. | Tôi nấu ăn giỏi. |
-| Du **musst** heute arbeiten. | Hôm nay bạn phải làm việc. |
-| Er **will** Fußball spielen. | Anh ấy muốn chơi bóng đá. |
-| Ich **möchte** einen Tee, bitte. | Tôi muốn một tách trà, làm ơn. |
-| Ihr **dürft** hier parken. | Các bạn được phép đậu xe ở đây. |
-| Du **sollst** jetzt lernen. | Bạn nên học bây giờ. |
-| **Kannst** du mir helfen? | Bạn có thể giúp tôi không? |
-| Wir **wollen** ein Auto kaufen. | Chúng tôi muốn mua xe. |
-| Ich **muss** um 7 Uhr **aufstehen**. | Tôi phải dậy lúc 7 giờ. |
-| **Darf** ich hier sitzen? | Tôi có được ngồi đây không? |
+| Ich **kann** gut kochen. | I can cook well. |
+| Du **musst** heute arbeiten. | You have to work today. |
+| Er **will** Fußball spielen. | He wants to play soccer. |
+| Ich **möchte** einen Tee, bitte. | I would like a tea, please. |
+| Ihr **dürft** hier parken. | You all may park here. |
+| Du **sollst** jetzt lernen. | You should study now. |
+| **Kannst** du mir helfen? | Can you help me? |
+| Wir **wollen** ein Auto kaufen. | We want to buy a car. |
+| Ich **muss** um 7 Uhr **aufstehen**. | I have to get up at 7. |
+| **Darf** ich hier sitzen? | May I sit here? |
 
-### 7.2 Imperativ
+### 7.2 Imperative
 
-| Tiếng Đức | Tiếng Việt | Dạng |
+| German | English | Form |
 |---|---|---|
-| **Komm** bitte schnell! | Đến nhanh, làm ơn! | du |
-| **Kommen Sie** herein! | Xin mời vào! | Sie |
-| **Macht** die Tür zu! | Đóng cửa lại! | ihr |
-| **Lies** das Buch! | Đọc sách đi! | du |
-| **Sprich** langsam! | Nói chậm lại! | du |
-| **Nimm** den Bus! | Đi xe buýt đi! | du |
-| **Sei** ruhig! | Im lặng nào! | du |
-| **Seien Sie** bitte pünktlich! | Xin hãy đúng giờ! | Sie |
+| **Komm** bitte schnell! | Come quickly, please! | du |
+| **Kommen Sie** herein! | Come in! | Sie |
+| **Macht** die Tür zu! | Close the door! | ihr |
+| **Lies** das Buch! | Read the book! | du |
+| **Sprich** langsam! | Speak slowly! | du |
+| **Nimm** den Bus! | Take the bus! | du |
+| **Sei** ruhig! | Be quiet! | du |
+| **Seien Sie** bitte pünktlich! | Please be on time! | Sie |
 
-### 7.3 Thời gian & Liên từ
+### 7.3 Time & Connectors
 
-| Tiếng Đức | Tiếng Việt |
+| German | English |
 |---|---|
-| Das Treffen ist **um** 9 Uhr. | Buổi họp lúc 9 giờ. |
-| Der Kurs ist **am** Montag. | Khoá học vào thứ Hai. |
-| **Im** Winter ist es kalt. | Mùa đông trời lạnh. |
-| Ich trinke Tee **und** er trinkt Kaffee. | Tôi uống trà và anh ấy uống cà phê. |
-| Sie ist müde, **aber** sie lernt. | Cô ấy mệt, nhưng cô ấy vẫn học. |
-| Ich lerne Deutsch, **denn** ich wohne in Berlin. | Tôi học tiếng Đức vì tôi sống ở Berlin. |
-| Ich esse. **Dann** gehe ich zur Arbeit. | Tôi ăn. Sau đó tôi đi làm. |
-| Es regnet. **Trotzdem** gehe ich spazieren. | Trời mưa. Mặc dù vậy tôi vẫn đi dạo. |
+| Das Treffen ist **um** 9 Uhr. | The meeting is at 9 o'clock. |
+| Der Kurs ist **am** Montag. | The course is on Monday. |
+| **Im** Winter ist es kalt. | It is cold in winter. |
+| Ich trinke Tee **und** er trinkt Kaffee. | I drink tea and he drinks coffee. |
+| Sie ist müde, **aber** sie lernt. | She is tired, but she studies. |
+| Ich lerne Deutsch, **denn** ich wohne in Berlin. | I learn German because I live in Berlin. |
+| Ich esse. **Dann** gehe ich zur Arbeit. | I eat. Then I go to work. |
+| Es regnet. **Trotzdem** gehe ich spazieren. | It's raining. Nevertheless I go for a walk. |
 
 ---
 
-## 8 · Chiến lược học hiệu quả
+## 8 · Effective Learning Strategies
 
-### 🎯 Bước 1: Học thuộc 6 bảng chia Modalverben
-Viết mỗi bảng ra giấy. Mẹo: ich = er/sie/es (luôn giống nhau)!
+### 🎯 Step 1: Memorize the 6 Modal Verb Conjugation Tables
+Write each table out on paper. Tip: ich = er/sie/es (always the same)!
 
-### 🔁 Bước 2: Luyện khung câu (Satzklammer)
-Với mỗi Modal, đặt 3 câu: *Ich kann ... sprechen. Ich muss ... arbeiten. Ich will ... kaufen.*
+### 🔁 Step 2: Practice the Sentence Frame (Satzklammer)
+For each modal, make 3 sentences: *Ich kann ... sprechen. Ich muss ... arbeiten. Ich will ... kaufen.*
 
-### 📝 Bước 3: Viết nhật ký buổi sáng dùng Imperativ + Thời gian
+### 📝 Step 3: Write a Morning Diary Using Imperative + Time
 > *Um 7 Uhr stehe ich auf. Dann dusche ich. Danach frühstücke ich. Am Montag muss ich arbeiten.*
 
-### 🗣️ Bước 4: Tập lịch sự
-Ở nhà hàng tưởng tượng: *Ich möchte einen Kaffee, bitte. Darf ich die Karte haben?*
+### 🗣️ Step 4: Practice Being Polite
+Imagine you're in a restaurant: *Ich möchte einen Kaffee, bitte. Darf ich die Karte haben?*
 
 ---
 
-## 9 · Tóm tắt bài học
+## 9 · Lesson Summary
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │  ✅ 6 Modalverben: können/müssen/wollen/möchten/dürfen/sollen│
-│  ✅ Khung câu: Modal (vị trí 2) + ... + Infinitiv (cuối)    │
-│  ✅ ich = er/sie/es (không đuôi) ở tất cả Modalverben       │
-│  ✅ Modal + động từ tách → KHÔNG tách (aufstehen, anrufen)   │
+│  ✅ Sentence frame: Modal (pos. 2) + ... + Infinitive (end)  │
+│  ✅ ich = er/sie/es (no ending) in all modal verbs           │
+│  ✅ Modal + separable verb → NO separation (aufstehen)        │
 │  ✅ nicht müssen ≠ nicht dürfen                               │
-│  ✅ Imperativ: du (gốc), ihr (gốc+t), Sie (Infinitiv+Sie)   │
-│  ✅ um (giờ), am (ngày), im (tháng/mùa)                     │
-│  ✅ und/aber/oder/denn/sondern → không đảo ngữ               │
-│  ✅ dann/deshalb/danach/trotzdem → CÓ đảo ngữ               │
+│  ✅ Imperative: du (stem), ihr (stem+t), Sie (Infinitive+Sie)│
+│  ✅ um (clock), am (day), im (month/season)                   │
+│  ✅ und/aber/oder/denn/sondern → no inversion                 │
+│  ✅ dann/deshalb/danach/trotzdem → DO cause inversion         │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Bước tiếp theo
+## Next Steps
 
-1. ✍️ Làm bài tập: [exercises.md](exercises.md)
-2. 🔍 Đối chiếu đáp án: [answers.md](answers.md)
-3. 🏆 Ôn tập tổng hợp: [practice-test.md](../practice-test.md)
-4. 📅 Lập kế hoạch: [study-plan-21-days.md](../study-plan-21-days.md)
+1. ✍️ Do the exercises: [exercises.md](exercises.md)
+2. 🔍 Check your answers: [answers.md](answers.md)
+3. 🏆 Full review test: [practice-test.md](../practice-test.md)
+4. 📅 Study plan: [study-plan-21-days.md](../study-plan-21-days.md)
