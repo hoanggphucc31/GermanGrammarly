@@ -29,10 +29,10 @@
 
 | # | Module | Book | Key Grammar |
 |---|---|---|---|
-| 07 | Nomen, Artikel & Plural | Kap. 13-14 | Gender, articles, 5 plural patterns |
-| 08 | Negation | Kap. 15 | kein, nicht, nie, doch |
-| 09 | Akkusativ & Dativ | Kap. 16-17 | Case system, pronouns in Akk/Dat |
-| 10 | Possessivartikel & Pronomen | Kap. 18-20 | mein/dein/sein..., verbs + case |
+| 07 | [Nomen, Artikel & Plural](M07-nomen-artikel-plural/) | Kap. 13-14 | Gender, articles, 5 plural patterns |
+| 08 | [Negation](M08-negation/) | Kap. 15 | kein, nicht, nie, doch |
+| 09 | [Akkusativ & Dativ](M09-akkusativ-dativ/) | Kap. 16-17 | Case system, article changes, verbs + case |
+| 10 | [Possessivartikel, welcher/dieser & Pronomen](M10-possessiv-pronomen/) | Kap. 18-20 | Possessives, interrogative/demonstrative articles, object pronouns |
 
 ### Phase 4: Prepositions & Exam (Weeks 7-8) — Book Units 21-22+
 

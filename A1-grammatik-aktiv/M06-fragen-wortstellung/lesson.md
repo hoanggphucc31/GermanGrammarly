@@ -251,5 +251,5 @@ Type 4 — Satzklammer:
 ## Next Steps
 
 → [Exercises](exercises.md) · [Answers](answers.md) · [Vocabulary](vocabulary.md) · [Flashcards](flashcards.md) · [Exam Tips](exam-tips.md)
-→ Next Module: M07 — Nomen, Artikel & Plural *(coming soon)*
+→ Next Module: [M07 — Nomen, Artikel & Plural](../M07-nomen-artikel-plural/lesson.md)
 → Previous Module: [M05 — Trennbare Verben & Imperativ](../M05-trennbar-imperativ/lesson.md)

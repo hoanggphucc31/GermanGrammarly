@@ -93,13 +93,18 @@ Based on [CURRICULUM-MAP.md](CURRICULUM-MAP.md):
 | M04 | Complete |
 | M05 | Complete |
 | M06 | Complete |
-| M07-M12 | Planned |
+| M07 | Complete |
+| M08 | Complete |
+| M09 | Complete |
+| M10 | Complete |
+| M11-M12 | Planned |
 
 This means the current best practical learning route is:
 
 1. Finish `M01` → `M02` → `M03` (Phase 1: Foundation)
 2. Finish `M04` → `M05` → `M06` (Phase 2: Modal & Structure)
-3. Use the appendix for exam support while waiting for Phase 3
+3. Finish `M07` → `M08` → `M09` → `M10` (Phase 3: Nouns & Cases)
+4. Use the appendix for exam support while waiting for Phase 4
 
 ---
 
@@ -278,18 +283,122 @@ Phase 2 is now available and covers modal verbs, separable verbs, imperative, an
 
 ---
 
+## Phase 3 Roadmap
+
+Phase 3 is now available and covers the noun/article system, negation, cases, possessives, and object pronouns.
+
+### M07: Nomen, Artikel & Plural
+
+**Book alignment:** Kapitel 13-14
+
+**What you learn:**
+- grammatical gender (der/die/das)
+- core gender rules by ending (-ung=die, -chen=das)
+- compound nouns: last word determines gender
+- definite vs indefinite articles
+- no-article situations
+- 5 plural patterns
+
+**Files:**
+- [M07 lesson](M07-nomen-artikel-plural/lesson.md)
+- [M07 vocabulary](M07-nomen-artikel-plural/vocabulary.md)
+- [M07 flashcards](M07-nomen-artikel-plural/flashcards.md)
+- [M07 exercises](M07-nomen-artikel-plural/exercises.md)
+- [M07 answers](M07-nomen-artikel-plural/answers.md)
+- [M07 exam tips](M07-nomen-artikel-plural/exam-tips.md)
+
+**Study goal:**
+- You can assign der/die/das using core ending rules.
+- You can form plurals of common nouns.
+
+**Minimum output before moving on:**
+- You know: -ung = die, -chen = das, days = der.
+- You always learn noun + article + plural together.
+
+### M08: Negation
+
+**Book alignment:** Kapitel 15
+
+**What you learn:**
+- kein vs nicht (decision tree)
+- position of nicht in sentences
+- nie (never)
+- doch (contradict negative)
+
+**Files:**
+- [M08 lesson](M08-negation/lesson.md)
+- [M08 vocabulary](M08-negation/vocabulary.md)
+- [M08 flashcards](M08-negation/flashcards.md)
+- [M08 exercises](M08-negation/exercises.md)
+- [M08 answers](M08-negation/answers.md)
+- [M08 exam tips](M08-negation/exam-tips.md)
+
+**Study goal:**
+- You can negate any A1-level sentence correctly.
+
+**Minimum output before moving on:**
+- You know: ein/bare noun → kein. Everything else → nicht.
+- You can use doch to contradict a negative question.
+
+### M09: Akkusativ & Dativ
+
+**Book alignment:** Kapitel 16-17
+
+**What you learn:**
+- Nominativ vs Akkusativ vs Dativ
+- article changes in all 3 cases
+- verbs + Akkusativ, verbs + Dativ
+- *mit* + Dativ as illustrative preposition example
+
+**Files:**
+- [M09 lesson](M09-akkusativ-dativ/lesson.md)
+- [M09 vocabulary](M09-akkusativ-dativ/vocabulary.md)
+- [M09 flashcards](M09-akkusativ-dativ/flashcards.md)
+- [M09 exercises](M09-akkusativ-dativ/exercises.md)
+- [M09 answers](M09-akkusativ-dativ/answers.md)
+- [M09 exam tips](M09-akkusativ-dativ/exam-tips.md)
+
+**Study goal:**
+- You can use the correct article form for Nom/Akk/Dat.
+- You know which verbs take Akk and which take Dat.
+
+**Minimum output before moving on:**
+- You know: only masculine changes in Akk (der→den).
+- You know: helfen, danken, gehören = Dativ.
+- Full preposition system + verbs with Dat+Akk → M11.
+
+### M10: Possessivartikel, welcher/dieser & Personalpronomen
+
+**Book alignment:** Kapitel 18-20
+
+**What you learn:**
+- possessive articles: mein/dein/sein/ihr/unser/euer/Ihr
+- possessive endings = kein-pattern
+- welcher? (which?) and dieser (this/that)
+- personal pronouns in Akkusativ (mich/dich/ihn/sie/es/uns/euch)
+- personal pronouns in Dativ (mir/dir/ihm/ihr/uns/euch/ihnen)
+
+**Files:**
+- [M10 lesson](M10-possessiv-pronomen/lesson.md)
+- [M10 vocabulary](M10-possessiv-pronomen/vocabulary.md)
+- [M10 flashcards](M10-possessiv-pronomen/flashcards.md)
+- [M10 exercises](M10-possessiv-pronomen/exercises.md)
+- [M10 answers](M10-possessiv-pronomen/answers.md)
+- [M10 exam tips](M10-possessiv-pronomen/exam-tips.md)
+
+**Study goal:**
+- You can use possessives, welcher/dieser, and object pronouns in context.
+
+**Minimum output before moving on:**
+- You know: possessives = kein-pattern. welcher/dieser = der-pattern.
+- You know: ihm = him (Dat), ihn = him (Akk).
+- You can answer: *Welchen Kaffee? — Diesen Kaffee.*
+
+---
+
 ## Planned Expansion Roadmap
 
 These modules are planned and will extend this roadmap later.
-
-### Phase 3: Nouns & Cases
-
-| Module | Planned Book Coverage | Expected Focus |
-|---|---|---|
-| M07 | Kapitel 13-14 | Gender, articles, plural |
-| M08 | Kapitel 15 | Negation |
-| M09 | Kapitel 16-17 | Accusative, Dative |
-| M10 | Kapitel 18-20 | Possessive articles, pronouns in Akk/Dat |
 
 ### Phase 4: Prepositions & Exam Integration
 
@@ -320,19 +429,19 @@ This is the default recommended route for a self-study learner.
 | Week 3 | M03 | Finish all M03 files slowly and thoroughly |
 | Week 4 | M04 | Finish M04 (modal verbs) + review M01-M03 |
 
-### Weeks 5-6: Structure & Questions
+### Weeks 5-6: Nouns & Cases
 
 | Week | Main Focus | Action |
 |---|---|---|
-| Week 5 | M05 | Finish M05 (separable verbs + imperative) |
-| Week 6 | M06 | Finish M06 (questions + word order) + review M04-M06 together |
+| Week 5 | M07 + M08 | Finish M07 (nouns/articles/plural) + M08 (negation) |
+| Week 6 | M09 + M10 | Finish M09 (Akk/Dat) + M10 (possessives/pronouns) |
 
-### Weeks 7-8: Consolidation & Exam Prep
+### Weeks 7-8: Full Consolidation & Exam Prep
 
 | Week | Focus | Action |
 |---|---|---|
-| Week 7 | Full review | Review M01-M06 as one block, redo weak exercises, use appendix |
-| Week 8 | Exam practice | Write mini paragraphs, practice speaking, recycle flashcards |
+| Week 7 | Full review | Review M01-M10 as one block, redo weak exercises, use appendix |
+| Week 8 | Exam practice | Write mini paragraphs, practice speaking, recycle all flashcards |
 
 ---
 
@@ -572,7 +681,11 @@ If you want the shortest possible path right now, do this:
 4. Then [M04 lesson](M04-modalverben/lesson.md)
 5. Then [M05 lesson](M05-trennbar-imperativ/lesson.md)
 6. Then [M06 lesson](M06-fragen-wortstellung/lesson.md)
-7. Use [APPENDIX-goethe-survival.md](APPENDIX-goethe-survival.md) for speaking and exam support
+7. Then [M07 lesson](M07-nomen-artikel-plural/lesson.md)
+8. Then [M08 lesson](M08-negation/lesson.md)
+9. Then [M09 lesson](M09-akkusativ-dativ/lesson.md)
+10. Then [M10 lesson](M10-possessiv-pronomen/lesson.md)
+11. Use [APPENDIX-goethe-survival.md](APPENDIX-goethe-survival.md) for speaking and exam support
 
 ---
 

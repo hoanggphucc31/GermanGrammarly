@@ -27,7 +27,8 @@
 | Negation (nicht/kein/nie/doch) | M08 | Kap. 15 | All sections |
 | Accusative / Dative cases | M09 | Kap. 16-17 | Lesen, Schreiben |
 | Possessive articles | **M10** | Kap. 18 | Lesen, Schreiben |
-| Personal pronouns in Akk/Dat | **M10** | Kap. 19-20 | Lesen |
+| Interrogative / demonstrative article (welcher/dieser) | **M10** | Kap. 19 | Sprechen, Lesen |
+| Personal pronouns in Akk/Dat | **M10** | Kap. 20 | Lesen |
 | Prepositions (Akk/Dat/Wechsel) | M11 | Kap. 21-22 | Lesen |
 | Time, dates, Perfekt intro | M12 | Supplementary | Hören, Schreiben |
 
@@ -48,6 +49,15 @@
 | Give and understand commands/requests | M05 |
 | Ask W-questions and yes/no questions | M06 |
 | Apply correct word order in statements | M06 |
+| Identify gender and form plurals | M07 |
+| Use correct articles (definite/indefinite/none) | M07 |
+| Negate nouns, verbs, and sentences | M08 |
+| Contradict negative statements with doch | M08 |
+| Use Akkusativ for direct objects | M09 |
+| Use Dativ for indirect objects and prepositions | M09 |
+| Express possession with possessive articles | M10 |
+| Ask and answer with welcher/dieser | M10 |
+| Replace nouns with Akk/Dat pronouns | M10 |
 
 ---
 
@@ -61,4 +71,8 @@
 | **M04** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
 | **M05** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
 | **M06** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
-| M07-M12 | — | — | — | — | — | — | Planned |
+| **M07** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M08** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M09** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M10** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| M11-M12 | — | — | — | — | — | — | Planned |
