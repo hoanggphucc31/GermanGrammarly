@@ -40,9 +40,14 @@
 | Replace nouns with correct pronouns | M01 |
 | Build simple present-tense sentences | M02 |
 | Express states, possession, hunger/thirst | M03 |
-| Use polite requests (möchten) | M03 |
+| Use polite requests (möchten) | M03, M04 |
 | Talk about daily routine with Vokalwechsel verbs | M03 |
-| (Further modules to be mapped as built) | M04-M12 |
+| Express ability, permission, obligation | M04 |
+| Understand signs and rules | M04 |
+| Describe daily routines with separable verbs | M05 |
+| Give and understand commands/requests | M05 |
+| Ask W-questions and yes/no questions | M06 |
+| Apply correct word order in statements | M06 |
 
 ---
 
@@ -53,4 +58,7 @@
 | **M01** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
 | **M02** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
 | **M03** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
-| M04-M12 | — | — | — | — | — | — | Planned |
+| **M04** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M05** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M06** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| M07-M12 | — | — | — | — | — | — | Planned |

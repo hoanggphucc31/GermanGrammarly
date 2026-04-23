@@ -16,7 +16,7 @@ This roadmap has 5 jobs:
 2. Explain how to use each file type inside a module.
 3. Give a practical weekly and daily study flow.
 4. Link directly to the current available lessons and support resources.
-5. Provide a stable structure that can grow when `M04-M12` are added.
+5. Provide a stable structure that can grow when `M07-M12` are added.
 
 ---
 
@@ -90,14 +90,16 @@ Based on [CURRICULUM-MAP.md](CURRICULUM-MAP.md):
 | M01 | Complete |
 | M02 | Complete |
 | M03 | Complete |
-| M04-M12 | Planned |
+| M04 | Complete |
+| M05 | Complete |
+| M06 | Complete |
+| M07-M12 | Planned |
 
 This means the current best practical learning route is:
 
-1. Finish `M01`
-2. Finish `M02`
-3. Finish `M03`
-4. Use the appendix for exam support while waiting for later modules
+1. Finish `M01` → `M02` → `M03` (Phase 1: Foundation)
+2. Finish `M04` → `M05` → `M06` (Phase 2: Modal & Structure)
+3. Use the appendix for exam support while waiting for Phase 3
 
 ---
 
@@ -185,17 +187,100 @@ Phase 1 is already available and should be studied in order.
 
 ---
 
+## Phase 2 Roadmap
+
+Phase 2 is now available and covers modal verbs, separable verbs, imperative, and sentence structure.
+
+### M04: Modalverben
+
+**Book alignment:** Kapitel 5-6
+
+**What you learn:**
+- 6 modal verbs: können, müssen, dürfen, wollen, sollen, möchten
+- modal conjugation (ich = er, no ending!)
+- sentence frame: modal in position 2, infinitive at end
+- meaning distinctions: können vs dürfen, müssen vs sollen, wollen vs möchten
+- signs and rules
+
+**Files:**
+- [M04 lesson](M04-modalverben/lesson.md)
+- [M04 vocabulary](M04-modalverben/vocabulary.md)
+- [M04 flashcards](M04-modalverben/flashcards.md)
+- [M04 exercises](M04-modalverben/exercises.md)
+- [M04 answers](M04-modalverben/answers.md)
+- [M04 exam tips](M04-modalverben/exam-tips.md)
+
+**Study goal:**
+- You can express ability, permission, obligation, and wishes using modals.
+
+**Minimum output before moving on:**
+- You can conjugate all 6 modals from memory.
+- You can build a sentence with the modal in pos. 2 and infinitive at the end.
+- You know that "must not" = darf nicht (NOT muss nicht).
+
+### M05: Trennbare Verben & Imperativ
+
+**Book alignment:** Kapitel 7-8
+
+**What you learn:**
+- separable verbs and their prefixes
+- prefix goes to the end in present tense
+- with modals: prefix stays attached
+- imperative: du / ihr / Sie forms
+- irregular imperatives (Sprich! Nimm! Lies!)
+- polite softeners: bitte, doch, mal
+
+**Files:**
+- [M05 lesson](M05-trennbar-imperativ/lesson.md)
+- [M05 vocabulary](M05-trennbar-imperativ/vocabulary.md)
+- [M05 flashcards](M05-trennbar-imperativ/flashcards.md)
+- [M05 exercises](M05-trennbar-imperativ/exercises.md)
+- [M05 answers](M05-trennbar-imperativ/answers.md)
+- [M05 exam tips](M05-trennbar-imperativ/exam-tips.md)
+
+**Study goal:**
+- You can use separable verbs in present tense and with modals.
+- You can give commands in du/ihr/Sie forms.
+
+**Minimum output before moving on:**
+- You can produce: *Ich stehe um 7 Uhr auf.* / *Ich muss um 7 Uhr aufstehen.*
+- You know: Sprich! Nimm! Lies! (e→i in imperative) but Fahr! (NO Umlaut).
+
+### M06: Fragen & Wortstellung
+
+**Book alignment:** Kapitel 9-12
+
+**What you learn:**
+- question words: wer, was, wo, woher, wohin, wann, warum, wie...
+- W-question structure
+- yes/no question inversion
+- verb position in statements (V2 rule)
+- position 1 flexibility
+- sentence frame awareness
+- doch (contradicts negative questions)
+
+**Files:**
+- [M06 lesson](M06-fragen-wortstellung/lesson.md)
+- [M06 vocabulary](M06-fragen-wortstellung/vocabulary.md)
+- [M06 flashcards](M06-fragen-wortstellung/flashcards.md)
+- [M06 exercises](M06-fragen-wortstellung/exercises.md)
+- [M06 answers](M06-fragen-wortstellung/answers.md)
+- [M06 exam tips](M06-fragen-wortstellung/exam-tips.md)
+
+**Study goal:**
+- You can ask and answer W-questions and yes/no questions.
+- You understand verb position in all basic sentence types.
+
+**Minimum output before moving on:**
+- You know: wo = static, woher = from, wohin = to.
+- You can transform a statement into a W-question and a yes/no question.
+- You know that verb is ALWAYS in position 2 in statements.
+
+---
+
 ## Planned Expansion Roadmap
 
-These modules are already planned in the curriculum and should extend this roadmap later.
-
-### Phase 2: Modal & Structure
-
-| Module | Planned Book Coverage | Expected Focus |
-|---|---|---|
-| M04 | Kapitel 5-6 | Modal verbs: conjugation, usage, position in sentence |
-| M05 | Kapitel 7-8 | Separable verbs, Satzklammer, imperative |
-| M06 | Kapitel 9-12 | W-questions, yes/no questions, word order |
+These modules are planned and will extend this roadmap later.
 
 ### Phase 3: Nouns & Cases
 
@@ -228,23 +313,26 @@ This is the default recommended route for a self-study learner.
 | Week 1 | M01 | Finish all M01 files and do one full review cycle |
 | Week 2 | M02 | Finish all M02 files and review M01 + M02 together |
 
-### Weeks 3-4: Stabilize Core Verbs
+### Weeks 3-4: Core Verbs & Modal System
 
 | Week | Main Focus | Action |
 |---|---|---|
 | Week 3 | M03 | Finish all M03 files slowly and thoroughly |
-| Week 4 | Consolidation | Review M01-M03, repeat exercises, use appendix for communicative practice |
+| Week 4 | M04 | Finish M04 (modal verbs) + review M01-M03 |
 
-### Weeks 5-8: Extension Stage
+### Weeks 5-6: Structure & Questions
 
-Until `M04-M12` are fully built, use this period for consolidation:
+| Week | Main Focus | Action |
+|---|---|---|
+| Week 5 | M05 | Finish M05 (separable verbs + imperative) |
+| Week 6 | M06 | Finish M06 (questions + word order) + review M04-M06 together |
+
+### Weeks 7-8: Consolidation & Exam Prep
 
 | Week | Focus | Action |
 |---|---|---|
-| Week 5 | Grammar review | Redo weak sections from M01-M03 |
-| Week 6 | Speaking support | Use the appendix for self-introduction, numbers, exam basics |
-| Week 7 | Writing + recall | Write mini paragraphs using M01-M03 structures |
-| Week 8 | Mock self-review | Recycle vocabulary, flashcards, and difficult exercises |
+| Week 7 | Full review | Review M01-M06 as one block, redo weak exercises, use appendix |
+| Week 8 | Exam practice | Write mini paragraphs, practice speaking, recycle flashcards |
 
 ---
 
@@ -299,6 +387,23 @@ To avoid forgetting earlier grammar, use this review pattern:
   - irregular form
   - vowel-change form
 
+### After finishing M04
+
+- review M01-M04 together
+- practice: modal + infinitive at end sentences
+- compare: können vs dürfen, müssen vs sollen
+
+### After finishing M05
+
+- review separable verb sentences with and without modals
+- practice imperative forms aloud
+
+### After finishing M06
+
+- review M01-M06 as one block
+- transform statements into W-questions and yes/no questions
+- practice wo/woher/wohin triple
+
 ### Weekly review rule
 
 At least once per week:
@@ -335,6 +440,32 @@ You should be able to:
 - use `möchten` politely
 - recognize common irregular patterns
 - understand and produce basic vowel-change verbs
+
+### Target after M04
+
+You should be able to:
+
+- use all 6 modal verbs in present tense
+- build sentences with modal + infinitive at end
+- distinguish können/dürfen, müssen/sollen, wollen/möchten
+- understand signs and rules using modals
+
+### Target after M05
+
+You should be able to:
+
+- use common separable verbs in present tense
+- combine separable verbs with modals
+- give polite commands in du/ihr/Sie forms
+
+### Target after M06
+
+You should be able to:
+
+- ask W-questions and yes/no questions correctly
+- apply V2 rule in statements
+- use wo/woher/wohin correctly
+- use doch to contradict negative questions
 
 ---
 
@@ -436,10 +567,12 @@ They should always tell the same story.
 If you want the shortest possible path right now, do this:
 
 1. Start with [M01 lesson](M01-erste-schritte/lesson.md)
-2. Then finish [M01 exercises](M01-erste-schritte/exercises.md)
-3. Move to [M02 lesson](M02-pronomen-sein/lesson.md)
-4. Then finish [M03 lesson](M03-haben-possessiv/lesson.md)
-5. Use [APPENDIX-goethe-survival.md](APPENDIX-goethe-survival.md) for speaking and exam support
+2. Then [M02 lesson](M02-pronomen-sein/lesson.md)
+3. Then [M03 lesson](M03-haben-possessiv/lesson.md)
+4. Then [M04 lesson](M04-modalverben/lesson.md)
+5. Then [M05 lesson](M05-trennbar-imperativ/lesson.md)
+6. Then [M06 lesson](M06-fragen-wortstellung/lesson.md)
+7. Use [APPENDIX-goethe-survival.md](APPENDIX-goethe-survival.md) for speaking and exam support
 
 ---
 

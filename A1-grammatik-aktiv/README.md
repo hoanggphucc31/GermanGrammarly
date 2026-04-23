@@ -21,9 +21,9 @@
 
 | # | Module | Book | Key Grammar |
 |---|---|---|---|
-| 04 | Modalverben | Kap. 5-6 | 6 modal verbs, conjugation & sentence position |
-| 05 | Trennbare Verben & Imperativ | Kap. 7-8 | Separable verbs, Satzklammer, imperative forms |
-| 06 | Fragen & Wortstellung | Kap. 9-12 | W-questions, V2 rule, TeKaMoLo |
+| 04 | [Modalverben](M04-modalverben/) | Kap. 5-6 | 6 modal verbs, conjugation, infinitive at end, usage distinctions |
+| 05 | [Trennbare Verben & Imperativ](M05-trennbar-imperativ/) | Kap. 7-8 | Separable verbs, sentence frame, imperative (du/ihr/Sie) |
+| 06 | [Fragen & Wortstellung](M06-fragen-wortstellung/) | Kap. 9-12 | W-questions, yes/no questions, verb position, basic word order |
 
 ### Phase 3: Nouns & Cases (Weeks 5-6) — Book Units 13-20
 

@@ -287,5 +287,5 @@ Group by type: **e→i** (sprechen, essen, nehmen), **e→ie** (lesen, sehen), *
 ## Next Steps
 
 → [Exercises](exercises.md) · [Answers](answers.md) · [Vocabulary](vocabulary.md) · [Flashcards](flashcards.md) · [Exam Tips](exam-tips.md)
-→ Next Module: M04 — Trennbare Verben *(coming soon)*
+→ Next Module: [M04 — Modalverben](../M04-modalverben/lesson.md)
 → Previous Module: [M02 — Konjugation Präsens](../M02-pronomen-sein/lesson.md)
