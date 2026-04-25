@@ -245,5 +245,5 @@ Pronouns replace nouns to avoid repetition:
 ## Next Steps
 
 → [Exercises](exercises.md) · [Answers](answers.md) · [Vocabulary](vocabulary.md) · [Flashcards](flashcards.md) · [Exam Tips](exam-tips.md)
-→ Next Module: M11 — Präpositionen *(coming soon)*
+→ Next Module: [M11 — Verben mit Akkusativ und Dativ](../M11-verben-akkusativ-dativ/lesson.md)
 → Previous Module: [M09 — Akkusativ & Dativ](../M09-akkusativ-dativ/lesson.md)

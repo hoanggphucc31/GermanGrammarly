@@ -16,7 +16,7 @@ This roadmap has 5 jobs:
 2. Explain how to use each file type inside a module.
 3. Give a practical weekly and daily study flow.
 4. Link directly to the current available lessons and support resources.
-5. Provide a stable structure that can grow when `M07-M12` are added.
+5. Serve as a stable reference now that all 12 modules (M01-M12) are complete.
 
 ---
 
@@ -48,7 +48,7 @@ Current planned sequence from the curriculum:
 | Phase 1 | Weeks 1-2 | Foundation grammar from book chapters 1-4 | M01-M03 |
 | Phase 2 | Weeks 3-4 | Modal verbs, separable verbs, sentence structure | M04-M06 |
 | Phase 3 | Weeks 5-6 | Nouns, negation, cases, possessives | M07-M10 |
-| Phase 4 | Weeks 7-8 | Prepositions, time, Perfekt intro, exam integration | M11-M12 |
+| Phase 4 | Weeks 7-8 | Verb+case patterns (Kap. 21-22), time, dates, Goethe exam prep | M11-M12 |
 
 For the current module mapping, see:
 - [README.md](README.md)
@@ -97,14 +97,15 @@ Based on [CURRICULUM-MAP.md](CURRICULUM-MAP.md):
 | M08 | Complete |
 | M09 | Complete |
 | M10 | Complete |
-| M11-M12 | Planned |
+| M11 | Complete |
+| M12 | Complete |
 
 This means the current best practical learning route is:
 
 1. Finish `M01` → `M02` → `M03` (Phase 1: Foundation)
 2. Finish `M04` → `M05` → `M06` (Phase 2: Modal & Structure)
 3. Finish `M07` → `M08` → `M09` → `M10` (Phase 3: Nouns & Cases)
-4. Use the appendix for exam support while waiting for Phase 4
+4. Finish `M11` → `M12` (Phase 4: Verb Patterns & Final Exam Prep)
 
 ---
 
@@ -396,18 +397,63 @@ Phase 3 is now available and covers the noun/article system, negation, cases, po
 
 ---
 
-## Planned Expansion Roadmap
+## Phase 4 Roadmap
 
-These modules are planned and will extend this roadmap later.
+Phase 4 completes the A1 curriculum with verb patterns (Kapitel 21-22) and a supplementary capstone module for time, dates, and final exam preparation.
 
-### Phase 4: Prepositions & Exam Integration
+### M11: Verben mit Akkusativ und Dativ
 
-| Module | Planned Book Coverage | Expected Focus |
-|---|---|---|
-| M11 | Kapitel 21-22 | Prepositions |
-| M12 | Supplementary | Time, dates, Perfekt intro, exam work |
+**Book alignment:** Kapitel 21-22
 
-This roadmap is intentionally written to support these future additions without changing the structure.
+**What you learn:**
+- verbs that require both Dativ and Akkusativ objects (geben, zeigen, schenken)
+- verbs that strictly require Dativ (helfen, danken, gehören)
+- word order rule: Person (Dativ) before Thing (Akkusativ)
+- object pronoun replacement
+
+**Files:**
+- [M11 lesson](M11-verben-akkusativ-dativ/lesson.md)
+- [M11 vocabulary](M11-verben-akkusativ-dativ/vocabulary.md)
+- [M11 flashcards](M11-verben-akkusativ-dativ/flashcards.md)
+- [M11 exercises](M11-verben-akkusativ-dativ/exercises.md)
+- [M11 answers](M11-verben-akkusativ-dativ/answers.md)
+- [M11 exam tips](M11-verben-akkusativ-dativ/exam-tips.md)
+
+**Study goal:**
+- You can use verbs with two objects correctly.
+- You can recognize and use Dativ-only verbs.
+
+**Minimum output before moving on:**
+- You know: helfen, danken, gehören = Dativ.
+- You can say: *Ich gebe dem Mann das Buch.*
+
+### M12: Uhrzeit, Datum & Final Review
+
+**Book alignment:** Supplementary capstone module
+
+**What you learn:**
+- telling time (official and informal)
+- days, months, and dates
+- making appointments
+- recognition of the past tense (Perfekt)
+- Goethe A1 exam structure
+- full A1 grammar consolidation
+
+**Files:**
+- [M12 lesson](M12-uhrzeit-datum-exam/lesson.md)
+- [M12 vocabulary](M12-uhrzeit-datum-exam/vocabulary.md)
+- [M12 flashcards](M12-uhrzeit-datum-exam/flashcards.md)
+- [M12 exercises](M12-uhrzeit-datum-exam/exercises.md)
+- [M12 answers](M12-uhrzeit-datum-exam/answers.md)
+- [M12 exam tips](M12-uhrzeit-datum-exam/exam-tips.md)
+
+**Study goal:**
+- You can tell the time and make simple appointments.
+- You are ready for the Goethe A1 exam.
+
+**Minimum output before moving on:**
+- You can say: *Es ist halb neun.*
+- You can pass a mock A1 reading/writing section.
 
 ---
 
@@ -436,12 +482,12 @@ This is the default recommended route for a self-study learner.
 | Week 5 | M07 + M08 | Finish M07 (nouns/articles/plural) + M08 (negation) |
 | Week 6 | M09 + M10 | Finish M09 (Akk/Dat) + M10 (possessives/pronouns) |
 
-### Weeks 7-8: Full Consolidation & Exam Prep
+### Weeks 7-8: Verb Patterns, Time & Final Exam Prep
 
 | Week | Focus | Action |
 |---|---|---|
-| Week 7 | Full review | Review M01-M10 as one block, redo weak exercises, use appendix |
-| Week 8 | Exam practice | Write mini paragraphs, practice speaking, recycle all flashcards |
+| Week 7 | M11 + M12 | Finish M11 (verbs with Dat+Akk, Dat-only verbs) + M12 (time, dates, Perfekt recognition) |
+| Week 8 | Full review + Exam | Review M01-M12 as one block, redo weak exercises, use appendix, practice mini Goethe tasks |
 
 ---
 
@@ -513,6 +559,43 @@ To avoid forgetting earlier grammar, use this review pattern:
 - transform statements into W-questions and yes/no questions
 - practice wo/woher/wohin triple
 
+### After finishing M07
+
+- review M01-M07 as one block
+- quiz yourself: der/die/das for common nouns by ending rules
+- practice compound nouns: which gender does the last word give?
+
+### After finishing M08
+
+- review negation decisions: kein vs nicht
+- practice position of nicht in various sentence types
+- test yourself with doch to contradict negative questions
+
+### After finishing M09
+
+- review full article table: Nom / Akk / Dat
+- practice: only masculine changes in Akk (der→den)
+- practice Dativ forms: m/n=dem, f=der, pl=den+n
+
+### After finishing M10
+
+- review M01-M10 as one block
+- quiz: possessive endings = kein-pattern, welcher/dieser = der-pattern
+- practice pronoun replacement: ihm vs ihn
+
+### After finishing M11
+
+- review verbs with Dat+Akk: geben, zeigen, schenken, bringen, kaufen
+- practice word order: Person (Dat) BEFORE Thing (Akk)
+- quiz Dativ-only verbs: helfen, danken, gehören, gefallen, antworten
+
+### After finishing M12
+
+- review M01-M12 as one final block
+- practice telling time: halb neun = 8:30 (not 9:30!)
+- quiz time prepositions: um/am/im
+- do a mock Goethe writing task (email with appointment)
+
 ### Weekly review rule
 
 At least once per week:
@@ -575,6 +658,57 @@ You should be able to:
 - apply V2 rule in statements
 - use wo/woher/wohin correctly
 - use doch to contradict negative questions
+
+### Target after M07
+
+You should be able to:
+
+- assign der/die/das using core ending rules (-ung=die, -chen=das)
+- form plurals of common A1 nouns
+- determine compound noun gender from the last word
+
+### Target after M08
+
+You should be able to:
+
+- negate any A1 sentence correctly with kein or nicht
+- place nicht in the correct position
+- use doch to contradict a negative question
+
+### Target after M09
+
+You should be able to:
+
+- use the correct article form in Nominativ, Akkusativ, and Dativ
+- identify which verbs require Akkusativ vs Dativ
+- know that only masculine changes in Akkusativ (der→den)
+
+### Target after M10
+
+You should be able to:
+
+- use possessive articles with correct endings in all cases
+- ask and answer with welcher/dieser
+- replace nouns with Akkusativ and Dativ pronouns (ihn/ihm, sie/ihr)
+
+### Target after M11
+
+You should be able to:
+
+- use verbs with two objects (Dat+Akk): geben, zeigen, schenken, bringen, kaufen
+- apply the word order rule: Person (Dativ) before Thing (Akkusativ)
+- use Dativ-only verbs correctly: helfen, danken, gehören, gefallen, antworten
+- replace noun objects with Dativ pronouns
+
+### Target after M12
+
+You should be able to:
+
+- tell the time in both formal and informal German
+- use time prepositions correctly: um (time), am (days), im (months/seasons)
+- state dates and make appointments
+- recognize basic Perfekt sentences in reading/listening
+- pass a mock Goethe A1 reading/writing section
 
 ---
 
@@ -685,7 +819,9 @@ If you want the shortest possible path right now, do this:
 8. Then [M08 lesson](M08-negation/lesson.md)
 9. Then [M09 lesson](M09-akkusativ-dativ/lesson.md)
 10. Then [M10 lesson](M10-possessiv-pronomen/lesson.md)
-11. Use [APPENDIX-goethe-survival.md](APPENDIX-goethe-survival.md) for speaking and exam support
+11. Then [M11 lesson](M11-verben-akkusativ-dativ/lesson.md)
+12. Then [M12 lesson](M12-uhrzeit-datum-exam/lesson.md)
+13. Use [APPENDIX-goethe-survival.md](APPENDIX-goethe-survival.md) for speaking and exam support
 
 ---
 

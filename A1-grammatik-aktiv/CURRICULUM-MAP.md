@@ -29,8 +29,11 @@
 | Possessive articles | **M10** | Kap. 18 | Lesen, Schreiben |
 | Interrogative / demonstrative article (welcher/dieser) | **M10** | Kap. 19 | Sprechen, Lesen |
 | Personal pronouns in Akk/Dat | **M10** | Kap. 20 | Lesen |
-| Prepositions (Akk/Dat/Wechsel) | M11 | Kap. 21-22 | Lesen |
-| Time, dates, Perfekt intro | M12 | Supplementary | Hören, Schreiben |
+| Verbs with Akkusativ and Dativ | **M11** | Kap. 21 | Lesen, Schreiben |
+| Verbs with Dativ | **M11** | Kap. 22 | Lesen, Sprechen |
+| Time, dates, appointments | **M12** | Supplementary | Sprechen, Hören |
+| Final A1 mixed review | **M12** | Supplementary | All sections |
+| Perfekt intro (recognition) | **M12** | Supplementary | Lesen, Hören |
 
 ---
 
@@ -58,6 +61,11 @@
 | Express possession with possessive articles | M10 |
 | Ask and answer with welcher/dieser | M10 |
 | Replace nouns with Akk/Dat pronouns | M10 |
+| Use verbs with Dativ + Akkusativ objects | M11 |
+| Use Dativ-only verbs | M11 |
+| Tell the time and make appointments | M12 |
+| Talk about dates, days, months | M12 |
+| Recognize basic Perfekt sentences | M12 |
 
 ---
 
@@ -75,4 +83,5 @@
 | **M08** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
 | **M09** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
 | **M10** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
-| M11-M12 | — | — | — | — | — | — | Planned |
+| **M11** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M12** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |

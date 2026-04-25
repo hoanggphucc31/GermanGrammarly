@@ -34,12 +34,12 @@
 | 09 | [Akkusativ & Dativ](M09-akkusativ-dativ/) | Kap. 16-17 | Case system, article changes, verbs + case |
 | 10 | [Possessivartikel, welcher/dieser & Pronomen](M10-possessiv-pronomen/) | Kap. 18-20 | Possessives, interrogative/demonstrative articles, object pronouns |
 
-### Phase 4: Prepositions & Exam (Weeks 7-8) — Book Units 21-22+
+### Phase 4: Verb Patterns & Exam Prep (Weeks 7-8) — Book Units 21-22+
 
 | # | Module | Book | Key Grammar |
 |---|---|---|---|
-| 11 | Präpositionen | Kap. 21-22 | Akk/Dat/Wechselpräpositionen |
-| 12 | Uhrzeit, Perfekt & Exam | Supplementary | Time, dates, Perfekt intro, mock exam |
+| 11 | [Verben mit Akkusativ und Dativ](M11-verben-akkusativ-dativ/) | Kap. 21-22 | Dat+Akk verbs, Dativ verbs, object patterns |
+| 12 | [Uhrzeit, Datum & Final Review](M12-uhrzeit-datum-exam/) | Supplementary | Time, dates, final A1 review, Goethe exam prep |
 
 ---
 
