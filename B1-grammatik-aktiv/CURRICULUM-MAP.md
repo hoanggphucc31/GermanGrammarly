@@ -4,33 +4,48 @@
 
 ---
 
-## ⚠️ Important: Book Alignment Note
+## 📚 Supplementary B1 Grammar Modules
 
-The *Grammatik Aktiv A1-B1* textbook chapters 43-50 cover:
+These modules cover **supplementary B1 grammar topics** that are essential for Goethe B1 but not dedicated chapters in this specific textbook edition.
 
-| Kapitel | Book Title | Actual Topic |
+| Module | Topic | Status |
 |---|---|---|
-| 43 | *Ich bin da. Kommst du auch dahin?* | Positionsadverbien & Direktionsadverbien |
-| 44 | *Was heißt das denn?* | Partikeln |
-| 45 | *Kinderarzt oder Arztkinder?* | Komposita |
-| 46 | *-chen, -lein, -er, -in, -ung* | Wortbildung |
-| 47 | *Ich bin dann mal weg* | Zusammengesetzte Verben |
-| 48 | *Der, die oder das?* | Genusregeln |
-| 49 | *Er kam, sah und sagte* | Präteritum (erweitert) |
-| 50 | *Ich hatte zu lange geschlafen* | Plusquamperfekt |
-
-The modules below cover **supplementary B1 grammar topics** that are essential for Goethe B1 but not dedicated chapters in this specific textbook edition.
+| **M01** | Relativsätze (Nom/Akk/Dat + Präpositionen) | ✅ |
+| **M02** | Infinitiv mit zu & ohne zu (incl. um...zu) | ✅ |
+| **M03** | Temporale Nebensätze (als vs wenn) | ✅ |
+| **M04** | Modalpartikeln & Zeitadverbien | ✅ |
 
 ---
 
-## Supplementary B1 Grammar Modules
+## 📘 Phase 1: Advanced Verb Structures
 
-| Module | Topic | Book Connection | Status |
-|---|---|---|---|
-| **M01** | Relativsätze (Nom/Akk/Dat + Präpositionen) | Not in Grammatik Aktiv A1-B1 | ✅ |
-| **M02** | Infinitiv mit zu & ohne zu (incl. um...zu) | Not in Grammatik Aktiv A1-B1 | ✅ |
-| **M03** | Temporale Nebensätze (als vs wenn) | Builds on Kap. 42 (wenn) | ✅ |
-| **M04** | Modalpartikeln & Zeitadverbien | Partially covered in Kap. 44 (Partikeln) | ✅ |
+These modules follow the B1 spine of *Grammatik Aktiv A1-B1* with supplementary expert additions.
+
+| Module | Kapitel | Book Title | Grammar Focus | Status |
+|---|---|---|---|---|
+| **M05** | 49-50 | *Er kam, sah und sagte nichts / Ich hatte zu lange geschlafen* | Präteritum (all verbs) & Plusquamperfekt | ✅ |
+| **M06** | 51-52 | *Ich wasche mir die Hände / Kaufe ich ein oder bestelle ich Pizza?* | Reflexivpronomen im Dativ & Trennbare/Untrennbare Verben | ✅ |
+| **M07** | 53-54 | *Sie freut sich über die Blumen / Daneben, danach, dafür ...* | Verben mit Präpositionen & Präpositionaladverbien/-pronomen | ✅ |
+
+---
+
+## 📘 Phase 2 & 3: Konjunktiv II, Passiv, Futur I & werden
+
+| Module | Kapitel | Book Title | Grammar Focus | Status |
+|---|---|---|---|---|
+| **M08** | 55-56 | *Wäre, hätte, würde ... / Wenn ich viel Geld hätte, ...* | Konjunktiv II (Gegenwart & Vergangenheit) | ✅ |
+| **M09** | 57-58 | *Das Auto wird gebaut / Wann wurde der Kölner Dom gebaut?* | Passiv (Vorgangspassiv Präsens, Prät, Perfekt, mit Modalverb) | ✅ |
+| **M10** | 59-60 | *Der Präsident wird kommen / Werden, werden, werden ...* | Futur I & Die 3 Funktionen von "werden" | ✅ |
+
+## 📘 Phase 4: Final B1 Topics
+
+| Module | Kapitel | Book Title | Grammar Focus | Status |
+|---|---|---|---|---|
+| **M11** | 61 | *Leben und leben lassen* | Das Verb "lassen" (3 functions) | ✅ |
+| **M12** | 62-63 | *Sitzen/Setzen, stehen/stellen, liegen/legen und hängen / Das Auto seines Vaters* | Positionsverben & Der Genitiv | ✅ |
+| **M13** | 64-65 | *Kennen Sie den Herrn? / Der Jugendliche - ein Jugendlicher* | N-Deklination & Adjektive als Nomen | ✅ |
+
+🎉 **B1 Curriculum is now 100% Complete! (Kapitel 49-65)** 🎉
 
 ---
 
@@ -42,16 +57,12 @@ The modules below cover **supplementary B1 grammar topics** that are essential f
 | M02 | Express purpose (um...zu), use infinitive constructions naturally |
 | M03 | Tell stories about the past (als), describe routines/conditions (wenn) |
 | M04 | Sound natural in conversation (denn, mal, doch), express time nuances (schon, noch, erst) |
-
----
-
-## Gap: Textbook Chapters 40-50 Not Yet Covered
-
-The following *Grammatik Aktiv* chapters are part of the A2-B1 textbook spine but have not yet been implemented as dedicated modules:
-
-| Kapitel | Topic | Roadmap Module | Status |
-|---|---|---|---|
-| 40-42 | Konjunktionen, weil/dass/wenn/ob | A2 Phase 4 | 📋 Planned |
-| 43-44 | Positionsadverbien, Partikeln | A2 Expansion | 📋 Planned |
-| 45-48 | Komposita, Wortbildung, Genusregeln | A2 Expansion | 📋 Planned |
-| 49-50 | Präteritum erweitert, Plusquamperfekt | B1 Book-aligned | 📋 Planned |
+| M05 | Narrate past events chronologically using Präteritum and Plusquamperfekt |
+| M06 | Use Dativ reflexive verbs correctly, distinguish abstract/literal meaning of verbs |
+| M07 | Use fixed prepositions naturally, refer to things with darauf/worauf |
+| M08 | Express politeness, wishes, advice, and unreal/hypothetical past situations |
+| M09 | Describe processes, rules, and events objectively using the passive voice |
+| M10 | Make predictions and assumptions, distinguish between becoming/will/being |
+| M11 | Express using a service, allowing an action, or telling someone to stop |
+| M12 | Describe fixed locations and movements accurately, express possession formally |
+| M13 | Decline advanced person-nouns correctly and use adjectives as nouns (the German, something new) |

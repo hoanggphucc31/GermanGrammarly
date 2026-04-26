@@ -108,6 +108,15 @@ This is the more structured, book-aligned path.
 
 It follows the logic of *Grammatik aktiv A1-B1* and reorganizes the A1 content into 12 modules.
 
+| Phase | Focus | Status |
+|---|---|---|
+| Phase 1 | Advanced Verb Structures (Kap. 49-54) | ✅ |
+| Phase 2 | Konjunktiv II & Passiv (Kap. 55-58) | ✅ |
+| Phase 3 | Futur I & werden (Kap. 59-60) | ✅ |
+| Phase 4 | lassen, Genitiv, N-Deklination (Kap. 61-65) | ✅ |
+
+*(See [B1-grammatik-aktiv/README.md](B1-grammatik-aktiv/README.md) for module details).*
+
 | Module | Focus |
 |---|---|
 | M01 | Personal pronouns |
