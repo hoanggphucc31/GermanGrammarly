@@ -1,86 +1,60 @@
 # GermanGrammarly
 
-> A structured self-study repository for German grammar, with a strong focus on CEFR A1 foundations, Goethe A1 exam preparation, and a book-aligned curriculum built from *Grammatik aktiv A1-B1*.
+> A complete, structured self-study repository for German grammar — from absolute beginner (A1) through intermediate (B1) — built on the spine of *Grammatik aktiv A1-B1* (Cornelsen).
 
 ## Overview
 
-This repository is a content-first German learning project.
+This repository is a **content-first German learning project**, not a software project. It contains a fully structured, bilingual (English + Vietnamese) grammar curriculum covering **all 65 chapters** of the *Grammatik aktiv A1-B1* textbook, organized into three progressive levels.
 
-It is designed for learners who want to:
+| Level | Chapters | Modules | Status |
+|---|---|---|---|
+| **A1** (Beginner) | Kap. 1-22 | 12 modules | ✅ 100% Complete |
+| **A2** (Elementary) | Kap. 23-48 | 15 modules | ✅ 100% Complete |
+| **B1** (Intermediate) | Kap. 49-65 + Supplementary | 13 modules | ✅ 100% Complete |
 
-- study German grammar in a clear sequence instead of random notes
-- follow a practical A1 path from zero to exam-ready basics
-- combine grammar, vocabulary, exercises, answer keys, and revision material in one place
-- use a curriculum that is partially aligned to *Grammatik aktiv A1-B1*
-- review both compact lesson-based materials and expanded course-style materials
-
-Unlike a typical software repository, this project is primarily a structured learning library made of Markdown study resources.
+**Total: 40 modules · 240+ files · Kapitel 1-65 fully covered** 🏆
 
 ## Who This Repository Is For
 
 This repo is useful if you are:
 
 - a complete beginner starting German from scratch
-- an A1 learner preparing for Goethe / OSD / telc style exam tasks
+- an A1/A2/B1 learner preparing for **Goethe / ÖSD / telc** style exams
 - a self-learner who wants a study path, not isolated grammar notes
 - a tutor building lessons from an existing grammar spine
-- a learner who wants English explanations with some Vietnamese support in selected materials
-
-## What Is Inside
-
-The repository currently contains two major A1-oriented learning tracks plus supporting roadmap documents:
-
-| Area | Purpose |
-|---|---|
-| `german-a1-curriculum/` | A compact 6-lesson A1 curriculum with exercises, answers, vocabulary, study plan, and exam prep |
-| `A1-grammatik-aktiv/` | A more detailed module-based curriculum aligned to the *Grammatik aktiv A1-B1* book spine |
-| `ROADMAP_Grammatik_Aktiv_A1_B1_EN.md` | English roadmap summarizing the full A1-B1 grammar progression of the source book |
-| `ROADMAP_Grammatik_Aktiv_A1_B1.md` | Vietnamese version of the roadmap |
-| `746948531-Grammatik-Aktiv-A1-B1.pdf` | Source reference used to shape the grammar roadmap |
+- a learner who wants English explanations with Vietnamese support
 
 ## Repository Structure
 
 ```text
 GermanGrammarly/
-|- README.md
-|- german-a1-curriculum/
-|  |- 01-nouns-articles/
-|  |- 02-pronouns-sein-haben/
-|  |- 03-present-tense-separable-verbs/
-|  |- 04-word-order-questions-negation/
-|  |- 05-cases-prepositions/
-|  |- 06-modal-verbs-time-connectors/
-|  |- a1-exam-prep/
-|  |- a1-expanded-course/
-|  |- vocabulary.md
-|  |- memorization-tips.md
-|  |- study-plan-21-days.md
-|  |- practice-test.md
-|- A1-grammatik-aktiv/
-|  |- M01-erste-schritte/
-|  |- M02-pronomen-sein/
-|  |- M03-haben-possessiv/
-|  |- M04-modalverben/
-|  |- M05-trennbar-imperativ/
-|  |- M06-fragen-wortstellung/
-|  |- M07-nomen-artikel-plural/
-|  |- M08-negation/
-|  |- M09-akkusativ-dativ/
-|  |- M10-possessiv-pronomen/
-|  |- M11-verben-akkusativ-dativ/
-|  |- M12-uhrzeit-datum-exam/
-|  |- CURRICULUM-MAP.md
-|  |- STUDY-ROADMAP.md
-|  |- APPENDIX-goethe-survival.md
-|- ROADMAP_Grammatik_Aktiv_A1_B1_EN.md
-|- ROADMAP_Grammatik_Aktiv_A1_B1.md
+├── README.md                              ← You are here
+├── german-a1-curriculum/                  ← Quick-start A1 (6 lessons)
+│   ├── 01-nouns-articles/ ... 06-modal-verbs/
+│   ├── a1-exam-prep/
+│   ├── a1-expanded-course/
+│   └── study-plan-21-days.md
+├── A1-grammatik-aktiv/                    ← Book-aligned A1 (Kap. 1-22)
+│   ├── M01-erste-schritte/ ... M12-uhrzeit-datum-exam/
+│   ├── CURRICULUM-MAP.md
+│   └── STUDY-ROADMAP.md
+├── A2-grammatik-aktiv/                    ← Book-aligned A2 (Kap. 23-48)
+│   ├── M01-praeteritum-sein-haben/ ... M15-verben-genus/
+│   ├── CURRICULUM-MAP.md
+│   └── STUDY-ROADMAP.md
+├── B1-grammatik-aktiv/                    ← Book-aligned B1 (Kap. 49-65)
+│   ├── M01-relativsaetze/ ... M13-n-deklination-adjektive-nomen/
+│   ├── CURRICULUM-MAP.md
+│   └── STUDY-ROADMAP.md
+├── ROADMAP_Grammatik_Aktiv_A1_B1_EN.md    ← Full book roadmap (English)
+└── ROADMAP_Grammatik_Aktiv_A1_B1.md       ← Full book roadmap (Vietnamese)
 ```
 
-## Track 1: `german-a1-curriculum`
+---
 
-This is the simpler and more direct self-study path.
+## 🟢 Track 1: Quick-Start A1 — `german-a1-curriculum/`
 
-It is built around 6 main lessons:
+A compact, self-contained 6-lesson A1 curriculum. Best if you want the fastest possible start.
 
 | Lesson | Topic |
 |---|---|
@@ -91,100 +65,66 @@ It is built around 6 main lessons:
 | 5 | Cases and prepositions |
 | 6 | Modal verbs, imperative, time expressions, and connectors |
 
-Main supporting resources in this track:
+Supporting resources: `vocabulary.md` · `memorization-tips.md` · `study-plan-21-days.md` · `practice-test.md` · `a1-exam-prep/` · `a1-expanded-course/`
 
-- `vocabulary.md`: themed vocabulary list
-- `memorization-tips.md`: learning and retention strategies
-- `study-plan-21-days.md`: a guided three-week plan
-- `practice-test.md`: a larger review test
-- `a1-exam-prep/`: exam-style preparation for reading, listening, writing, and speaking
-- `a1-expanded-course/`: an expanded and more detailed A1 course with larger grouped lesson files, answers, revision packs, summary tables, and workbook material
+---
 
-This track is the best starting point if you want a lighter, more straightforward structure.
+## 🔵 Track 2: Book-Aligned Curriculum — The Main Path
 
-## Track 2: `A1-grammatik-aktiv`
+This is the primary curriculum, following the exact chapter progression of *Grammatik aktiv A1-B1*. Each level has its own directory with a README, Curriculum Map, and Study Roadmap.
 
-This is the more structured, book-aligned path.
-
-It follows the logic of *Grammatik aktiv A1-B1* and reorganizes the A1 content into 12 modules.
-
-| Phase | Focus | Status |
-|---|---|---|
-| Phase 1 | Advanced Verb Structures (Kap. 49-54) | ✅ |
-| Phase 2 | Konjunktiv II & Passiv (Kap. 55-58) | ✅ |
-| Phase 3 | Futur I & werden (Kap. 59-60) | ✅ |
-| Phase 4 | lassen, Genitiv, N-Deklination (Kap. 61-65) | ✅ |
-
-*(See [B1-grammatik-aktiv/README.md](B1-grammatik-aktiv/README.md) for module details).*
+### A1: Foundation (Kapitel 1-22) — [Open A1](A1-grammatik-aktiv/README.md)
 
 | Module | Focus |
 |---|---|
-| M01 | Personal pronouns |
+| M01 | Personal pronouns & Erste Schritte |
 | M02 | Present tense conjugation |
-| M03 | `sein`, `haben`, special verbs, vowel change |
+| M03 | sein, haben, special verbs, vowel change |
 | M04 | Modal verbs |
 | M05 | Separable verbs and imperative |
 | M06 | Questions and word order |
 | M07 | Nouns, articles, plural |
 | M08 | Negation |
 | M09 | Accusative and dative |
-| M10 | Possessives, `welcher/dieser`, object pronouns |
-| M11 | Verbs with accusative and dative / dative-only verbs |
-| M12 | Time, dates, final review, and exam-facing consolidation |
+| M10 | Possessives, welcher/dieser, object pronouns |
+| M11 | Verbs with accusative and dative |
+| M12 | Time, dates, and exam-facing consolidation |
 
-Most modules include the same standard learning components:
+### A2: Expansion (Kapitel 23-48) — [Open A2](A2-grammatik-aktiv/README.md)
 
-- `lesson.md`
-- `vocabulary.md`
-- `exercises.md`
-- `answers.md`
-- `flashcards.md`
-- `exam-tips.md`
+| Phase | Modules | Focus |
+|---|---|---|
+| Phase 1 | M01-M04 | Past Tense System & Reflexive Verbs |
+| Phase 2 | M05-M08 | Präpositionen (temporal, Dativ/Akk, Wechsel, lokal) |
+| Phase 3 | M09-M10 | Adjektivdeklination & Komparativ/Superlativ |
+| Phase 4 | M11-M12 | Satzverbindungen & Nebensätze |
+| Phase 5 | M13-M15 | Lokale Adverbien, Wortbildung, Genus-Regeln |
 
-Note: `M12-uhrzeit-datum-exam/` is currently lighter than the earlier modules and currently contains `lesson.md`, `exercises.md`, and `answers.md`.
+### B1: Mastery (Kapitel 49-65 + Supplementary) — [Open B1](B1-grammatik-aktiv/README.md)
 
-Important supporting files in this track:
+| Phase | Modules | Focus |
+|---|---|---|
+| Supplementary | M01-M04 | Relativsätze, Infinitiv mit zu, als/wenn, Modalpartikeln |
+| Phase 1 | M05-M07 | Präteritum erweitert, Plusquamperfekt, Reflexivpronomen (Dat), Trennbar/Untrennbar, Verben mit Präpositionen |
+| Phase 2 & 3 | M08-M10 | Konjunktiv II, Passiv (Vorgangspassiv), Futur I & werden |
+| Phase 4 | M11-M13 | Das Verb "lassen", Positionsverben & Genitiv, N-Deklination & Adjektive als Nomen |
 
-- `CURRICULUM-MAP.md`: CEFR A1 alignment and grammar coverage map
-- `STUDY-ROADMAP.md`: practical guide for how to study through the modules
-- `APPENDIX-goethe-survival.md`: supplementary survival German for exam-oriented communication
+---
 
-This track is the best choice if you want a fuller curriculum spine that mirrors a grammar book progression more closely.
+## Module Architecture
 
-## Recommended Learning Paths
+Every module across all levels follows a consistent 6-file structure:
 
-### Option 1: Fastest Start
+| File | Purpose |
+|---|---|
+| `lesson.md` | Core grammar explanation with examples |
+| `exercises.md` | Graded practice exercises |
+| `answers.md` | Answer key with detailed explanations |
+| `vocabulary.md` | Key words grouped by theme |
+| `flashcards.md` | Front/back cards for memorization |
+| `exam-tips.md` | Goethe exam strategies per module |
 
-If you want to begin immediately with the least friction:
-
-1. Open `german-a1-curriculum/README.md`
-2. Start with `01-nouns-articles/lesson.md`
-3. Follow the 6 lesson sequence
-4. Use `study-plan-21-days.md` as your calendar
-5. Finish with `a1-exam-prep/`
-
-### Option 2: Structured Book-Aligned Study
-
-If you want a more systematic path:
-
-1. Open `A1-grammatik-aktiv/README.md`
-2. Read `A1-grammatik-aktiv/STUDY-ROADMAP.md`
-3. Study `M01` through `M12` in order
-4. Use `CURRICULUM-MAP.md` to track coverage
-5. Use `APPENDIX-goethe-survival.md` for communicative reinforcement
-
-### Option 3: Exam-Oriented Review
-
-If your main goal is Goethe A1 style preparation:
-
-1. Review the 6 main lessons in `german-a1-curriculum/`
-2. Complete `practice-test.md`
-3. Work through `german-a1-curriculum/a1-exam-prep/`
-4. Use `A1-grammatik-aktiv/M12-uhrzeit-datum-exam/` for final consolidation of time, dates, and exam-facing review
-
-## How To Study Each Module Effectively
-
-For folders that contain a full module set, use this order:
+### How To Study Each Module
 
 1. Read `lesson.md`
 2. Review `vocabulary.md`
@@ -192,94 +132,64 @@ For folders that contain a full module set, use this order:
 4. Complete `exercises.md` without checking answers
 5. Check `answers.md`
 6. Read `exam-tips.md`
-7. Revisit your weak points and repeat after 1, 3, and 7 days
+7. Revisit weak points after 1, 3, and 7 days
 
-This study loop appears consistently across the project and is one of the main strengths of the repository.
+---
 
-## Highlights
+## Recommended Learning Paths
 
-- clear A1 progression instead of scattered notes
-- two different curriculum formats for different study preferences
-- book-aligned grammar path based on *Grammatik aktiv A1-B1*
-- exercise and answer-key driven self-study design
-- exam preparation material for all 4 A1 skills
-- roadmap documents for both curriculum design and self-study planning
-- expanded A1 course files for deeper review and workbook-style practice
+### Path 1: Zero to A1 — Fastest Start
+1. `german-a1-curriculum/README.md`
+2. Lessons 01-06 in order
+3. `study-plan-21-days.md` as calendar
+4. `a1-exam-prep/` for exam readiness
 
-## Current Status
+### Path 2: Full Book-Aligned Journey (A1 → A2 → B1)
+1. `A1-grammatik-aktiv/STUDY-ROADMAP.md` → Study M01-M12
+2. `A2-grammatik-aktiv/STUDY-ROADMAP.md` → Study M01-M15
+3. `B1-grammatik-aktiv/STUDY-ROADMAP.md` → Study M01-M13
+4. Use `CURRICULUM-MAP.md` in each level to track coverage
 
-At the time of writing, the repository contains:
+### Path 3: Exam-Oriented (Skip to your level)
+1. Go directly to your target level folder
+2. Read the `STUDY-ROADMAP.md` of that level
+3. Focus on modules with exam-tips that match your target exam
 
-- a complete compact 6-lesson A1 curriculum in `german-a1-curriculum/`
-- a 12-module `A1-grammatik-aktiv/` track covering the full current A1 sequence in this repo
-- exam preparation materials inside `german-a1-curriculum/a1-exam-prep/`
-- an expanded A1 course and workbook inside `german-a1-curriculum/a1-expanded-course/`
-- roadmap files extending the perspective from A1 toward A2 and B1
+---
 
-Because this is an actively evolving learning repository, some folders are more detailed than others. Earlier modules are generally more uniform, while later or supplementary sections may still be lighter in depth or file completeness.
+## Pedagogical Design Principles
 
-## Language Style Used in the Materials
+- **Book Core vs. Expert Additions:** Each lesson clearly labels what comes from the textbook (📘 Book Core) and what is supplemented by experienced German instructors (📚 Expert Addition).
+- **Bilingual Format:** English is the primary instructional language; Vietnamese translations (🇻🇳) are provided for key grammar terms, example translations, and cultural context.
+- **Exam Alignment:** Every module includes specific strategies for Goethe/ÖSD/telc exams at the corresponding CEFR level.
 
-The repository uses a mix of:
+---
 
-- English explanations for core grammar teaching
-- German examples, forms, and target-language content
-- Vietnamese notes in selected files, especially inside the `A1-grammatik-aktiv/` track
+## Language Style
+
+- **English** explanations for core grammar teaching
+- **German** examples, forms, and target-language content
+- **Vietnamese** notes for key concepts and translations
 
 This makes the project especially suitable for Vietnamese-speaking learners who want English-medium structure with targeted native-language support.
 
-## How To Use This Repository On GitHub
+---
 
-If you are browsing this project on GitHub:
+## Current Status
 
-1. Start from this root `README.md`
-2. Choose one main study track instead of jumping between everything at once
-3. Open the folder README of that track
-4. Follow the lesson order exactly
-5. Use the linked supporting files only after the main lesson
+🏆 **The entire *Grammatik aktiv A1-B1* textbook (Kapitel 1-65) has been fully converted into this digital curriculum format.**
 
-Recommended GitHub reading flow:
+- ✅ A1: Kapitel 1-22 (12 modules)
+- ✅ A2: Kapitel 23-48 (15 modules)
+- ✅ B1: Kapitel 49-65 + Supplementary (13 modules)
 
-1. Root `README.md`
-2. `german-a1-curriculum/README.md` or `A1-grammatik-aktiv/README.md`
-3. lesson folders in sequence
-4. exam prep and revision resources
-
-## If You Want The Simplest Starting Point
-
-Open these files in order:
-
-1. `german-a1-curriculum/README.md`
-2. `german-a1-curriculum/01-nouns-articles/lesson.md`
-3. `german-a1-curriculum/study-plan-21-days.md`
-
-## If You Want The Most Complete A1 Path In This Repo
-
-Open these files in order:
-
-1. `A1-grammatik-aktiv/README.md`
-2. `A1-grammatik-aktiv/STUDY-ROADMAP.md`
-3. `A1-grammatik-aktiv/CURRICULUM-MAP.md`
-4. `A1-grammatik-aktiv/M01-erste-schritte/lesson.md`
+---
 
 ## Notes About The Source Book
 
-The `A1-grammatik-aktiv` materials are shaped around the progression of *Grammatik aktiv A1-B1*.
-
-The included roadmap documents summarize and reorganize that book into a teachable/self-study structure. The PDF in this repository appears to be used as a source reference for curriculum planning.
+The curriculum materials are shaped around the progression of *Grammatik aktiv A1-B1* (Cornelsen Verlag). The included roadmap documents summarize and reorganize that book into a teachable/self-study structure.
 
 If you publish or distribute this repository publicly, make sure you have the right to include any third-party copyrighted source files.
-
-## Contributing / Expanding The Repo
-
-Useful future improvements could include:
-
-- a root-level index linking directly to every module
-- progress checklists for each major study track
-- consistent status markers for every folder
-- audio or text-to-speech companion suggestions for listening practice
-- standardized naming and completeness across all modules
-- A2 continuation using the same structure
 
 ## License
 

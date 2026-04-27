@@ -74,3 +74,19 @@
 | 💡 | Memory tip |
 | 🇻🇳 | Vietnamese note |
 | 🎯 | Goethe exam tip |
+
+---
+
+## 🧭 Navigation
+
+| Resource | Link |
+|---|---|
+| Study Roadmap | [STUDY-ROADMAP.md](STUDY-ROADMAP.md) — Weekly study plan & daily flow |
+| Curriculum Map | [CURRICULUM-MAP.md](CURRICULUM-MAP.md) — Full CEFR alignment map |
+| Goethe Survival Kit | [APPENDIX-goethe-survival.md](APPENDIX-goethe-survival.md) — Greetings, alphabet, numbers |
+| **Next Level → A2** | [A2-grammatik-aktiv](../A2-grammatik-aktiv/README.md) |
+| **Next Level → B1** | [B1-grammatik-aktiv](../B1-grammatik-aktiv/README.md) |
+
+---
+
+**🎉 A1 Curriculum Complete — Kapitel 1-22 fully covered (12 modules, 72 files).**

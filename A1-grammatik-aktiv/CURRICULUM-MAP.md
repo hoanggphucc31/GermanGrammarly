@@ -85,3 +85,9 @@
 | **M10** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
 | **M11** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
 | **M12** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+
+---
+
+**🎉 A1 Complete — 12/12 modules, all files delivered.**
+
+**Next Level →** [A2 Curriculum Map](../A2-grammatik-aktiv/CURRICULUM-MAP.md) | [A2 README](../A2-grammatik-aktiv/README.md)

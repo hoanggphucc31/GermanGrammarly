@@ -66,3 +66,29 @@ These modules follow the B1 spine of *Grammatik Aktiv A1-B1* with supplementary 
 | M11 | Express using a service, allowing an action, or telling someone to stop |
 | M12 | Describe fixed locations and movements accurately, express possession formally |
 | M13 | Decline advanced person-nouns correctly and use adjectives as nouns (the German, something new) |
+
+---
+
+## Module Status
+
+| Module | lesson | exercises | answers | vocab | flashcards | exam-tips | Status |
+|---|---|---|---|---|---|---|---|
+| **M01** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M02** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M03** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M04** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M05** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M06** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M07** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M08** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M09** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M10** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M11** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M12** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M13** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+
+---
+
+**🏆 B1 Complete — 13/13 modules, all files delivered. Kapitel 49-65 + Supplementary fully covered.**
+
+**← Previous Level:** [A2 Curriculum Map](../A2-grammatik-aktiv/CURRICULUM-MAP.md) | [A1 Curriculum Map](../A1-grammatik-aktiv/CURRICULUM-MAP.md)

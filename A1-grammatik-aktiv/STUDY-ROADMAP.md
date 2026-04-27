@@ -831,3 +831,9 @@ If you want the shortest possible path right now, do this:
 - Need overall orientation: [README.md](README.md)
 - Need grammar mapping: [CURRICULUM-MAP.md](CURRICULUM-MAP.md)
 - Need exam survival help: [APPENDIX-goethe-survival.md](APPENDIX-goethe-survival.md)
+
+---
+
+**🎉 A1 Complete — Kapitel 1-22 fully covered (12 modules).**
+
+**Next Level →** [A2 Study Roadmap](../A2-grammatik-aktiv/STUDY-ROADMAP.md) | [B1 Study Roadmap](../B1-grammatik-aktiv/STUDY-ROADMAP.md)

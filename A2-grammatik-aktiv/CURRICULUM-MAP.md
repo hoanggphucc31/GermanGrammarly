@@ -74,4 +74,28 @@
 
 ---
 
-**🎉 A2 Curriculum Complete! Kap. 23-48 fully covered.**
+## Module Status
+
+| Module | lesson | exercises | answers | vocab | flashcards | exam-tips | Status |
+|---|---|---|---|---|---|---|---|
+| **M01** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M02** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M03** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M04** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M05** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M06** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M07** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M08** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M09** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M10** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M11** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M12** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M13** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M14** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M15** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+
+---
+
+**🎉 A2 Complete — 15/15 modules, all files delivered. Kap. 23-48 fully covered.**
+
+**← Previous Level:** [A1 Curriculum Map](../A1-grammatik-aktiv/CURRICULUM-MAP.md) | **Next Level →** [B1 Curriculum Map](../B1-grammatik-aktiv/CURRICULUM-MAP.md)

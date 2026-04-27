@@ -74,3 +74,9 @@ These modules align directly with Kapitel 61-65 of the textbook.
 
 ### Phase 4
 - [M11](M11-verb-lassen/lesson.md) → [M12](M12-positionsverben-genitiv/lesson.md) → [M13](M13-n-deklination-adjektive-nomen/lesson.md)
+
+---
+
+**🏆 B1 Complete — Kapitel 49-65 + Supplementary fully covered.**
+
+**← Previous Level:** [A2 Study Roadmap](../A2-grammatik-aktiv/STUDY-ROADMAP.md) | [A1 Study Roadmap](../A1-grammatik-aktiv/STUDY-ROADMAP.md)

@@ -76,4 +76,6 @@
 
 ---
 
-**🎉 A2 Complete! Next: [B1 Curriculum](../B1-grammatik-aktiv/)**
+**🎉 A2 Complete!**
+
+**← Previous Level:** [A1 Study Roadmap](../A1-grammatik-aktiv/STUDY-ROADMAP.md) | **Next Level →** [B1 Study Roadmap](../B1-grammatik-aktiv/STUDY-ROADMAP.md)

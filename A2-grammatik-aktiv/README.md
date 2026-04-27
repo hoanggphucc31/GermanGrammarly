@@ -71,13 +71,27 @@ Each module contains 6 files:
 
 ---
 
-## Navigation
+## 🧭 Navigation
 
-- [Curriculum Map](CURRICULUM-MAP.md) — Full chapter-to-module mapping
-- [Study Roadmap](STUDY-ROADMAP.md) — Recommended study sequence and weekly targets
-- [A1 Curriculum](../A1-grammatik-aktiv/) — Previous level
-- [B1 Curriculum](../B1-grammatik-aktiv/) — Next level (supplementary)
+| Resource | Link |
+|---|---|
+| Study Roadmap | [STUDY-ROADMAP.md](STUDY-ROADMAP.md) — Weekly study plan & quick start links |
+| Curriculum Map | [CURRICULUM-MAP.md](CURRICULUM-MAP.md) — Chapter-to-module mapping & status |
+| **← Previous Level: A1** | [A1-grammatik-aktiv](../A1-grammatik-aktiv/README.md) |
+| **Next Level → B1** | [B1-grammatik-aktiv](../B1-grammatik-aktiv/README.md) |
 
 ---
 
-**🎉 A2 Curriculum Complete — Kapitel 23-48 fully covered.**
+## 📌 Conventions
+
+| Symbol | Meaning |
+|---|---|
+| 📘 Book Core | Content from the textbook chapters |
+| 📚 Expert Addition | Supplementary content from experienced instructors |
+| ⚠️ | Important exception |
+| 🇻🇳 | Vietnamese note |
+| 🎯 | Goethe exam tip |
+
+---
+
+**🎉 A2 Curriculum Complete — Kapitel 23-48 fully covered (15 modules, 90 files).**
