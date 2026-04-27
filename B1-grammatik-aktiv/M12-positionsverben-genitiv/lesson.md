@@ -2,7 +2,7 @@
 
 > **CEFR Goal:** Can use position/direction verbs (sitzen/setzen, liegen/legen) correctly with the appropriate case (Dativ/Akkusativ), and can use the Genitiv case to express possession and with specific prepositions (wegen, trotz).
 >
-> **Scope:** 📘 Book Core: Positions- und Richtungsverben (Kap. 62) + Genitiv: Possession & Eigennamen (Kap. 63). 📚 Expert Addition: Genitiv-Prepositions (wegen, trotz, während, statt), "The Complete Case Map", and von+Dativ as spoken alternative.
+> **Scope:** 📘 Book Core: *Sitzen/Setzen, stehen/stellen, liegen/legen und hängen* (Kap. 62) + *Das Auto seines Vaters* — Genitiv: Possession & Eigennamen (Kap. 63). 📚 Expert Addition: Genitiv-Prepositions (wegen, trotz, während, statt), "The Complete Case Map", and von+Dativ as spoken alternative.
 >
 > 🇻🇳 *Module này ghép 2 chủ đề liên quan đến "Hệ thống cách" (Cases). Phần 1 học về 4 cặp động từ chỉ vị trí/hướng đi cực kỳ quan trọng. Phần 2 giới thiệu "Genitiv" — cách thứ 4 (Sở hữu cách).*
 
@@ -58,6 +58,31 @@ We use two different verbs and two different cases for this.
 | **legen** (Action) | legte | hat gelegt |
 | **hängen** (State) | hing | hat gehangen |
 | **hängen** (Action)| hängte | hat gehängt |
+
+### 1.5 📚 Expert Addition: Reflexive Use (sich setzen, sich legen)
+
+In everyday German, **setzen** and **legen** are most commonly used with **sich** (reflexive) when talking about yourself:
+
+* *Ich **setze mich** auf das Sofa.* (I sit down on the sofa. — NOT "Ich sitze mich"!)
+* *Er **legt sich** ins Bett.* (He lies down in bed.)
+* *Bitte **setzen** Sie **sich**!* (Please sit down! — Very common polite phrase.)
+
+> ⚠️ **Common Mistake:** Students often say *Ich sitze mich* (wrong!). Remember:
+> - **setzen** = the ACTION of sitting down → *sich setzen*
+> - **sitzen** = the STATE of already sitting → no reflexive needed
+
+### 1.6 📚 Expert Addition: The "Hidden" 5th Pair — stecken
+
+Experienced teachers often include a 5th pair that the book doesn't highlight but follows the exact same Wo/Wohin logic:
+
+| Wo? (State) + Dativ | Wohin? (Action) + Akkusativ |
+|---|---|
+| **stecken** (to be stuck in) | **stecken** (to put/stick into) |
+
+* *Der Schlüssel **steckt** im Schloss.* (The key is in the lock. — State, Dativ)
+* *Ich **stecke** den Schlüssel ins Schloss.* (I put the key into the lock. — Action, Akkusativ)
+
+> Unlike the other 4 pairs, **stecken** uses the same word for both state and action (like hängen), but its past tense forms are regular in both cases: *steckte / hat gesteckt*.
 
 ---
 

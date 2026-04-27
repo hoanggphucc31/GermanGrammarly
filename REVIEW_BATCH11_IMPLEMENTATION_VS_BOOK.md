@@ -164,3 +164,62 @@ Can sua nho de chat hon:
 1. sua exact chapter titles trong docs/report
 2. doi nhan hoac giam vai tro core cua phan `wegen/trotz/während/statt` trong `M12`
 3. bo sung them proper-name genitive va `von + Dativ` alternative cho `Kap. 63`
+
+---
+
+## Remediation Report (2026-04-27)
+
+### Finding 1 (Medium) — Chapter Titles: ✅ FIXED
+- **`IMPLEMENT_BATCH11_B1_PHASE4_FINAL.md`:** Updated all chapter titles to exact book titles:
+  - M11: *Leben und leben lassen*
+  - M12: *Sitzen/Setzen... / Das Auto seines Vaters*
+  - M13: *Kennen Sie den Herrn? / Der Jugendliche - ein Jugendlicher*
+- **`CURRICULUM-MAP.md`:** Updated Book Titles column for M11-M13.
+- **False verification claim** ("Exact chapter titles from the textbook were used") → Corrected to "Chapter titles follow the book spine with expert-supplemented labels."
+
+### Finding 2 (HIGH) — M12 Genitiv Prepositions misplaced as core: ✅ RE-LABELED
+- **`M12 lesson.md`:** Prepositions section re-numbered from `2.3` to `3 · 📚 Expert Addition` with explicit disclaimer:
+  > "These 4 prepositions are essential for B1, but they are **not the core focus** of Kap. 63 (*Das Auto seines Vaters*), which centers on possessive Genitiv."
+- **`M12 exercises.md`:** Part D re-labeled as "📚 Expert Addition" with note.
+- **`M12 answers.md`:** Part D labeled "(Expert Addition)".
+- **`M12 vocabulary.md`:** Prepositions section labeled "📚 Expert Addition: Genitiv Prepositions".
+- **`M12 flashcards.md`:** Split into "Genitiv — Core (Kap. 63)" and "📚 Genitiv Prepositions (Expert Addition)".
+- **Scope line** updated to distinguish core from expert additions.
+
+### Finding 3 (Medium) — Proper-name Genitiv & von+Dativ: ✅ EXPANDED
+- **`M12 lesson.md`:** Added two new core subsections:
+  - `2.3 Genitiv with Proper Names (Eigennamen)` — Davids Auto, Thomas' Wohnung, apostrophe rule
+  - `2.4 The Spoken Alternative: von + Dativ` — comparison table + exam tip
+- **`M12 exercises.md`:** Added Part C2 (4 exercises: proper names + von+Dativ conversion).
+- **`M12 answers.md`:** Added Part C2 answers.
+- **`M12 vocabulary.md`:** Added "Core Kapitel 63 Patterns" section.
+- **`M12 flashcards.md`:** Added 4 proper-name/von+Dativ flashcards.
+
+### Finding 4 (Low) — Title/Metadata precision: ✅ FIXED
+- **`M11 lesson.md`:** Scope line now uses *Leben und leben lassen* (Kapitel 61).
+- **`M12 lesson.md`:** Scope line now uses exact book titles for Kap. 62 & 63.
+- **`M13 lesson.md`:** Scope line now uses *Kennen Sie den Herrn?* (Kap. 64) + *Der Jugendliche - ein Jugendlicher* (Kap. 65).
+
+### 📚 Expert Enrichment (Beyond Findings)
+
+Additional pedagogical content added from lecturer expertise:
+
+| Module | Expert Enrichment | Value |
+|---|---|---|
+| **M11** | "sich lassen + Infinitiv" as passive alternative (Das lässt sich machen) | Bridges to Passiv module (M09); sounds very native in Sprechen exam |
+| **M12** | Reflexive forms (sich setzen, sich legen) + 5th pair "stecken" | Covers daily-use patterns teachers always teach alongside Kap. 62 |
+| **M13** | N-Deklination Plural behavior + "das Herz" curiosity | Clarifies that the -(e)n pattern is singular-only; removes common confusion |
+
+### Final Status After Remediation
+
+| Thành phần | Trước | Sau |
+|---|---|---|
+| Internal consistency | Tốt | Tốt |
+| M11 vs sách Kap. 61 | Tốt | **Tốt + Expert enrichment** |
+| M12 vs sách Kap. 62-63 | Partial | **Tốt** |
+| M13 vs sách Kap. 64-65 | Tốt | **Tốt + Expert enrichment** |
+| Chapter title precision | Cần sửa | **Đã sửa** |
+| Genitiv preposition labeling | Core (sai) | **Expert Addition (đúng)** |
+| Proper-name Genitiv | Thiếu | **Đã bổ sung** |
+| von+Dativ alternative | Thiếu | **Đã bổ sung** |
+| Wording/claims | Overclaim | **Đã điều chỉnh** |

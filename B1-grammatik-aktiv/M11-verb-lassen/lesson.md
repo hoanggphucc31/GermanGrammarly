@@ -2,7 +2,7 @@
 
 > **CEFR Goal:** Can use the verb "lassen" correctly in its three main communicative functions: allowing something, having something done by someone else (services), and stopping an action.
 >
-> **Scope:** 📘 Book Core: Das Verb "lassen" (Kapitel 61). 📚 Expert Addition: Diagnostic table for the 3 functions and the Perfekt tense trap (lassen vs. gelassen).
+> **Scope:** 📘 Book Core: *Leben und leben lassen* (Kapitel 61). 📚 Expert Addition: Diagnostic table for the 3 functions and the Perfekt tense trap (lassen vs. gelassen).
 >
 > 🇻🇳 *Module này tập trung vào động từ "lassen" — một trong những động từ đa năng và dùng nhiều nhất trong tiếng Đức. Bạn sẽ học cách dùng nó để nói về việc sử dụng dịch vụ (như đi cắt tóc, sửa xe), cho phép ai làm gì, hoặc bảo ai đó dừng lại.*
 
@@ -90,6 +90,22 @@ How do you know what a sentence with *lassen* means? Look at the context!
 | Ich **schneide** mir die Haare. (I cut my own hair.) | Ich **lasse** mir die Haare **schneiden**. |
 | Ich **repariere** mein Auto. (I fix it myself.) | Ich **lasse** mein Auto **reparieren**. |
 | Ich **putze** die Fenster. (I clean them myself.) | Ich **lasse** die Fenster **putzen**. |
+
+### 📚 Expert Addition: "sich lassen" as a Passive Alternative
+
+Experienced German teachers always highlight one more pattern: **sich lassen + Infinitiv** = "can be done". This is an elegant alternative to the Passiv mit Modalverb (learned in M09).
+
+| sich lassen + Infinitiv | Passiv mit Modalverb | 🇻🇳 |
+|---|---|---|
+| *Das **lässt sich machen**.* | Das kann gemacht werden. | Điều đó có thể làm được. |
+| *Das Problem **lässt sich lösen**.* | Das Problem kann gelöst werden. | Vấn đề này có thể giải quyết được. |
+| *Der Text **lässt sich** leicht **übersetzen**.* | Der Text kann leicht übersetzt werden. | Đoạn văn này có thể dịch dễ dàng. |
+| *Das **lässt sich** nicht **ändern**.* | Das kann nicht geändert werden. | Điều đó không thể thay đổi được. |
+
+> 🎯 **When to use which?**
+> - *sich lassen* = more natural, conversational, common in spoken German
+> - *Passiv mit Modalverb* = more formal, common in written German and regulations
+> - Both mean the same thing! But using *sich lassen* in the Sprechen exam sounds very native.
 
 ---
 

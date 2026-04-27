@@ -2,7 +2,7 @@
 
 > **CEFR Goal:** Can correctly decline nouns belonging to the n-declension group, and can use adjectives as nouns (e.g., "der Deutsche", "etwas Neues") with correct endings.
 >
-> **Scope:** 📘 Book Core: N-Deklination (Kap. 64) + Adjektive als Nomen (Kap. 65). 📚 Expert Addition: Comparison table for N-Deklination vs. Adjektive als Nomen.
+> **Scope:** 📘 Book Core: *Kennen Sie den Herrn?* (Kap. 64) + *Der Jugendliche - ein Jugendlicher* (Kap. 65). 📚 Expert Addition: Comparison table for N-Deklination vs. Adjektive als Nomen.
 >
 > 🇻🇳 *Module này khép lại B1 với 2 chủ đề "niche" (chuyên biệt) nhưng rất hay xuất hiện trong bài thi: Những danh từ luôn thêm đuôi -n/-en (N-Deklination), và cách biến một tính từ thành danh từ (như "người Đức", "điều gì đó mới").*
 
@@ -48,7 +48,30 @@ Almost all of them are **Maskulin** and refer to **people or animals**. There ar
 * **der Mensch** (the human) -> den Mensch**en**
 * **der Name** (the name) -> den Namen -> Genitiv: des Name**ns** (Adds an extra 's'!)
 
----
+### 1.3 📚 Expert Addition: What about Plural?
+
+Students often wonder: does N-Deklination also change the Plural?
+
+**Answer: In Plural, N-Deklination nouns behave like normal nouns** — they always end in **-en** across ALL cases (Nominativ, Akkusativ, Dativ, Genitiv).
+
+| Case | Singular | Plural |
+|---|---|---|
+| Nominativ | der Student | die Student**en** |
+| Akkusativ | den Student**en** | die Student**en** |
+| Dativ | dem Student**en** | den Student**en** |
+| Genitiv | des Student**en** | der Student**en** |
+
+> 🎯 **Expert Tip:** The "tricky" part is only in the **Singular** — all cases except Nominativ get -(e)n. In Plural, there's nothing special to worry about!
+
+### 1.4 📚 Expert Addition: The "das Herz" Curiosity
+
+*das Herz* (the heart) is the **only Neutrum word** that follows a partial N-Deklination pattern:
+* Nominativ: das Herz
+* Akkusativ: das Herz
+* Dativ: dem Herz**en**
+* Genitiv: des Herz**ens**
+
+> This is considered an oddity. It's useful to know for reading but unlikely to appear in B1 exam writing tasks.
 
 ## Part 2: Adjektive als Nomen (Kapitel 65)
 
