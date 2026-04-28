@@ -1,18 +1,25 @@
-# B1 Curriculum Map — Grammatik Aktiv + Supplementary Grammar
+# B1 Curriculum Map — Grammatik Aktiv (Kapitel 49-80)
 
-> Module-to-topic mapping for B1 level.
+> Module-to-chapter mapping for B1 level.
 
 ---
 
-## 📚 Supplementary B1 Grammar Modules
+## 📘 Early B1 Extension — Remapped Book Chapters (Kapitel 68-72)
 
-These modules cover **supplementary B1 grammar topics** that are essential for Goethe B1 but not dedicated chapters in this specific textbook edition.
+These modules were originally created as supplementary content but have been **remapped** to their corresponding textbook chapters.
+
+| Module | Kapitel | Book Title | Grammar Focus | Status |
+|---|---|---|---|---|
+| **M01** | 70-71 | *Das ist der Mann, der... / Wie heißt das Ding, mit dem man...?* | Relativsätze 1 & 2 | ✅ |
+| **M02** | 68-69 | *Es ist schön, zu feiern / Ich will singen, lass mich singen!* | Infinitiv mit zu & Infinitiv ohne zu | ✅ |
+| **M03** | 72 | *Ich gehe, wenn... / Ich ging, als...* | Temporale Nebensätze (als & wenn) | ✅ |
+
+## 📚 Supplementary B1 Grammar (Exam-Oriented)
+
+This module covers content **not mapped to a specific textbook chapter**, added for Goethe B1 exam preparation.
 
 | Module | Topic | Status |
 |---|---|---|
-| **M01** | Relativsätze (Nom/Akk/Dat + Präpositionen) | ✅ |
-| **M02** | Infinitiv mit zu & ohne zu (incl. um...zu) | ✅ |
-| **M03** | Temporale Nebensätze (als vs wenn) | ✅ |
 | **M04** | Modalpartikeln & Zeitadverbien | ✅ |
 
 ---
@@ -45,7 +52,16 @@ These modules follow the B1 spine of *Grammatik Aktiv A1-B1* with supplementary 
 | **M12** | 62-63 | *Sitzen/Setzen, stehen/stellen, liegen/legen und hängen / Das Auto seines Vaters* | Positionsverben & Der Genitiv | ✅ |
 | **M13** | 64-65 | *Kennen Sie den Herrn? / Der Jugendliche - ein Jugendlicher* | N-Deklination & Adjektive als Nomen | ✅ |
 
-🎉 **B1 Curriculum is now 100% Complete! (Kapitel 49-65)** 🎉
+## 📘 Phase 5: Komplexe Sätze & Adjektive (Kapitel 66-80)
+
+| Module | Kapitel | Book Title | Grammar Focus | Status |
+|---|---|---|---|---|
+| **M14** | 66 | *Alles Gute!* | Adjektive als neutrale Nomen | ✅ |
+| **M15** | 67 | *Wissen Sie, ob ...?* | Indirekte Fragen | ✅ |
+| **M16** | 73 | *Während, bevor, nachdem und seit* | Temporale Nebensätze 2 | ✅ |
+| **M17** | 74-76 | *Um...zu und damit / Entweder...oder / Je größer, desto besser!* | Finalsätze, Doppelkonnektoren, Vergleichssätze | ✅ |
+| **M18** | 77-78 | *Während, wegen, trotz... / Innerhalb, außerhalb...* | Präpositionen mit Genitiv & Temporale Präpositionen 2 | ✅ |
+| **M19** | 79-80 | *Deutsches Bier / Singende Vögel und fliegende Fische* | Adjektivdeklination (Nullartikel) & Partizip I als Adjektiv | ✅ |
 
 ---
 
@@ -66,6 +82,12 @@ These modules follow the B1 spine of *Grammatik Aktiv A1-B1* with supplementary 
 | M11 | Express using a service, allowing an action, or telling someone to stop |
 | M12 | Describe fixed locations and movements accurately, express possession formally |
 | M13 | Decline advanced person-nouns correctly and use adjectives as nouns (the German, something new) |
+| M14 | Use adjectives as neuter nouns after indefinite pronouns (etwas Neues, alles Gute) |
+| M15 | Convert direct questions into polite indirect questions using ob or W-words |
+| M16 | Describe sequence and duration of events (während, bevor, nachdem, seit) |
+| M17 | Express purpose (damit), use double connectors, make proportional comparisons (je...desto) |
+| M18 | Use Genitiv prepositions (wegen, trotz) and expanded temporal prepositions in formal writing |
+| M19 | Decline adjectives without articles and use Partizip I as adjectives (der singende Vogel) |
 
 ---
 
@@ -86,9 +108,15 @@ These modules follow the B1 spine of *Grammatik Aktiv A1-B1* with supplementary 
 | **M11** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
 | **M12** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
 | **M13** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M14** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M15** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M16** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M17** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M18** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
+| **M19** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | **Complete** |
 
 ---
 
-**🏆 B1 Complete — 13/13 modules, all files delivered. Kapitel 49-65 + Supplementary fully covered.**
+**🏆 B1 Curriculum Complete — 19/19 modules, all files delivered. Kapitel 49-80 fully covered.**
 
 **← Previous Level:** [A2 Curriculum Map](../A2-grammatik-aktiv/CURRICULUM-MAP.md) | [A1 Curriculum Map](../A1-grammatik-aktiv/CURRICULUM-MAP.md)

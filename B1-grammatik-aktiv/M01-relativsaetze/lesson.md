@@ -2,9 +2,7 @@
 
 > **CEFR Goal:** Can combine sentences using relative clauses to describe people, places, and things in detail.
 >
-> **Level:** B1 — Supplementary Grammar (not directly mapped to a specific Grammatik Aktiv chapter)
->
-> **Topic Source:** Relativsätze are a core B1 grammar topic covered in most B1 curricula. The *Grammatik Aktiv* book does not dedicate a specific chapter to Relativsätze within its A1-B1 edition; this content is typically introduced at B1 level in classroom instruction.
+> **Scope:** 📘 Book Core: *Das ist der Mann, der...* (Kap. 70) + *Wie heißt das Ding...* (Kap. 71).
 >
 > 🇻🇳 *Module này dạy mệnh đề quan hệ — cách ghép 2 câu thành 1 bằng đại từ quan hệ (der/die/das/den/dem). Đây là bước nhảy lớn nhất từ A2 lên B1!*
 

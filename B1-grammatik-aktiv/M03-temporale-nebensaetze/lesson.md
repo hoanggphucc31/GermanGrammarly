@@ -2,9 +2,7 @@
 
 > **CEFR Goal:** Can use `als` and `wenn` correctly to talk about past events, habits, and conditions.
 >
-> **Level:** B1 — Supplementary Grammar (not directly mapped to a specific Grammatik Aktiv chapter)
->
-> **Topic Source:** Temporal clauses with als/wenn are a core B1 grammar topic. The *Grammatik Aktiv* book introduces *wenn* at A2 level (Kap. 42), and als/wenn distinction is expanded at B1 in classroom instruction.
+> **Scope:** 📘 Book Core: *Ich gehe, wenn ... / Ich ging, als ...* (Kap. 72).
 >
 > 🇻🇳 *Module này dạy phân biệt "als" và "wenn" — cả hai đều có nghĩa "khi", nhưng dùng trong ngữ cảnh hoàn toàn khác nhau. Đây là một trong những điểm khó nhất cho người học tiếng Đức!*
 

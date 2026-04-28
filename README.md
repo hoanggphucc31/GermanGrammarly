@@ -4,15 +4,15 @@
 
 ## Overview
 
-This repository is a **content-first German learning project**, not a software project. It contains a fully structured, bilingual (English + Vietnamese) grammar curriculum covering **all 65 chapters** of the *Grammatik aktiv A1-B1* textbook, organized into three progressive levels.
+This repository is a **content-first German learning project**, not a software project. It contains a fully structured, bilingual (English + Vietnamese) grammar curriculum covering **all 80 chapters** of the *Grammatik aktiv A1-B1* textbook, organized into three progressive levels.
 
 | Level | Chapters | Modules | Status |
 |---|---|---|---|
 | **A1** (Beginner) | Kap. 1-22 | 12 modules | ✅ 100% Complete |
 | **A2** (Elementary) | Kap. 23-48 | 15 modules | ✅ 100% Complete |
-| **B1** (Intermediate) | Kap. 49-65 + Supplementary | 13 modules | ✅ 100% Complete |
+| **B1** (Intermediate) | Kap. 49-80 | 19 modules | ✅ 100% Complete |
 
-**Total: 40 modules · 240+ files · Kapitel 1-65 fully covered** 🏆
+**Total: 46 modules · 270+ files · Kapitel 1-80 fully covered** 🏆
 
 ## Who This Repository Is For
 
@@ -108,6 +108,7 @@ This is the primary curriculum, following the exact chapter progression of *Gram
 | Phase 1 | M05-M07 | Präteritum erweitert, Plusquamperfekt, Reflexivpronomen (Dat), Trennbar/Untrennbar, Verben mit Präpositionen |
 | Phase 2 & 3 | M08-M10 | Konjunktiv II, Passiv (Vorgangspassiv), Futur I & werden |
 | Phase 4 | M11-M13 | Das Verb "lassen", Positionsverben & Genitiv, N-Deklination & Adjektive als Nomen |
+| Phase 5 | M14-M15 | Adjektive als neutrale Nomen, Indirekte Fragen (More in progress) |
 
 ---
 
@@ -177,11 +178,11 @@ This makes the project especially suitable for Vietnamese-speaking learners who 
 
 ## Current Status
 
-🏆 **The entire *Grammatik aktiv A1-B1* textbook (Kapitel 1-65) has been fully converted into this digital curriculum format.**
+🏆 **The entire *Grammatik aktiv A1-B1* textbook (Kapitel 1-80) has been fully converted into this digital curriculum format.**
 
 - ✅ A1: Kapitel 1-22 (12 modules)
 - ✅ A2: Kapitel 23-48 (15 modules)
-- ✅ B1: Kapitel 49-65 + Supplementary (13 modules)
+- ✅ B1: Kapitel 49-80 (19 modules)
 
 ---
 

@@ -48,6 +48,19 @@ These modules align directly with Kapitel 61-65 of the textbook.
 | 11 | **M12** | Positionsverben & Genitiv | Can distinguish location vs movement, use Genitiv |
 | 12 | **M13** | N-Deklination & Adjektive | Can use advanced nouns and adjective-nouns correctly |
 
+## 📘 Phase 5: Komplexe Sätze & Adjektive (Weeks 13-14)
+
+These modules align with Kapitel 66-67 of the extended textbook.
+
+| Week | Module | Focus | Target After |
+|---|---|---|---|
+| 13 | **M14** | Adjektive als neutrale Nomen | Can express abstract concepts (alles Gute, etwas Neues) |
+| 14 | **M15** | Indirekte Fragen | Can ask polite questions embedded in sentences |
+| 15 | **M16** | Temporale Nebensätze 2 | Can sequence events using während, bevor, nachdem, seit |
+| 16 | **M17** | Finalsätze, Doppelkonnektoren, Vergleichssätze | Can express purpose (damit), use double connectors, je...desto |
+| 17 | **M18** | Präpositionen 2 | Can use Genitiv prepositions and expanded temporal prepositions |
+| 18 | **M19** | Adjektive & Partizipien | Can use Nullartikel adjective endings and Partizip I as adjectives |
+
 ---
 
 ## Study Tips
@@ -63,8 +76,8 @@ These modules align directly with Kapitel 61-65 of the textbook.
 
 ## Quick Start Links
 
-### Supplementary Grammar
-- [M01](M01-relativsaetze/lesson.md) → [M02](M02-infinitiv-mit-ohne-zu/lesson.md) → [M03](M03-temporale-nebensaetze/lesson.md) → [M04](M04-modalpartikeln-zeitadverbien/lesson.md)
+### Early B1 Extension (Remapped Chapters)
+- [M01](M01-relativsaetze/lesson.md) (Kap. 70-71) → [M02](M02-infinitiv-mit-ohne-zu/lesson.md) (Kap. 68-69) → [M03](M03-temporale-nebensaetze/lesson.md) (Kap. 72) → [M04](M04-modalpartikeln-zeitadverbien/lesson.md)
 
 ### Phase 1
 - [M05](M05-praeteritum-plusquamperfekt/lesson.md) → [M06](M06-reflexiv-dativ-trennbar/lesson.md) → [M07](M07-verb-praeposition-pronominal/lesson.md)
@@ -75,8 +88,11 @@ These modules align directly with Kapitel 61-65 of the textbook.
 ### Phase 4
 - [M11](M11-verb-lassen/lesson.md) → [M12](M12-positionsverben-genitiv/lesson.md) → [M13](M13-n-deklination-adjektive-nomen/lesson.md)
 
+### Phase 5
+- [M14](M14-adjektive-neutrale-nomen/lesson.md) → [M15](M15-indirekte-fragen/lesson.md) → [M16](M16-temporale-nebensaetze-2/lesson.md) → [M17](M17-komplexe-nebensaetze/lesson.md) → [M18](M18-praepositionen-2/lesson.md) → [M19](M19-adjektive-partizipien/lesson.md)
+
 ---
 
-**🏆 B1 Complete — Kapitel 49-65 + Supplementary fully covered.**
+**🏆 B1 Curriculum Complete — Kapitel 49-80 fully covered (19 modules).**
 
 **← Previous Level:** [A2 Study Roadmap](../A2-grammatik-aktiv/STUDY-ROADMAP.md) | [A1 Study Roadmap](../A1-grammatik-aktiv/STUDY-ROADMAP.md)

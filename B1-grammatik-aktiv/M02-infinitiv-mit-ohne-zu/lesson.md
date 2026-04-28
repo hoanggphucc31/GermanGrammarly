@@ -2,9 +2,7 @@
 
 > **CEFR Goal:** Can use infinitive constructions with and without `zu` to express purposes, intentions, and perceptions.
 >
-> **Level:** B1 — Supplementary Grammar (not directly mapped to a specific Grammatik Aktiv chapter)
->
-> **Topic Source:** Infinitiv mit/ohne zu is a core B1 grammar topic. The *Grammatik Aktiv* book covers related verb structures across multiple chapters, but this specific topic is taught as a dedicated B1 unit in standard German curricula.
+> **Scope:** 📘 Book Core: *Es ist schön, zu feiern* (Kap. 68) + *Ich will singen, lass mich singen!* (Kap. 69).
 >
 > 🇻🇳 *Module này dạy cấu trúc Infinitiv: khi nào thêm "zu" trước động từ nguyên thể, khi nào không. Đặc biệt quan trọng là cấu trúc "um...zu" (để mà...) — cực kỳ phổ biến trong thi B1!*
 

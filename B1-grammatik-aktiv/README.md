@@ -1,26 +1,31 @@
 # B1 Grammatik Aktiv — German Grammar Curriculum
 
 > **Level:** B1 (Intermediate)
-> **Textbook:** Grammatik Aktiv A1-B1 (Cornelsen) + Supplementary B1 Grammar
+> **Textbook:** Grammatik Aktiv A1-B1 (Cornelsen), Kapitel 49-80
 > **Format:** Bilingual English-Vietnamese 🇬🇧🇻🇳
 
 ---
 
 ## Overview
 
-This directory contains B1-level grammar modules. It is divided into two parts:
-1. **Supplementary B1 Grammar:** Core B1 topics essential for the Goethe exam that do not have dedicated chapters in this specific textbook edition.
-2. **Book-Spine Modules:** Modules that follow the B1 chapters of *Grammatik Aktiv A1-B1* (starting from Kapitel 49), with supplementary expert additions.
+This directory contains B1-level grammar modules covering **Kapitel 49-80** of *Grammatik Aktiv A1-B1*.
+
+Modules M01-M03 were originally created as supplementary content but have since been **remapped** to their corresponding textbook chapters (Kap. 68-72). Only M04 (Modalpartikeln) remains as a truly supplementary, exam-oriented module.
 
 ## Current Phases
 
-### 📚 Supplementary B1 Grammar — Core Structures
+### 📘 Early B1 Extension — Remapped Book Chapters (Kapitel 68-72)
+
+| Module | Kapitel | Topic | Status |
+|---|---|---|---|
+| [M01](M01-relativsaetze/) | 70-71 | Relativsätze 1 & 2 (Nom/Akk/Dat + Präpositionen) | ✅ |
+| [M02](M02-infinitiv-mit-ohne-zu/) | 68-69 | Infinitiv mit zu & Infinitiv ohne zu | ✅ |
+| [M03](M03-temporale-nebensaetze/) | 72 | Temporale Nebensätze (als & wenn) | ✅ |
+
+### 📚 Supplementary B1 Grammar (Exam-Oriented)
 
 | Module | Topic | Status |
 |---|---|---|
-| [M01](M01-relativsaetze/) | Relativsätze (Nom/Akk/Dat + Präpositionen) | ✅ |
-| [M02](M02-infinitiv-mit-ohne-zu/) | Infinitiv mit zu & ohne zu | ✅ |
-| [M03](M03-temporale-nebensaetze/) | Temporale Nebensätze (als & wenn) | ✅ |
 | [M04](M04-modalpartikeln-zeitadverbien/) | Modalpartikeln & Zeitadverbien | ✅ |
 
 ### 📘 Phase 1: Advanced Verb Structures (Kapitel 49-54)
@@ -47,7 +52,17 @@ This directory contains B1-level grammar modules. It is divided into two parts:
 | [M12](M12-positionsverben-genitiv/) | 62-63 | Positionsverben & Der Genitiv | ✅ |
 | [M13](M13-n-deklination-adjektive-nomen/) | 64-65 | N-Deklination & Adjektive als Nomen | ✅ |
 
-🎉 **B1 Curriculum is now 100% Complete!** 🎉
+### 📘 Phase 5: Komplexe Sätze & Adjektive (Kapitel 66-80)
+
+| Module | Kapitel | Topic | Status |
+|---|---|---|---|
+| [M14](M14-adjektive-neutrale-nomen/) | 66 | Adjektive als neutrale Nomen | ✅ |
+| [M15](M15-indirekte-fragen/) | 67 | Indirekte Fragen | ✅ |
+| [M16](M16-temporale-nebensaetze-2/) | 73 | Temporale Nebensätze 2 (während, bevor, nachdem, seit) | ✅ |
+| [M17](M17-komplexe-nebensaetze/) | 74-76 | Finalsätze, Doppelkonnektoren, Vergleichssätze | ✅ |
+| [M18](M18-praepositionen-2/) | 77-78 | Präpositionen mit Genitiv & Temporale Präpositionen 2 | ✅ |
+| [M19](M19-adjektive-partizipien/) | 79-80 | Adjektivdeklination (Nullartikel) & Partizip I als Adjektiv | ✅ |
+
 
 ---
 
@@ -89,4 +104,4 @@ Each module contains 6 files:
 
 ---
 
-**🏆 B1 Curriculum Complete — Kapitel 49-65 + Supplementary fully covered (13 modules, 78 files).**
+**🏆 B1 Curriculum Complete — Kapitel 49-80 fully covered (19 modules, 114 files).**
