@@ -125,6 +125,15 @@ Every module across all levels follows a consistent 6-file structure:
 | `flashcards.md` | Front/back cards for memorization |
 | `exam-tips.md` | Goethe exam strategies per module |
 
+## VS Code A1 Autocomplete
+
+This workspace now includes A1 German snippets in `.vscode/german-a1.code-snippets` for Markdown editing.
+
+- Type a noun lemma like `apfel`, `wohnung`, `freundin`, `buch` to insert `article + singular + plural`.
+- Type a verb lemma like `sein`, `haben`, `sprechen`, `lesen`, `aufstehen` to insert the full present-tense conjugation by subject.
+- For umlauts, keep using the existing shortcuts: `ae:` -> `ä`, `oe:` -> `ö`, `ue:` -> `ü`, `ss:` -> `ß`.
+- Snippet suggestions are pinned to the top and quick suggestions are enabled in Markdown files.
+
 ### How To Study Each Module
 
 1. Read `lesson.md`

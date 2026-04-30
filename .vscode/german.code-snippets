@@ -1,30 +1,44 @@
 {
   "umlaut ä": {
+    "scope": "markdown",
     "prefix": ["a:", "ae:"],
-    "body": "ä"
+    "body": "ä",
+    "description": "Insert ä"
   },
   "umlaut ö": {
+    "scope": "markdown",
     "prefix": ["o:", "oe:"],
-    "body": "ö"
+    "body": "ö",
+    "description": "Insert ö"
   },
   "umlaut ü": {
+    "scope": "markdown",
     "prefix": ["u:", "ue:"],
-    "body": "ü"
+    "body": "ü",
+    "description": "Insert ü"
   },
   "eszett ß": {
+    "scope": "markdown",
     "prefix": ["ss:", "sz:"],
-    "body": "ß"
+    "body": "ß",
+    "description": "Insert ß"
   },
   "umlaut Ä": {
+    "scope": "markdown",
     "prefix": ["A:", "Ae:"],
-    "body": "Ä"
+    "body": "Ä",
+    "description": "Insert Ä"
   },
   "umlaut Ö": {
+    "scope": "markdown",
     "prefix": ["O:", "Oe:"],
-    "body": "Ö"
+    "body": "Ö",
+    "description": "Insert Ö"
   },
   "umlaut Ü": {
+    "scope": "markdown",
     "prefix": ["U:", "Ue:"],
-    "body": "Ü"
+    "body": "Ü",
+    "description": "Insert Ü"
   }
 }
