@@ -328,65 +328,66 @@ Sie nehmen Kaffee.
 
 ## Part H: *haben* + Possessivartikel — 10 items
 
-1. Ich habe ___ Bruder. (mein)
-2. Hast du ___ Handy? (dein)
-3. Er hat ___ Schlüssel. (sein)
-4. Sie (she) hat ___ Tasche. (ihr)
-5. Wir haben ___ Wohnung. (unser)
-6. Habt ihr ___ Bücher? (euer)
-7. Haben Sie (formal) ___ Termin? (Ihr)
-8. Ich habe ___ Eltern in Vietnam. (mein)
-9. Du hast ___ Freundin. (dein)
-10. Sie (they) haben ___ Auto. (ihr)
+1. Ich habe meinen Bruder. (mein)
+2. Hast du dein Handy? (dein)
+3. Er hat seinen Schlüssel. (sein)
+4. Sie (she) hat ihre Tasche. (ihr)
+5. Wir haben unsere Wohnung. (unser)
+6. Habt ihr eure Bücher? (euer)
+7. Haben Sie (formal) Ihren Termin? (Ihr)
+8. Ich habe meine Eltern in Vietnam. (mein)
+9. Du hast deine Freundin. (dein)
+10. Sie (they) haben ihr Auto. (ihr)
 
 ---
 
 ## Part I: *haben* + Akkusativ — 8 items
 
-1. Ich habe ___ Hund. (ein)
-2. Ich habe ___ Zeit. (keine)
-3. Hast du ___ Schwester? (eine)
-4. Er hat ___ Auto. (kein)
-5. Wir haben ___ Problem. (ein)
-6. Ihr habt ___ Kinder. (keine)
-7. Sie (formal) haben ___ Frage. (eine)
-8. Sie (they) haben ___ Haus. (kein)
+1. Ich habe einen Hund. (ein)
+2. Ich habe keine Zeit. (keine)
+3. Hast du eine Schwester? (eine)
+4. Er hat kein Auto. (kein)
+5. Wir haben ein Problem. (ein)
+6. Ihr habt keine  Kinder. (keine)
+7. Sie (formal) haben eine Frage. (eine)
+8. Sie (they) haben kein Haus. (kein)
 
 ---
 
 ## Part J: Vokalwechsel — Fill in the Correct Form — 10 items
 
-1. Du ___ Brot. (essen)
-2. Er ___ sehr gut. (sprechen)
-3. Sie (she) ___ das Buch. (lesen)
-4. Du ___ nach Hause. (fahren)
-5. Er ___ um 7 Uhr auf. (aufstehen)
-6. Du ___ mir? (helfen)
-7. Er ___ die U-Bahn. (nehmen)
-8. Sie (she) ___ gut Deutsch. (sprechen)
-9. Du ___ heute lange. (schlafen)
-10. Er ___ sehr wenig. (essen)
+1. Du isst Brot. (essen)
+2. Er spricht sehr gut. (sprechen)
+3. Sie (she) liese das Buch. (lesen)
+4. Du fährst nach Hause. (fahren)
+5. Er steht um 7 Uhr auf. (aufstehen)
+6. Du hilfst mir? (helfen)
+7. Er nimmt die U-Bahn. (nehmen)
+8. Sie (she) spricht gut Deutsch. (sprechen)
+9. Du schläfst heute lange. (schlafen)
+10. Er isst sehr wenig. (essen)
 
 ---
 
 ## Part K: Error Correction — 6 items
 
-1. Ich habe mein Tasche.
-2. Hast du deine Bruder?
-3. Er hat sein Freundin.
-4. Wir haben unsere Auto.
-5. Habt ihr euer Mutter hier?
-6. Haben Sie Ihr Termin heute?
+1. Ich habe mein Tasche.   mein -> meine 
+2. Hast du deine Bruder?   deine -> deinen 
+3. Er hat sein Freundin.   sein  -> seine 
+4. Wir haben unsere Auto.    unsere -> unser
+5. Habt ihr euer Mutter hier?  euer -> eure
+6. Haben Sie Ihr Termin heute?   Ihr -> Ihren
 
 ---
 
 ## Part L: Mixed Dialogue — Fill in — 8 items
 
-> **A:** Guten Tag! Haben (1) Sie ___ Karte? (eine)
-> **B:** Ja, ich habe (2) ___. (eine)
-> **A:** Und haben (3) Sie ___ Ausweis? (Ihr)
-> **B:** Ja, hier ist (4) ___ Ausweis. (mein)
+> **A:** Guten Tag! Haben (1) Sie eine Karte? (eine)
+> **B:** Ja, ich habe (2) eine. (eine)
+> **A:** Und haben (3) Sie Ihren Ausweis? (Ihr)
+> **B:** Ja, hier ist (4) mein Ausweis. (mein)
 > **A:** Trinken (5) Sie Kaffee?
-> **B:** Nein, ich trinke (6) ___ Tee. (keinen)
-> **A:** Und isst (7) du ___ Sandwich?
-> **B:** Ja, ich esse (8) ___. (eins)
+> **B:** Nein, ich trinke (6) keinen Tee. (keinen)
+> **A:** Und isst (7) du ein Sandwich?
+> **B:** Ja, ich esse (8) ein. (eins)
+meinkeinen
