@@ -185,39 +185,110 @@
 1. sein: ich / du / er-sie-es / wir / ihr / sie-Sie
 Ich bin Student
 Du bist 25 Jahre alt
-Er ist der Azrt
+Er ist der Arzt
 Sie ist die Lehrerin
 Es ist alt
 Wir sind Studenten
-Ihr seid freunden
-Sie sind mittewohner
+Ihr seid Freunde
+Sie sind Mitbewohner
 
 
 
 2. haben: ich / du / er-sie-es / wir / ihr / sie-Sie
+Ich habe einen Tisch
+Du hast einen Stuhl
+Er hat Hunger
+Sie hat eine Briefmarke
+Es hat einen Computer
+Wir haben Bücher
+Ihr habt ein Auto
+Sie haben einen Schreibtisch
+Sie haben ein Dokument
+
 3. möchten: ich / du / er-sie-es / wir / ihr / sie-Sie
+Ich möchte Cola 
+Du möchtest einen Kaffee.
+Er möchte Tee 
+Sie möchte ein Brot 
+Es möchte ein Eis
+Wir möchten Wasser
+Ihr möchtet Saft
+Sie möchten Bier. 
+
 4. wissen: ich / du / er-sie-es / wir / ihr / sie-Sie
+Ich weiß die Antwort.
+Du weißt das.
+Er weiß es.
+Sie weiß das.
+Es weiß das.
+Wir wissen alles.
+Ihr wisst das nicht.
+Sie wissen Bescheid.
+
+
 5. essen: ich / du / er-sie-es / wir / ihr / sie-Sie
+Ich esse Brot
+Du isst einen Apfel
+Er isst Reis
+Sie isst Salat
+Es isst Fleisch
+Wir essen zusammen
+Ihr esst viel.
+Sie essen Fisch.
+
+
+
 6. sprechen: ich / du / er-sie-es / wir / ihr / sie-Sie
+Ich spreche mit Mia.
+Du sprichst mit dem Lehrer. 
+Er spricht mit seinem Freund.
+Sie spricht mit ihrer Freundin.
+Es spricht mit dem Kind. 
+Wir sprechen mit der Familie.
+Ihr sprecht mit den Freundinnen
+Sie sprechen mit dem Arzt.
+Sie sprechen mit den Kollegen
+
+
 7. fahren: ich / du / er-sie-es / wir / ihr / sie-Sie
+Ich fahre nach Hause
+Du fährst zur Arbeit.
+Er fährt mit dem Auto.
+Sie fährt mit dem Bus.
+Es fährt sehr langsam.
+Wir fahren nach Berlin.
+Ihr fahrt zusammen.
+Sie fahren nach Hanoi.
+Sie fahren mit dem Taxi.
+
+
 8. nehmen: ich / du / er-sie-es / wir / ihr / sie-Sie
+Ich nehme Wasser.
+Du nimmst den Bus.
+Er nimmt das Buch.
+Sie nimmt eine Cola.
+Es nimmt Zeit.
+Wir nehmen ein Taxi.
+Ihr nehmt Brot.
+Sie nehmen viel.
+Sie nehmen Kaffee. 
 
 ---
 
 ## Part Q: Choose the Correct Form by Pronoun — 12 items
 
-1. Ich ___ müde. (`bin` / `bist` / `ist`)
-2. Du ___ ein Auto. (`habe` / `hast` / `hat`)
-3. Er ___ die Antwort. (`weiß` / `weißt` / `wissen`)
-4. Wir ___ eine Pizza. (`möchte` / `möchten` / `möchtet`)
-5. Ihr ___ hier. (`seid` / `sind` / `ist`)
-6. Sie (formal) ___ Kaffee? (`möchtest` / `möchten` / `möchtet`)
-7. Du ___ Brot. (`esse` / `isst` / `esst`)
-8. Er ___ sehr gut Deutsch. (`sprichst` / `spricht` / `sprechen`)
-9. Du ___ nach Berlin. (`fährst` / `fahrt` / `fahre`)
-10. Sie (she) ___ die Zeitung. (`liest` / `lese` / `lesen`)
-11. Du ___ die U-Bahn. (`nimmst` / `nehmt` / `nimmt`)
-12. Er ___ mir. (`hilfst` / `hilft` / `helfen`)
+1. Ich bin müde. (`bin` / `bist` / `ist`)
+2. Du hast ein Auto. (`habe` / `hast` / `hat`)
+3. Er weiß die Antwort. (`weiß` / `weißt` / `wissen`)
+4. Wir möchten eine Pizza. (`möchte` / `möchten` / `möchtet`)
+5. Ihr seid hier. (`seid` / `sind` / `ist`)
+6. Sie (formal) möchten Kaffee? (`möchtest` / `möchten` / `möchtet`)
+7. Du isst Brot. (`esse` / `isst` / `esst`)
+8. Er spricht sehr gut Deutsch. (`sprichst` / `spricht` / `sprechen`)
+9. Du fährst nach Berlin. (`fährst` / `fahrt` / `fahre`)
+10. Sie (she) liest die Zeitung. (`liest` / `lese` / `lesen`)
+11. Du nimmst die U-Bahn. (`nimmst` / `nehmt` / `nimmt`)
+12. Er hilft mir. (`hilfst` / `hilft` / `helfen`)
 
 ---
 
